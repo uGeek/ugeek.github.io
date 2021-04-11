@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>uGeek Podcast</title>
+    <link>https://ugeek.github.io</link>
+    <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
+    <image>
+       <url>https://ugeek.github.io/ugeek.png</url>
+       <title>uGeek Podcast</title>
+       <link>https://ugeek.github.io</link>
+    </image>
+    <language>es</language>
+    <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Notas y Documentos en la nube para compartir, trabajar en equipo,...</title>
+    <link>https://ugeek.github.io/post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Notas y Documentos en la nube para compartir, trabajar en equipo,..."&gt;
+&lt;br&gt;&lt;p&gt;Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html&gt;Notas y Documentos en la nube para compartir, trabajar en equipo,...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 11 Mar 2019 5:45 +0100</pubDate>
+    <category>emacs</category>
+    <category>podcast</category>
+    <category>emacs</category>
+    <category>orgmode</category>
+    <guid>https://ugeek.github.io/post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid>
+   </item>
+   <item>
+    <title>GNU-Linux, Emacs,.. ¿porqué?</title>
+    <link>https://ugeek.github.io/post/2018-11-21-gnu-linux-emacs-porque.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="GNU-Linux, Emacs,.. ¿porqué?"&gt;
+&lt;br&gt;&lt;p&gt;GNU-Linux, Emacs,.. ¿porqué?... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2018-11-21-gnu-linux-emacs-porque.html&gt;GNU-Linux, Emacs,.. ¿porqué?&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Wed, 21 Nov 2018 21:53 +0100</pubDate>
+    <category>emacs</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/post/2018-11-21-gnu-linux-emacs-porque.html</guid>
+   </item>
+   <item>
+    <title>Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</title>
+    <link>https://ugeek.github.io/post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3"&gt;
+&lt;br&gt;&lt;p&gt;Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html&gt;Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 29 Oct 2018 20:06 +0100</pubDate>
+    <category>syncthing</category>
+    <category>podcast</category>
+    <category>notas</category>
+    <category>emacs</category>
+    <guid>https://ugeek.github.io/post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</guid>
+   </item>
+   <item>
+    <title>Como gestiono Mis Notas Markdown</title>
+    <link>https://ugeek.github.io/post/2018-10-14-como-gestiono-mis-notas-markdown.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como gestiono Mis Notas Markdown"&gt;
+&lt;br&gt;&lt;p&gt;Como gestiono Mis Notas Markdown... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2018-10-14-como-gestiono-mis-notas-markdown.html&gt;Como gestiono Mis Notas Markdown&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sun, 14 Oct 2018 23:34 +0100</pubDate>
+    <category>notas</category>
+    <category>podcast</category>
+    <category>markdown</category>
+    <category>emacs</category>
+    <guid>https://ugeek.github.io/post/2018-10-14-como-gestiono-mis-notas-markdown.html</guid>
+   </item>
+   <item>
+    <title>Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.</title>
+    <link>https://ugeek.github.io/post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil."&gt;
+&lt;br&gt;&lt;p&gt;Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html&gt;Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 09 Oct 2018 23:26 +0100</pubDate>
+    <category>emacs</category>
+    <category>podcast</category>
+    <category>emacs</category>
+    <category>orgmode</category>
+    <guid>https://ugeek.github.io/post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</guid>
+   </item>
+   <item>
+    <title>El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….</title>
+    <link>https://ugeek.github.io/post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo…."&gt;
+&lt;br&gt;&lt;p&gt;El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html&gt;El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Wed, 19 Sep 2018 18:19 +0100</pubDate>
+    <category>notas</category>
+    <category>podcast</category>
+    <category>emacs</category>
+    <category>orgmode</category>
+    <guid>https://ugeek.github.io/post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</guid>
+   </item>
+   <item>
+    <title>Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...</title>
+    <link>https://ugeek.github.io/post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs..."&gt;
+&lt;br&gt;&lt;p&gt;Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html&gt;Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Wed, 12 Jul 2017 22:00 +0100</pubDate>
+    <category>notas</category>
+    <category>podcast</category>
+    <category>android</category>
+    <category>emacs</category>
+    <guid>https://ugeek.github.io/post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</guid>
+   </item>
+   <item>
+    <title>Metodo mas completo para recopilar notas, org Mode</title>
+    <link>https://ugeek.github.io/post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Metodo mas completo para recopilar notas, org Mode"&gt;
+&lt;br&gt;&lt;p&gt;Este es el método definitivo, hasta ahora, para tomar mis notas con un sistema jerárquico de  notas y todas dentro en un único txt, renombrado como .org... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html&gt;Metodo mas completo para recopilar notas, org Mode&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Wed, 08 Mar 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>podcast</category>
+    <category>orgmode</category>
+    <category>emacs</category>
+    <guid>https://ugeek.github.io/post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</guid>
+   </item>
+  </channel>
+</rss>
