@@ -1,3 +1,4 @@
+var tipuesearch = {pages: [
 
 {
             'title': 'Nekogram X. Alternativa Open Source a Telegram oficial,',
@@ -2522,3 +2523,4 @@
             'url': 'https://ugeek.github.io/post/2017-01-26-hola-mundo.html' 
 },
 
+]};
