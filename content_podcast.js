@@ -54,10 +54,10 @@ var tipuesearch = {pages: [
             'url': 'https://ugeek.github.io/post/2021-02-19-tsacdop-un-nuevo-podcatchers-open-source.html' 
 },
 {
-            'title': 'Nginx Proxy Manager. Certificados Let's Encrypt para seres humanos,',
-            'text': 'Hablando con Adán, @adanton en Telegram, me comentó que utilizaba Nginx Proxy Manager en lugar de Traefik para generar sus certificados Let's Encrypt. No me pude resistir a probarlo, os explico mi experiencia.,', 
+            'title': 'Nginx Proxy Manager. Certificados Let s Encrypt para seres humanos,',
+            'text': 'Hablando con Adán, @adanton en Telegram, me comentó que utilizaba Nginx Proxy Manager en lugar de Traefik para generar sus certificados Let s Encrypt. No me pude resistir a probarlo, os explico mi experiencia.,', 
             'tags': 'terminal,bash,,,,', 
-            'url': 'https://ugeek.github.io/post/2021-02-17-nginx-proxy-manager-certificados-let's-encrypt-para-seres-humanos.html' 
+            'url': 'https://ugeek.github.io/post/2021-02-17-nginx-proxy-manager-certificados-let s-encrypt-para-seres-humanos.html' 
 },
 {
             'title': 'Actualización del Servidor WebDAV, Zerotier...,',
