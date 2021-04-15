@@ -22,7 +22,7 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 15 Apr 2021 16:36 +0100</pubDate>
+    <pubDate>Thu, 15 Apr 2021 16:50 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>YouTube, Twitch, Jellyfin,... desde MPV</title>
@@ -47,7 +47,7 @@
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/31482906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-3-15%2F175858740-44100-2-d1ee6ac6f8081.mp3"/>
     <guid>https://ugeek.github.io/post/2021-04-15-youtube-twitch-jellyfin---desde-mpv.html</guid> 
           <itunes:summary>Os explico como utilizo MPV para reproducir videos de YouTube, Twitch, Jellyfin,...</itunes:summary>
-          <itunes:image href="https://ugeek.github.io/blog/icon/mpv.png"/>  
+          <itunes:image href="https://ugeek.github.io/images-blog/mpv.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
