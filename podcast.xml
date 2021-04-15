@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 13 Apr 2021 06:38 +0100</pubDate>
+    <pubDate>Thu, 15 Apr 2021 16:36 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>YouTube, Twitch, Jellyfin,... desde MPV</title>
+    <link>https://ugeek.github.io/post/2021-04-15-youtube-twitch-jellyfin---desde-mpv.html</link>
+    <pubDate>Thu, 15 Apr 2021 16:29 +0100</pubDate>
+    <description>Os explico como utilizo MPV para reproducir videos de YouTube, Twitch, Jellyfin,...
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-04-15-youtube-twitch-jellyfin---desde-mpv.html&gt;YouTube, Twitch, Jellyfin,... desde MPV&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/31482906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-3-15%2F175858740-44100-2-d1ee6ac6f8081.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-04-15-youtube-twitch-jellyfin---desde-mpv.html</guid> 
+          <itunes:summary>Os explico como utilizo MPV para reproducir videos de YouTube, Twitch, Jellyfin,...</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/mpv.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Nekogram X. Alternativa Open Source a Telegram oficial</title>
     <link>https://ugeek.github.io/post/2021-03-27-nekogram-x-alternativa-open-source-a-telegram-oficial.html</link>

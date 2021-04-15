@@ -1,6 +1,12 @@
 var tipuesearch = {pages: [
 
 {
+            'title': 'YouTube, Twitch, Jellyfin,... desde MPV,',
+            'text': 'Os explico como utilizo MPV para reproducir videos de YouTube, Twitch, Jellyfin,...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-04-15-youtube-twitch-jellyfin---desde-mpv.html' 
+},
+{
             'title': 'Nekogram X. Alternativa Open Source a Telegram oficial,',
             'text': 'Nekogram X. Alternativa Open Source a Telegram oficial,', 
             'tags': 'terminal,telegram,,,,', 
