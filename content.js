@@ -1,6 +1,12 @@
 var tipuesearch = {pages: [
 
 {
+            'title': 'Servidor privado de git con solo SSH,',
+            'text': 'El artículo lo encontrarás en: https://ugeek.github.io/blog/post/2021-04-18-crear-un-servidor-git-con-ssh.html,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-04-20-servidor-privado-de-git-con-solo-ssh.html' 
+},
+{
             'title': 'YouTube, Twitch, Jellyfin,... desde MPV,',
             'text': 'Os explico como utilizo MPV para reproducir videos de YouTube, Twitch, Jellyfin,...,', 
             'tags': 'terminal,bash,,,,', 

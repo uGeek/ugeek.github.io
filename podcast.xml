@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 15 Apr 2021 16:50 +0100</pubDate>
+    <pubDate>Tue, 20 Apr 2021 17:24 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Servidor privado de git con solo SSH</title>
+    <link>https://ugeek.github.io/post/2021-04-20-servidor-privado-de-git-con-solo-ssh.html</link>
+    <pubDate>Tue, 20 Apr 2021 17:16 +0100</pubDate>
+    <description>El artículo lo encontrarás en: https://ugeek.github.io/blog/post/2021-04-18-crear-un-servidor-git-con-ssh.html
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-04-20-servidor-privado-de-git-con-solo-ssh.html&gt;Servidor privado de git con solo SSH&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/31821690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-20%2F723ab5e8-e513-d9b8-bd4e-1f130ccd888d.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-04-20-servidor-privado-de-git-con-solo-ssh.html</guid> 
+          <itunes:summary>El artículo lo encontrarás en: https://ugeek.github.io/blog/post/2021-04-18-crear-un-servidor-git-con-ssh.html</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/images-blog/git.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>YouTube, Twitch, Jellyfin,... desde MPV</title>
     <link>https://ugeek.github.io/post/2021-04-15-youtube-twitch-jellyfin---desde-mpv.html</link>
