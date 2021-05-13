@@ -1,8 +1,14 @@
 var tipuesearch = {pages: [
 {
+            'title': 'La combinación perfecta. WebDAV, RCLONE y Filestash,',
+            'text': 'Voy a hablaros hoy de mi nueva combinación de servicios,', 
+            'tags': 'terminal,webdav,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-05-13-la-combinacion-perfecta-webdav-rclone-y-filestash.html' 
+},
+{
             'title': 'Styx. El mejor Navegador de Android. Gestión Notas,',
             'text': 'Styx. El mejor Navegador de Android. Gestión Notas,', 
-            'tags': 'terminal,bash,,,,', 
+            'tags': 'android,bash,,,,', 
             'url': 'https://ugeek.github.io/post/2021-05-05-styx-el-mejor-navegador-de-android-gestion-notas.html' 
 },
 {

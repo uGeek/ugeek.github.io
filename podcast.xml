@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 05 May 2021 07:26 +0100</pubDate>
+    <pubDate>Thu, 13 May 2021 18:22 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>La combinación perfecta. WebDAV, RCLONE y Filestash</title>
+    <link>https://ugeek.github.io/post/2021-05-13-la-combinacion-perfecta-webdav-rclone-y-filestash.html</link>
+    <pubDate>Thu, 13 May 2021 18:04 +0100</pubDate>
+    <description>Voy a hablaros hoy de mi nueva combinación de servicios
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-05-13-la-combinacion-perfecta-webdav-rclone-y-filestash.html&gt;La combinación perfecta. WebDAV, RCLONE y Filestash&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/33425328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-4-13%2F185946021-44100-2-0d1c5313aff3b.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-05-13-la-combinacion-perfecta-webdav-rclone-y-filestash.html</guid> 
+          <itunes:summary>Voy a hablaros hoy de mi nueva combinación de servicios</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Styx. El mejor Navegador de Android. Gestión Notas</title>
     <link>https://ugeek.github.io/post/2021-05-05-styx-el-mejor-navegador-de-android-gestion-notas.html</link>
