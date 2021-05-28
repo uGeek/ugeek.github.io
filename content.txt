@@ -1,5 +1,11 @@
 
 {
+            'title': 'Homer. Mi dashboard favorito,',
+            'text': 'Conoce más sobre Homer en: https://ugeek.github.io/blog/post/2021-05-24-homer-mi-dashboard.html,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-05-24-homer-mi-dashboard-favorito.html' 
+},
+{
             'title': 'La combinación perfecta. WebDAV, RCLONE y Filestash,',
             'text': 'Voy a hablaros hoy de mi nueva combinación de servicios,', 
             'tags': 'terminal,webdav,,,,', 
