@@ -1,5 +1,11 @@
 
 {
+            'title': 'El modo más sencillo de instalar y administrar Wireguard con wg-easy,',
+            'text': 'Artículo: https://ugeek.github.io/blog/post/2021-05-28-el-modo-mas-facil-de-instalar-administrar-wireguard.html,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-05-31-el-modo-mas-sencillo-de-instalar-y-administrar-wireguard-con-wg-easy.html' 
+},
+{
             'title': 'Homer. Mi dashboard favorito,',
             'text': 'Conoce más sobre Homer en: https://ugeek.github.io/blog/post/2021-05-24-homer-mi-dashboard.html,', 
             'tags': 'terminal,bash,,,,', 
