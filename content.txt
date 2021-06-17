@@ -1,5 +1,11 @@
 
 {
+            'title': 'Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale,',
+            'text': 'Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-06-17-creando-redes-virtuales-y-saltando-todas-la-barreras-y-cg-nat-con-tailscale.html' 
+},
+{
             'title': 'El modo más sencillo de instalar y administrar Wireguard con wg-easy,',
             'text': 'Artículo: https://ugeek.github.io/blog/post/2021-05-28-el-modo-mas-facil-de-instalar-administrar-wireguard.html,', 
             'tags': 'terminal,bash,,,,', 
