@@ -1,7 +1,7 @@
 <head>
-<title>s-screen. Procesos en segundo plano de un modo sencillo. uGeek Podcast</title>
+<title>Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale. uGeek Podcast</title>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<link rel="canonical" href="https://ugeek.github.io/post/2020-10-28-s-screen-procesos-en-segundo-plano-de-un-modo-sencillo.html" />
+<link rel="canonical" href="https://ugeek.github.io/post/2021-06-17-creando-redes-virtuales-y-saltando-todas-la-barreras-y-cg-nat-con-tailscale.html" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <div id="logo"><a href="https://ugeek.github.io"><img src="../icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
@@ -28,19 +28,19 @@
 
 <meta name="author" content="Angel">
 <meta name="keywords" content="terminal,bash">
-<meta name="description" content="Procesos en segundo plano de un modo sencillo" />
+<meta name="description" content="Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale" />
 
 <!-- Open Graph data -->
 <meta property="og:site_name" content="uGeek Podcast"/>
 <meta property="og:type" content="article" /> 
-<meta property="og:title" content="s-screen. Procesos en segundo plano de un modo sencillo" />
-<meta property="og:description" content="Procesos en segundo plano de un modo sencillo" />
+<meta property="og:title" content="Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale" />
+<meta property="og:description" content="Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale" />
 <meta property="og:image" content="https://ugeek.github.io/blog/icon/ugeek.png" />
-<meta property="og:url" content="https://ugeek.github.io/post/2020-10-28-s-screen-procesos-en-segundo-plano-de-un-modo-sencillo.html" />
+<meta property="og:url" content="https://ugeek.github.io/post/2021-06-17-creando-redes-virtuales-y-saltando-todas-la-barreras-y-cg-nat-con-tailscale.html" />
 <meta property="article:tag" content="terminal,bash" />
 
-<meta name="twitter:title" content="s-screen. Procesos en segundo plano de un modo sencillo" />
-<meta name="twitter:description" content="Procesos en segundo plano de un modo sencillo" />
+<meta name="twitter:title" content="Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale" />
+<meta name="twitter:description" content="Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale" />
 <meta name="twitter:image" content="https://ugeek.github.io/images-blog/https://ugeek.github.io/blog/icon/ugeek.png" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->                                                                                      
@@ -57,15 +57,15 @@ gtag("config", "UA-131560140-1");
 <br><br><br><br><br><br><br><br><br>
  <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"/> <div id="name"><a href="https://ugeek.github.io/blog/"><tt>Blog de Tecnología</tt></div></a> <div id="icon"> <a href="http://feeds.feedburner.com/uGeek" title="rss" alt="rss"><img src="../icon/podcast.png" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="http://feeds.feedburner.com/uGeekBlog" alt="rss"><img src="../icon/rss.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="../icon/github.png" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="../icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://twitter.com/ugeekpodcast"><img src="../icon/twitter.png" width="25" height="25" alt="Twitter"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="../icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/tag.html"><tt>Tags</tt></a></div>
 
-<h1 id="s-screen.-procesos-en-segundo-plano-de-un-modo-sencillo-1" title="s-screen. Procesos en segundo plano de un modo sencillo" data-export_file_name="s-screen-procesos-en-segundo-plano-de-un-modo-sencillo" data-description="Procesos en segundo plano de un modo sencillo" data-export_date="2020-10-28 18:50" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png" data-url_audio="https://anchor.fm/s/106db04/podcast/play/21774890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-28%2F68d9c13c-cc2d-4440-fb8a-c02725bab607.mp3" data-explicit="No">s-screen. Procesos en segundo plano de un modo sencillo</h1>
-<p>Procesos en segundo plano de un modo sencillo</p>
-<audio controls=''><source src=https://anchor.fm/s/106db04/podcast/play/21774890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-28%2F68d9c13c-cc2d-4440-fb8a-c02725bab607.mp3 />Tu navegador no soporta reproductor de Podcast.</audio>
+<h1 id="creando-redes-virtuales-y-saltando-todas-la-barreras-y-cg-nat-con-tailscale-1" title="Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale" data-export_file_name="creando-redes-virtuales-y-saltando-todas-la-barreras-y-cg-nat-con-tailscale" data-description="Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale" data-export_date="2021-06-17 19:10" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png" data-url_audio="https://anchor.fm/s/106db04/podcast/play/35672960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-17%2F03189f1f-fcb8-ab86-28d9-a820c95ec2bc.mp3" data-explicit="No">Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale</h1>
+<p>Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale</p>
+<audio controls=''><source src=https://anchor.fm/s/106db04/podcast/play/35672960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-17%2F03189f1f-fcb8-ab86-28d9-a820c95ec2bc.mp3 />Tu navegador no soporta reproductor de Podcast.</audio>
 <ul>
 <li><a href="://ugeek.github.io//ugeek.github.io/podcast.xml">Suscribete al Podcast de uGeek</a></li>
 <li>Visita los artículo y podcast en <a href="://ugeek.github.io//ugeek.github.io/"><a href="https://ugeek.github.io/">https://ugeek.github.io/</a></a></li>
 </ul>
 <br>
-<p>Publicado por Angel el miércoles 28 octubre del 2020</p>
+<p>Publicado por Angel el jueves 17 junio del 2021</p>
 <br><br> 
 <p>También te puede interesar:</p>
 <ul>
