@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Fritter y Kiss,',
+            'text': 'https://f-droid.org/es/packages/com.jonjomckay.fritter/ » https://f-droid.org/es/packages/fr.neamar.kiss/ » https://f-droid.org/es/packages/com.simplemobiletools.applauncher/ » https://f-droid.org/es/packages/it.reyboz.screenlock/,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-06-22-fritter-y-kiss.html' 
+},
+{
             'title': 'Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale,',
             'text': 'Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale,', 
             'tags': 'terminal,bash,,,,', 

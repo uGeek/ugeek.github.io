@@ -13,6 +13,39 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
+    <title>Fritter y Kiss</title>
+    <link>https://ugeek.github.io/post/2021-06-22-fritter-y-kiss.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Fritter y Kiss"&gt;
+&lt;br&gt;&lt;p&gt;https://f-droid.org/es/packages/com.jonjomckay.fritter/ » https://f-droid.org/es/packages/fr.neamar.kiss/ » https://f-droid.org/es/packages/com.simplemobiletools.applauncher/ » https://f-droid.org/es/packages/it.reyboz.screenlock/... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-06-22-fritter-y-kiss.html&gt;Fritter y Kiss&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 22 Jun 2021 06:59 +0100</pubDate>
+    <category>terminal</category>
+    <category>bash</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/post/2021-06-22-fritter-y-kiss.html</guid>
+   </item>
+   <item>
     <title>Creando redes virtuales y saltando todas la barreras y CG-NAT con Tailscale</title>
     <link>https://ugeek.github.io/post/2021-06-17-creando-redes-virtuales-y-saltando-todas-la-barreras-y-cg-nat-con-tailscale.html</link>
     <description>
