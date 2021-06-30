@@ -1,5 +1,11 @@
 
 {
+            'title': 'Mis servicios Favoritos 2021. esLibre2021,',
+            'text': 'Mis servicios Favoritos 2021. esLibre2021,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-06-26-mis-servicios-favoritos-2021-eslibre2021.html' 
+},
+{
             'title': 'Fritter y Kiss,',
             'text': 'https://f-droid.org/es/packages/com.jonjomckay.fritter/ » https://f-droid.org/es/packages/fr.neamar.kiss/ » https://f-droid.org/es/packages/com.simplemobiletools.applauncher/ » https://f-droid.org/es/packages/it.reyboz.screenlock/,', 
             'tags': 'terminal,bash,,,,', 
