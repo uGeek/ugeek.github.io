@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Servidor de Geolocalización,',
+            'text': 'Servidor de Geolocalización,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-07-02-servidor-de-geolocalizacion.html' 
+},
+{
             'title': 'Mis servicios Favoritos 2021. esLibre2021,',
             'text': 'Mis servicios Favoritos 2021. esLibre2021,', 
             'tags': 'terminal,bash,,,,', 
