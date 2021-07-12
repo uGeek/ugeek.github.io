@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Fri, 02 Jul 2021 15:57 +0100</pubDate>
+    <pubDate>Mon, 12 Jul 2021 08:48 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Filestash</title>
+    <link>https://ugeek.github.io/post/2021-07-12-filestash.html</link>
+    <pubDate>Mon, 12 Jul 2021 08:44 +0100</pubDate>
+    <description>Filestash
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-07-12-filestash.html&gt;Filestash&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/37087210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-6-12%2F204752714-44100-2-549ea03c85d8.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-07-12-filestash.html</guid> 
+          <itunes:summary>Filestash</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Servidor de Geolocalización</title>
     <link>https://ugeek.github.io/post/2021-07-02-servidor-de-geolocalizacion.html</link>

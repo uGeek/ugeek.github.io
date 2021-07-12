@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Filestash,',
+            'text': 'Filestash,', 
+            'tags': 'docker,webdav,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-07-12-filestash.html' 
+},
+{
             'title': 'Servidor de Geolocalización,',
             'text': 'Servidor de Geolocalización,', 
             'tags': 'terminal,bash,,,,', 
