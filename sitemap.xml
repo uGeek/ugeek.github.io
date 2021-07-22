@@ -13,6 +13,39 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
+    <title>Hablando un poco de todo...</title>
+    <link>https://ugeek.github.io/post/2021-07-22-hablando-un-poco-de-todo--.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Hablando un poco de todo..."&gt;
+&lt;br&gt;&lt;p&gt;Hoy hablo un poco de Shaarli, Stakali, Wallabag, Gelli,Finamp, S2, Wireguard, Tailscale, Rclone... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-07-22-hablando-un-poco-de-todo--.html&gt;Hablando un poco de todo...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 22 Jul 2021 20:24 +0100</pubDate>
+    <category>terminal</category>
+    <category>bash</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/post/2021-07-22-hablando-un-poco-de-todo--.html</guid>
+   </item>
+   <item>
     <title>Filestash</title>
     <link>https://ugeek.github.io/post/2021-07-12-filestash.html</link>
     <description>
