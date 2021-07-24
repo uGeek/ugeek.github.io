@@ -1,5 +1,11 @@
 
 {
+            'title': 'Hablando un poco de todo...,',
+            'text': 'Hoy hablo un poco de Shaarli, Stakali, Wallabag, Gelli,Finamp, S2, Wireguard, Tailscale, Rclone,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-07-22-hablando-un-poco-de-todo--.html' 
+},
+{
             'title': 'Filestash,',
             'text': 'Filestash,', 
             'tags': 'docker,webdav,,,,', 
