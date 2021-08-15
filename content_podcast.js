@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Charla con Joan de Geekland,',
+            'text': 'El blog de Joan es: https://geekland.eu/,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-08-15-charla-con-joan-de-geekland.html' 
+},
+{
             'title': 'Hablando un poco de todo...,',
             'text': 'Hoy hablo un poco de Shaarli, Stakali, Wallabag, Gelli,Finamp, S2, Wireguard, Tailscale, Rclone,', 
             'tags': 'terminal,bash,,,,', 
