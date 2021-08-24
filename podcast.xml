@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sun, 15 Aug 2021 22:02 +0100</pubDate>
+    <pubDate>Tue, 24 Aug 2021 21:11 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Notas y Tareas multiplataforma con OpenTodoList.</title>
+    <link>https://ugeek.github.io/post/2021-08-24-notas-y-tareas-multiplataforma-con-opentodolist-.html</link>
+    <pubDate>Tue, 24 Aug 2021 21:05 +0100</pubDate>
+    <description>Prueba la app en https://opentodolist.rpdev.net/
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-08-24-notas-y-tareas-multiplataforma-con-opentodolist-.html&gt;Notas y Tareas multiplataforma con OpenTodoList.&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/39276352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-7-24%2F214527749-44100-1-17953275d9766.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-08-24-notas-y-tareas-multiplataforma-con-opentodolist-.html</guid> 
+          <itunes:summary>Prueba la app en https://opentodolist.rpdev.net/</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Charla con Joan de Geekland</title>
     <link>https://ugeek.github.io/post/2021-08-15-charla-con-joan-de-geekland.html</link>

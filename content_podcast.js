@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Notas y Tareas multiplataforma con OpenTodoList.,',
+            'text': 'Prueba la app en https://opentodolist.rpdev.net/,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-08-24-notas-y-tareas-multiplataforma-con-opentodolist-.html' 
+},
+{
             'title': 'Charla con Joan de Geekland,',
             'text': 'El blog de Joan es: https://geekland.eu/,', 
             'tags': 'terminal,bash,,,,', 
