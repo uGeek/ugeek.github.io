@@ -1,5 +1,17 @@
 
 {
+            'title': 'Notas y Tareas multiplataforma con OpenTodoList.,',
+            'text': 'Prueba la app en https://opentodolist.rpdev.net/,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-08-24-notas-y-tareas-multiplataforma-con-opentodolist-.html' 
+},
+{
+            'title': 'Charla con Joan de Geekland,',
+            'text': 'El blog de Joan es: https://geekland.eu/,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-08-15-charla-con-joan-de-geekland.html' 
+},
+{
             'title': 'Hablando un poco de todo...,',
             'text': 'Hoy hablo un poco de Shaarli, Stakali, Wallabag, Gelli,Finamp, S2, Wireguard, Tailscale, Rclone,', 
             'tags': 'terminal,bash,,,,', 
