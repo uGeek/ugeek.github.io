@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Xiaomi Mi Smart Band de un modo Libre,',
+            'text': 'Os hablo de como fue mi experiencia después de más de un año con la Xiaomi Mi Smart Band 4C y como emparejarla con Gadgetbridge,', 
+            'tags': 'terminal,xiaomi,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-07-xiaomi-mi-smart-band-de-un-modo-libre.html' 
+},
+{
             'title': 'Zettel Notes. Más que una aplicación Markdown de Zettelkasten,',
             'text': 'Instalala desde https://play.google.com/store/apps/details?id=org.eu.thedoc.zettelnotes,', 
             'tags': 'terminal,markdown,,,,', 
