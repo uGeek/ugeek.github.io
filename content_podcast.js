@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Utilizando la RAM de tu máquina como disco duro,',
+            'text': 'rclone hace la magia con :memory:,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-09-utilizando-la-ram-de-tu-maquina-como-disco-duro.html' 
+},
+{
             'title': 'Xiaomi Mi Smart Band de un modo Libre,',
             'text': 'Os hablo de como fue mi experiencia después de más de un año con la Xiaomi Mi Smart Band 4C y como emparejarla con Gadgetbridge,', 
             'tags': 'terminal,xiaomi,,,,', 
