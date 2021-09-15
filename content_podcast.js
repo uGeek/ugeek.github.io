@@ -1,5 +1,17 @@
 var tipuesearch = {pages: [
 {
+            'title': 'RSS y CALDAV descentralizados con DecSync,',
+            'text': 'RSS y CALDAV descentralizados con DecSync ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-15-rss-y-caldav-descentralizados-con-decsync.html' 
+},
+{
+            'title': 'RSS y CALDAV descentralizados con DecSync,',
+            'text': 'RSS y CALDAV descentralizados con DecSync ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-15-rss-y-caldav-descentralizados-con-decsync.html' 
+},
+{
             'title': 'Utilizando la RAM de tu máquina como disco duro,',
             'text': 'rclone hace la magia con :memory:,', 
             'tags': 'terminal,bash,,,,', 
