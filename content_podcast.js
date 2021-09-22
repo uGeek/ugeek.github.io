@@ -1,9 +1,9 @@
 var tipuesearch = {pages: [
 {
-            'title': 'RSS y CALDAV descentralizados con DecSync,',
-            'text': 'RSS y CALDAV descentralizados con DecSync ,', 
+            'title': 'Como estoy tomando mis notas hoy.,',
+            'text': 'Como estoy tomando mis notas hoy. ,', 
             'tags': 'terminal,bash,,,,', 
-            'url': 'https://ugeek.github.io/post/2021-09-15-rss-y-caldav-descentralizados-con-decsync.html' 
+            'url': 'https://ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html' 
 },
 {
             'title': 'RSS y CALDAV descentralizados con DecSync,',

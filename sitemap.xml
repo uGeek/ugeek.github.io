@@ -13,12 +13,12 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
-    <title>RSS y CALDAV descentralizados con DecSync</title>
-    <link>https://ugeek.github.io/post/2021-09-15-rss-y-caldav-descentralizados-con-decsync.html</link>
+    <title>Como estoy tomando mis notas hoy.</title>
+    <link>https://ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html</link>
     <description>
-&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="RSS y CALDAV descentralizados con DecSync"&gt;
-&lt;br&gt;&lt;p&gt;RSS y CALDAV descentralizados con DecSync ... 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-09-15-rss-y-caldav-descentralizados-con-decsync.html&gt;RSS y CALDAV descentralizados con DecSync&lt;/a&gt;
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como estoy tomando mis notas hoy."&gt;
+&lt;br&gt;&lt;p&gt;Como estoy tomando mis notas hoy. ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html&gt;Como estoy tomando mis notas hoy.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -38,12 +38,12 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <pubDate>Wed, 15 Sep 2021 07:07 +0100</pubDate>
+    <pubDate>Wed, 22 Sep 2021 21:18 +0100</pubDate>
     <category>terminal</category>
     <category>bash</category>
     <category></category>
     <category></category>
-    <guid>https://ugeek.github.io/post/2021-09-15-rss-y-caldav-descentralizados-con-decsync.html</guid>
+    <guid>https://ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html</guid>
    </item>
    <item>
     <title>RSS y CALDAV descentralizados con DecSync</title>
