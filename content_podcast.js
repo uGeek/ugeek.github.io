@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'El servidor de Música más ligero,',
+            'text': 'El servidor de Música más ligero,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-28-el-servidor-de-musica-mas-ligero.html' 
+},
+{
             'title': 'Como estoy tomando mis notas hoy.,',
             'text': 'Como estoy tomando mis notas hoy. ,', 
             'tags': 'terminal,bash,,,,', 

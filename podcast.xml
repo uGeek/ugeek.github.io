@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 22 Sep 2021 21:24 +0100</pubDate>
+    <pubDate>Tue, 28 Sep 2021 09:09 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>El servidor de Música más ligero</title>
+    <link>https://ugeek.github.io/post/2021-09-28-el-servidor-de-musica-mas-ligero.html</link>
+    <pubDate>Tue, 28 Sep 2021 09:04 +0100</pubDate>
+    <description>El servidor de Música más ligero
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-09-28-el-servidor-de-musica-mas-ligero.html&gt;El servidor de Música más ligero&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/40954570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-8-28%2F221037692-44100-1-87628b0b5b193.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-09-28-el-servidor-de-musica-mas-ligero.html</guid> 
+          <itunes:summary>El servidor de Música más ligero</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Como estoy tomando mis notas hoy.</title>
     <link>https://ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html</link>
