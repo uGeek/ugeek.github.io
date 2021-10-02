@@ -1,5 +1,23 @@
 
 {
+            'title': 'El servidor de Música más ligero,',
+            'text': 'El servidor de Música más ligero,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-28-el-servidor-de-musica-mas-ligero.html' 
+},
+{
+            'title': 'Como estoy tomando mis notas hoy.,',
+            'text': 'Como estoy tomando mis notas hoy. ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html' 
+},
+{
+            'title': 'RSS y CALDAV descentralizados con DecSync,',
+            'text': 'RSS y CALDAV descentralizados con DecSync ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-09-15-rss-y-caldav-descentralizados-con-decsync.html' 
+},
+{
             'title': 'Utilizando la RAM de tu máquina como disco duro,',
             'text': 'rclone hace la magia con :memory:,', 
             'tags': 'terminal,bash,,,,', 
