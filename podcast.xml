@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sat, 02 Oct 2021 22:44 +0100</pubDate>
+    <pubDate>Thu, 07 Oct 2021 08:48 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Pedro hace un alto en el camino</title>
+    <link>https://ugeek.github.io/post/2021-10-07-pedro-hace-un-alto-en-el-camino.html</link>
+    <pubDate>Thu, 07 Oct 2021 08:43 +0100</pubDate>
+    <description>Pedro, MosqueteroWeb, deja de grabar temporalmente
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-10-07-pedro-hace-un-alto-en-el-camino.html&gt;Pedro hace un alto en el camino&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/41414427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-9-7%2F222956292-44100-1-fd2b2f9c7f2fe.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-10-07-pedro-hace-un-alto-en-el-camino.html</guid> 
+          <itunes:summary>Pedro, MosqueteroWeb, deja de grabar temporalmente</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>El servidor de Música más ligero</title>
     <link>https://ugeek.github.io/post/2021-09-28-el-servidor-de-musica-mas-ligero.html</link>
