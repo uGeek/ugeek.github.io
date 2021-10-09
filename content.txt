@@ -1,5 +1,11 @@
 
 {
+            'title': 'Pedro hace un alto en el camino,',
+            'text': 'Pedro, MosqueteroWeb, deja de grabar temporalmente,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-10-07-pedro-hace-un-alto-en-el-camino.html' 
+},
+{
             'title': 'El servidor de Música más ligero,',
             'text': 'El servidor de Música más ligero,', 
             'tags': 'terminal,bash,,,,', 
