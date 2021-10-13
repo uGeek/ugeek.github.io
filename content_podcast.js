@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Gestionando tareas y calendarios en texto plano,',
+            'text': 'Gestionando tareas y calendarios en texto plano con todo.txt y calendar.txt,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-10-13-gestionando-tareas-y-calendarios-en-texto-plano.html' 
+},
+{
             'title': 'Pedro hace un alto en el camino,',
             'text': 'Pedro, MosqueteroWeb, deja de grabar temporalmente,', 
             'tags': 'terminal,bash,,,,', 
