@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Sincronización de tareas compartidas,',
+            'text': 'Sincronización de tareas compartidas,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-10-20-sincronizacion-de-tareas-compartidas.html' 
+},
+{
             'title': 'Gestionando tareas y calendarios en texto plano,',
             'text': 'Gestionando tareas y calendarios en texto plano con todo.txt y calendar.txt,', 
             'tags': 'terminal,bash,,,,', 
