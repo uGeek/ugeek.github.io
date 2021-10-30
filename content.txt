@@ -1,5 +1,11 @@
 
 {
+            'title': 'Utilizando cualquier nube público /privada como servidor de git,',
+            'text': 'Utilizando cualquier nube público /privada como servidor de git,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-/privada-como-servidor-de-git.html' 
+},
+{
             'title': 'Sincronización de tareas compartidas,',
             'text': 'Sincronización de tareas compartidas,', 
             'tags': 'terminal,bash,,,,', 
