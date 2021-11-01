@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Cifrado de Notas con Zettel Notes y todas las Novedades,',
+            'text': 'Cifrado de Notas con Zettel Notes y todas las Novedades,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-11-01-cifrado-de-notas-con-zettel-notes-y-todas-las-novedades.html' 
+},
+{
             'title': 'Utilizando cualquier nube público /privada como servidor de git,',
             'text': 'Utilizando cualquier nube público /privada como servidor de git,', 
             'tags': 'terminal,bash,,,,', 
