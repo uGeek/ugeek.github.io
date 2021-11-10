@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Prolongar la vida de tu móvil. CloudTunes Player, Droif-ify y más,',
+            'text': 'CloudTunes Player, Droif-ify y más. ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-11-10-prolongar-la-vida-de-tu-movil-cloudtunes-player-droif-ify-y-mas.html' 
+},
+{
             'title': 'Cifrado de Notas con Zettel Notes y todas las Novedades,',
             'text': 'Cifrado de Notas con Zettel Notes y todas las Novedades,', 
             'tags': 'terminal,bash,,,,', 

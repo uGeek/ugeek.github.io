@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 01 Nov 2021 09:49 +0100</pubDate>
+    <pubDate>Wed, 10 Nov 2021 21:48 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Prolongar la vida de tu móvil. CloudTunes Player, Droif-ify y más</title>
+    <link>https://ugeek.github.io/post/2021-11-10-prolongar-la-vida-de-tu-movil-cloudtunes-player-droif-ify-y-mas.html</link>
+    <pubDate>Wed, 10 Nov 2021 21:45 +0100</pubDate>
+    <description>CloudTunes Player, Droif-ify y más. 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-11-10-prolongar-la-vida-de-tu-movil-cloudtunes-player-droif-ify-y-mas.html&gt;Prolongar la vida de tu móvil. CloudTunes Player, Droif-ify y más&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/43136403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-10-10%2F230121221-44100-1-635ce192d5cce.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-11-10-prolongar-la-vida-de-tu-movil-cloudtunes-player-droif-ify-y-mas.html</guid> 
+          <itunes:summary>CloudTunes Player, Droif-ify y más. </itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Cifrado de Notas con Zettel Notes y todas las Novedades</title>
     <link>https://ugeek.github.io/post/2021-11-01-cifrado-de-notas-con-zettel-notes-y-todas-las-novedades.html</link>
