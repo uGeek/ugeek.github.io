@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Corriendo aplicaciones Android en un entorno aislado,',
+            'text': 'Corriendo aplicaciones Android en un entorno aislado,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-11-22-corriendo-aplicaciones-android-en-un-entorno-aislado.html' 
+},
+{
             'title': 'Prolongar la vida de tu móvil. CloudTunes Player, Droif-ify y más,',
             'text': 'CloudTunes Player, Droif-ify y más. ,', 
             'tags': 'terminal,bash,,,,', 
