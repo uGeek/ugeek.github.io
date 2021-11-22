@@ -22,7 +22,7 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 22 Nov 2021 09:57 +0100</pubDate>
+    <pubDate>Mon, 22 Nov 2021 10:12 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>Corriendo aplicaciones Android en un entorno aislado</title>
