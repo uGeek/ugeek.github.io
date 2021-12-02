@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Blocky. Servidor DNS en Go con filosofia Kiss,',
+            'text': 'Blocky. Servidor DNS en Go con filosofia Kiss,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-12-02-blocky-servidor-dns-en-go-con-filosofia-kiss.html' 
+},
+{
             'title': 'Corriendo aplicaciones Android en un entorno aislado,',
             'text': 'Corriendo aplicaciones Android en un entorno aislado,', 
             'tags': 'terminal,bash,,,,', 

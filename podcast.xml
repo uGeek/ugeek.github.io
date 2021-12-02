@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 22 Nov 2021 10:12 +0100</pubDate>
+    <pubDate>Thu, 02 Dec 2021 07:38 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Blocky. Servidor DNS en Go con filosofia Kiss</title>
+    <link>https://ugeek.github.io/post/2021-12-02-blocky-servidor-dns-en-go-con-filosofia-kiss.html</link>
+    <pubDate>Thu, 02 Dec 2021 07:34 +0100</pubDate>
+    <description>Blocky. Servidor DNS en Go con filosofia Kiss
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-12-02-blocky-servidor-dns-en-go-con-filosofia-kiss.html&gt;Blocky. Servidor DNS en Go con filosofia Kiss&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/44237120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-11-2%2F234882370-44100-1-80891bd30acfc.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-12-02-blocky-servidor-dns-en-go-con-filosofia-kiss.html</guid> 
+          <itunes:summary>Blocky. Servidor DNS en Go con filosofia Kiss</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Corriendo aplicaciones Android en un entorno aislado</title>
     <link>https://ugeek.github.io/post/2021-11-22-corriendo-aplicaciones-android-en-un-entorno-aislado.html</link>

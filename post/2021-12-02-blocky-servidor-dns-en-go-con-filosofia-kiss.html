@@ -1,7 +1,7 @@
 <head>
-<title>FileRun. Nube de sincronización de archivos similar a Nextcloud-Owncloud, pero más liviana. uGeek Podcast</title>
+<title>Blocky. Servidor DNS en Go con filosofia Kiss. uGeek Podcast</title>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<link rel="canonical" href="https://ugeek.github.io/post/2020-07-02-filerun-nube-de-sincronizacion-de-archivos-similar-a-nextcloud-owncloud-pero-mas-liviana.html" />
+<link rel="canonical" href="https://ugeek.github.io/post/2021-12-02-blocky-servidor-dns-en-go-con-filosofia-kiss.html" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <div id="logo"><a href="https://ugeek.github.io"><img src="../icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
@@ -28,19 +28,19 @@
 
 <meta name="author" content="Angel">
 <meta name="keywords" content="terminal,bash">
-<meta name="description" content="En breve publicaré en el blog, un artículo de FileRun -&gt; https://www.filerun.com/ Visita esta demo del servicio -&gt; https://demo.filerun.co/?username=admin&amp;password=admin -&gt; aunque sea código cerrado, es una pasada!!!" />
+<meta name="description" content="Blocky. Servidor DNS en Go con filosofia Kiss" />
 
 <!-- Open Graph data -->
 <meta property="og:site_name" content="uGeek Podcast"/>
 <meta property="og:type" content="article" /> 
-<meta property="og:title" content="FileRun. Nube de sincronización de archivos similar a Nextcloud-Owncloud, pero más liviana" />
-<meta property="og:description" content="En breve publicaré en el blog, un artículo de FileRun -&gt; https://www.filerun.com/ Visita esta demo del servicio -&gt; https://demo.filerun.co/?username=admin&amp;password=admin -&gt; aunque sea código cerrado, es una pasada!!!" />
+<meta property="og:title" content="Blocky. Servidor DNS en Go con filosofia Kiss" />
+<meta property="og:description" content="Blocky. Servidor DNS en Go con filosofia Kiss" />
 <meta property="og:image" content="https://ugeek.github.io/blog/icon/ugeek.png" />
-<meta property="og:url" content="https://ugeek.github.io/post/2020-07-02-filerun-nube-de-sincronizacion-de-archivos-similar-a-nextcloud-owncloud-pero-mas-liviana.html" />
+<meta property="og:url" content="https://ugeek.github.io/post/2021-12-02-blocky-servidor-dns-en-go-con-filosofia-kiss.html" />
 <meta property="article:tag" content="terminal,bash" />
 
-<meta name="twitter:title" content="FileRun. Nube de sincronización de archivos similar a Nextcloud-Owncloud, pero más liviana" />
-<meta name="twitter:description" content="En breve publicaré en el blog, un artículo de FileRun -&gt; https://www.filerun.com/ Visita esta demo del servicio -&gt; https://demo.filerun.co/?username=admin&amp;password=admin -&gt; aunque sea código cerrado, es una pasada!!!" />
+<meta name="twitter:title" content="Blocky. Servidor DNS en Go con filosofia Kiss" />
+<meta name="twitter:description" content="Blocky. Servidor DNS en Go con filosofia Kiss" />
 <meta name="twitter:image" content="https://ugeek.github.io/images-blog/https://ugeek.github.io/blog/icon/ugeek.png" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->                                                                                      
@@ -57,15 +57,15 @@ gtag("config", "UA-131560140-1");
 <br><br><br><br><br><br><br><br><br>
  <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"/> <div id="name"><a href="https://ugeek.github.io/blog/"><tt>Blog de Tecnología</tt></div></a> <div id="icon"> <a href="http://feeds.feedburner.com/uGeek" title="rss" alt="rss"><img src="../icon/podcast.png" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="http://feeds.feedburner.com/uGeekBlog" alt="rss"><img src="../icon/rss.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="../icon/github.png" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="../icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://twitter.com/ugeekpodcast"><img src="../icon/twitter.png" width="25" height="25" alt="Twitter"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="../icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/tag.html"><tt>Tags</tt></a></div>
 
-<h1 id="filerun.-nube-de-sincronización-de-archivos-similar-a-nextcloud-owncloud-pero-más-liviana-1" title="FileRun. Nube de sincronización de archivos similar a Nextcloud-Owncloud, pero más liviana" data-export_file_name="filerun-nube-de-sincronizacion-de-archivos-similar-a-nextcloud-owncloud-pero-mas-liviana" data-description="En breve publicaré en el blog, un artículo de FileRun -&amp;gt; https://www.filerun.com/ Visita esta demo del servicio -&amp;gt; https://demo.filerun.co/?username=admin&amp;amp;password=admin -&amp;gt; aunque sea código cerrado, es una pasada!!!" data-export_date="2020-07-02 05:25" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png" data-url_audio="https://anchor.fm/s/106db04/podcast/play/15988386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-1%2F86878397-44100-2-ef4027591942a.mp3" data-explicit="No">FileRun. Nube de sincronización de archivos similar a Nextcloud-Owncloud, pero más liviana</h1>
-<p>En breve publicaré en el blog, un artículo de FileRun -&amp;gt; <a href="https://www.filerun.com/">https://www.filerun.com/</a> Visita esta demo del servicio -&amp;gt; <a href="https://demo.filerun.co/?username=admin&amp;password=admin">https://demo.filerun.co/?username=admin&amp;password=admin</a> -&amp;gt; aunque sea código cerrado, es una pasada!!!</p>
-<audio controls=''><source src=https://anchor.fm/s/106db04/podcast/play/15988386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-1%2F86878397-44100-2-ef4027591942a.mp3 />Tu navegador no soporta reproductor de Podcast.</audio>
+<h1 id="blocky.-servidor-dns-en-go-con-filosofia-kiss-1" title="Blocky. Servidor DNS en Go con filosofia Kiss" data-export_file_name="blocky-servidor-dns-en-go-con-filosofia-kiss" data-description="Blocky. Servidor DNS en Go con filosofia Kiss" data-export_date="2021-12-02 07:34" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png" data-url_audio="https://anchor.fm/s/106db04/podcast/play/44237120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-11-2%2F234882370-44100-1-80891bd30acfc.mp3" data-explicit="No">Blocky. Servidor DNS en Go con filosofia Kiss</h1>
+<p>Blocky. Servidor DNS en Go con filosofia Kiss</p>
+<audio controls=''><source src=https://anchor.fm/s/106db04/podcast/play/44237120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-11-2%2F234882370-44100-1-80891bd30acfc.mp3 />Tu navegador no soporta reproductor de Podcast.</audio>
 <ul>
 <li><a href="://ugeek.github.io//ugeek.github.io/podcast.xml">Suscribete al Podcast de uGeek</a></li>
 <li>Visita los artículo y podcast en <a href="://ugeek.github.io//ugeek.github.io/"><a href="https://ugeek.github.io/">https://ugeek.github.io/</a></a></li>
 </ul>
 <br>
-<p>Publicado por Angel el jueves 02 julio del 2020</p>
+<p>Publicado por Angel el jueves 02 diciembre del 2021</p>
 <br><br> 
 <p>También te puede interesar:</p>
 <ul>
