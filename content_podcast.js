@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Typora. Como lo tengo configurado,',
+            'text': 'Sigue este artículo para ver cómo lo tengo configurado: https://ugeek.github.io/blog/post/2021-12-08-typora-el-mejor-editor-multiplataforma-sale-de-la-beta-como-utilizarlo-y-configurarlo.html,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-12-08-typora-como-lo-tengo-configurado.html' 
+},
+{
             'title': 'Blocky. Servidor DNS en Go con filosofia Kiss,',
             'text': 'Blocky. Servidor DNS en Go con filosofia Kiss,', 
             'tags': 'terminal,bash,,,,', 
