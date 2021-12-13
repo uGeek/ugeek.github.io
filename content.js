@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Startpages. Lanzando aplicaciones desde la web,',
+            'text': 'Startpages. Página de Inicio. Lanzando aplicaciones desde la web,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-12-13-startpages-lanzando-aplicaciones-desde-la-web.html' 
+},
+{
             'title': 'Typora. Como lo tengo configurado,',
             'text': 'Sigue este artículo para ver cómo lo tengo configurado: https://ugeek.github.io/blog/post/2021-12-08-typora-el-mejor-editor-multiplataforma-sale-de-la-beta-como-utilizarlo-y-configurarlo.html,', 
             'tags': 'terminal,bash,,,,', 
