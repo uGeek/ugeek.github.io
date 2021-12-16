@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Volviendo a Kodi.,',
+            'text': 'Kodi funciona con el servidor WebDAV. Kodi no funciona a modo servidor como explicó al principio, es una aplicación para acceder a tu contenido multimedia.,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-12-16-volviendo-a-kodi-.html' 
+},
+{
             'title': 'Startpages. Lanzando aplicaciones desde la web,',
             'text': 'Startpages. Página de Inicio. Lanzando aplicaciones desde la web,', 
             'tags': 'terminal,bash,,,,', 
