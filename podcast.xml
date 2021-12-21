@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 16 Dec 2021 05:45 +0100</pubDate>
+    <pubDate>Tue, 21 Dec 2021 12:21 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Matrix está de moda</title>
+    <link>https://ugeek.github.io/post/2021-12-21-matrix-esta-de-moda.html</link>
+    <pubDate>Tue, 21 Dec 2021 12:17 +0100</pubDate>
+    <description>Matrix está de moda. Artículo para montar el servidor en https://ugeek.github.io/blog/post/2021-01-28-servidor-de-mensajeria-matrix-synapse-en-raspberry-ubuntu-debian--con-docker.html
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-12-21-matrix-esta-de-moda.html&gt;Matrix está de moda&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/45155192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-11-21%2F238866135-44100-2-38a241e7b41fc.mp3"/>
+    <guid>https://ugeek.github.io/post/2021-12-21-matrix-esta-de-moda.html</guid> 
+          <itunes:summary>Matrix está de moda. Artículo para montar el servidor en https://ugeek.github.io/blog/post/2021-01-28-servidor-de-mensajeria-matrix-synapse-en-raspberry-ubuntu-debian--con-docker.html</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Volviendo a Kodi.</title>
     <link>https://ugeek.github.io/post/2021-12-16-volviendo-a-kodi-.html</link>

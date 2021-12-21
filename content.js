@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Matrix está de moda,',
+            'text': 'Matrix está de moda. Artículo para montar el servidor en https://ugeek.github.io/blog/post/2021-01-28-servidor-de-mensajeria-matrix-synapse-en-raspberry-ubuntu-debian--con-docker.html,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2021-12-21-matrix-esta-de-moda.html' 
+},
+{
             'title': 'Volviendo a Kodi.,',
             'text': 'Kodi funciona con el servidor WebDAV. Kodi no funciona a modo servidor como explicó al principio, es una aplicación para acceder a tu contenido multimedia.,', 
             'tags': 'terminal,bash,,,,', 
