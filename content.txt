@@ -1,5 +1,11 @@
 
 {
+            'title': 'De Bitwarden a Keepass. TelegramTUI, el Telegram para Terminal. Sonixd, player para Jellyfin y Subsonic,',
+            'text': 'El podcast de HardwareAdictos Feed: https://www.ivoox.com/feed_fg_f1306079_filtro_1.xml,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-01-04-de-bitwarden-a-keepass-telegramtui-el-telegram-para-terminal-sonixd-player-para-jellyfin-y-subsonic.html' 
+},
+{
             'title': 'Matrix está de moda,',
             'text': 'Matrix está de moda. Artículo para montar el servidor en https://ugeek.github.io/blog/post/2021-01-28-servidor-de-mensajeria-matrix-synapse-en-raspberry-ubuntu-debian--con-docker.html,', 
             'tags': 'terminal,bash,,,,', 
