@@ -1,5 +1,11 @@
 
 {
+            'title': 'Sincronizando tus bookmarks con Floccus,',
+            'text': 'https://floccus.org/,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-01-12-sincronizando-tus-bookmarks-con-floccus.html' 
+},
+{
             'title': 'De Bitwarden a Keepass. TelegramTUI, el Telegram para Terminal. Sonixd, player para Jellyfin y Subsonic,',
             'text': 'El podcast de HardwareAdictos Feed: https://www.ivoox.com/feed_fg_f1306079_filtro_1.xml,', 
             'tags': 'terminal,bash,,,,', 
