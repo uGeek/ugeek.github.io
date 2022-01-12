@@ -13,6 +13,39 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
+    <title>Sincronizando tus bookmarks con Floccus</title>
+    <link>https://ugeek.github.io/post/2022-01-12-sincronizando-tus-bookmarks-con-floccus.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Sincronizando tus bookmarks con Floccus"&gt;
+&lt;br&gt;&lt;p&gt;https://floccus.org/... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-01-12-sincronizando-tus-bookmarks-con-floccus.html&gt;Sincronizando tus bookmarks con Floccus&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Wed, 12 Jan 2022 10:56 +0100</pubDate>
+    <category>terminal</category>
+    <category>bash</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/post/2022-01-12-sincronizando-tus-bookmarks-con-floccus.html</guid>
+   </item>
+   <item>
     <title>De Bitwarden a Keepass. TelegramTUI, el Telegram para Terminal. Sonixd, player para Jellyfin y Subsonic</title>
     <link>https://ugeek.github.io/post/2022-01-04-de-bitwarden-a-keepass-telegramtui-el-telegram-para-terminal-sonixd-player-para-jellyfin-y-subsonic.html</link>
     <description>

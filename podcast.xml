@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 04 Jan 2022 19:58 +0100</pubDate>
+    <pubDate>Wed, 12 Jan 2022 11:01 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Sincronizando tus bookmarks con Floccus</title>
+    <link>https://ugeek.github.io/post/2022-01-12-sincronizando-tus-bookmarks-con-floccus.html</link>
+    <pubDate>Wed, 12 Jan 2022 10:56 +0100</pubDate>
+    <description>https://floccus.org/
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-01-12-sincronizando-tus-bookmarks-con-floccus.html&gt;Sincronizando tus bookmarks con Floccus&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/46045315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-0-12%2F241970456-44100-1-fff8002f931de.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-01-12-sincronizando-tus-bookmarks-con-floccus.html</guid> 
+          <itunes:summary>https://floccus.org/</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>De Bitwarden a Keepass. TelegramTUI, el Telegram para Terminal. Sonixd, player para Jellyfin y Subsonic</title>
     <link>https://ugeek.github.io/post/2022-01-04-de-bitwarden-a-keepass-telegramtui-el-telegram-para-terminal-sonixd-player-para-jellyfin-y-subsonic.html</link>
