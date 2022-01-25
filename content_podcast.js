@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Agrupando todas tus nubes en una con Rclone. Ampliando Fire TV Stick y uso como escritorio remoto,',
+            'text': 'Agrupando todas tus nubes en una con Rclone. Ampliando Fire TV Stick y uso como escritorio remoto,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-01-25-agrupando-todas-tus-nubes-en-una-con-rclone-ampliando-fire-tv-stick-y-uso-como-escritorio-remoto.html' 
+},
+{
             'title': 'Sincronizando tus bookmarks con Floccus,',
             'text': 'https://floccus.org/,', 
             'tags': 'terminal,bash,,,,', 
