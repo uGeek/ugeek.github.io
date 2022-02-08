@@ -1,6 +1,6 @@
 var tipuesearch = {pages: [
 {
-            'title': 'Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.,',
+            'title': 'Raspberry OS de 64bits. Vale la pena actualizar y te explico porque,',
             'text': 'Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.,', 
             'tags': 'terminal,bash,,,,', 
             'url': 'https://ugeek.github.io/post/2022-02-08-raspberry-os-de-64bits-vale-la-pena-actualizar-y-te-explico-el-porque-.html' 
