@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.,',
+            'text': 'Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-02-08-raspberry-os-de-64bits-vale-la-pena-actualizar-y-te-explico-el-porque-.html' 
+},
+{
             'title': 'Agrupando todas tus nubes en una con Rclone. Ampliando Fire TV Stick y uso como escritorio remoto,',
             'text': 'Agrupando todas tus nubes en una con Rclone. Ampliando Fire TV Stick y uso como escritorio remoto,', 
             'tags': 'terminal,bash,,,,', 

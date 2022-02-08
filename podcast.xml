@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 25 Jan 2022 20:42 +0100</pubDate>
+    <pubDate>Tue, 08 Feb 2022 11:37 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.</title>
+    <link>https://ugeek.github.io/post/2022-02-08-raspberry-os-de-64bits-vale-la-pena-actualizar-y-te-explico-el-porque-.html</link>
+    <pubDate>Tue, 08 Feb 2022 11:32 +0100</pubDate>
+    <description>Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-02-08-raspberry-os-de-64bits-vale-la-pena-actualizar-y-te-explico-el-porque-.html&gt;Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/47357304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-1-8%2F246793003-44100-1-63ffdd564442a.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-02-08-raspberry-os-de-64bits-vale-la-pena-actualizar-y-te-explico-el-porque-.html</guid> 
+          <itunes:summary>Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Agrupando todas tus nubes en una con Rclone. Ampliando Fire TV Stick y uso como escritorio remoto</title>
     <link>https://ugeek.github.io/post/2022-01-25-agrupando-todas-tus-nubes-en-una-con-rclone-ampliando-fire-tv-stick-y-uso-como-escritorio-remoto.html</link>
