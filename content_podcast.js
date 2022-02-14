@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Navegador LibreWolf y terminal Lilyterm,',
+            'text': 'Navegador LibreWolf y terminal Lilyterm,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-02-14-navegador-librewolf-y-terminal-lilyterm.html' 
+},
+{
             'title': 'Raspberry OS de 64bits. Vale la pena actualizar y te explico porque,',
             'text': 'Raspberry OS de 64bits. Vale la pena actualizar y te explico el porque.,', 
             'tags': 'terminal,bash,,,,', 
