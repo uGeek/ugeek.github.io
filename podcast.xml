@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 14 Feb 2022 07:07 +0100</pubDate>
+    <pubDate>Thu, 24 Feb 2022 16:05 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>YouTube sin publicidad y con aplicaciones de Software Libre</title>
+    <link>https://ugeek.github.io/post/2022-02-24-youtube-sin-publicidad-y-con-aplicaciones-de-software-libre.html</link>
+    <pubDate>Thu, 24 Feb 2022 08:11 +0100</pubDate>
+    <description>YouTube sin publicidad y con aplicaciones de Software Libre
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-02-24-youtube-sin-publicidad-y-con-aplicaciones-de-software-libre.html&gt;YouTube sin publicidad y con aplicaciones de Software Libre&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/48137357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-1-24%2F250206777-44100-2-19aab9d03ac26.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-02-24-youtube-sin-publicidad-y-con-aplicaciones-de-software-libre.html</guid> 
+          <itunes:summary>YouTube sin publicidad y con aplicaciones de Software Libre</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Navegador LibreWolf y terminal Lilyterm</title>
     <link>https://ugeek.github.io/post/2022-02-14-navegador-librewolf-y-terminal-lilyterm.html</link>
