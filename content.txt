@@ -1,5 +1,11 @@
 
 {
+            'title': 'YouTube sin publicidad y con aplicaciones de Software Libre,',
+            'text': 'YouTube sin publicidad y con aplicaciones de Software Libre,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-02-24-youtube-sin-publicidad-y-con-aplicaciones-de-software-libre.html' 
+},
+{
             'title': 'Navegador LibreWolf y terminal Lilyterm,',
             'text': 'Navegador LibreWolf y terminal Lilyterm,', 
             'tags': 'terminal,bash,,,,', 
