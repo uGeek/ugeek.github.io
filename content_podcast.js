@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Editor Micro y tus scripts con Termux,',
+            'text': 'https://ugeek.github.io/blog/post/2022-03-24-micro-un-editor-normal-para-terminal.html - https://ugeek.github.io/blog/post/2022-03-26-micro-todas-las-opciones.html - https://ugeek.github.io/blog/post/2022-03-25-termux-una-distro-linux-en-android-con-la-que-crear-tus-aplicaciones.html,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-03-28-editor-micro-y-tus-scripts-con-termux.html' 
+},
+{
             'title': 'Consumiendo Twitch y YouTube como Podcast con Audiobookshelf,',
             'text': 'Consumiendo Twitch y YouTube como Podcast con Audiobookshelf,', 
             'tags': 'terminal,bash,,,,', 
