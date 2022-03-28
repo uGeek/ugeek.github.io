@@ -22,7 +22,7 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 28 Mar 2022 21:31 +0100</pubDate>
+    <pubDate>Mon, 28 Mar 2022 21:40 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>Editor Micro y tus scripts con Termux</title>
@@ -484,11 +484,11 @@
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>Utilizando cualquier nube público /privada como servidor de git</title>
-    <link>https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-/privada-como-servidor-de-git.html</link>
+    <title>Utilizando cualquier nube público privada como servidor de git</title>
+    <link>https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-privada-como-servidor-de-git.html</link>
     <pubDate>Fri, 29 Oct 2021 07:01 +0100</pubDate>
-    <description>Utilizando cualquier nube público /privada como servidor de git
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-/privada-como-servidor-de-git.html&gt;Utilizando cualquier nube público /privada como servidor de git&lt;/a&gt;
+    <description>Utilizando cualquier nube público privada como servidor de git
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-privada-como-servidor-de-git.html&gt;Utilizando cualquier nube público privada como servidor de git&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -504,8 +504,8 @@
 
 </description>
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/42506959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-9-29%2F227466746-44100-1-4338f07657382.mp3"/>
-    <guid>https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-/privada-como-servidor-de-git.html</guid> 
-          <itunes:summary>Utilizando cualquier nube público /privada como servidor de git</itunes:summary>
+    <guid>https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-privada-como-servidor-de-git.html</guid> 
+          <itunes:summary>Utilizando cualquier nube público privada como servidor de git</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>

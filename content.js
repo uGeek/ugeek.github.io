@@ -102,10 +102,10 @@ var tipuesearch = {pages: [
             'url': 'https://ugeek.github.io/post/2021-11-01-cifrado-de-notas-con-zettel-notes-y-todas-las-novedades.html' 
 },
 {
-            'title': 'Utilizando cualquier nube público /privada como servidor de git,',
-            'text': 'Utilizando cualquier nube público /privada como servidor de git,', 
+            'title': 'Utilizando cualquier nube público privada como servidor de git,',
+            'text': 'Utilizando cualquier nube público privada como servidor de git,', 
             'tags': 'terminal,bash,,,,', 
-            'url': 'https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-/privada-como-servidor-de-git.html' 
+            'url': 'https://ugeek.github.io/post/2021-10-29-utilizando-cualquier-nube-publico-privada-como-servidor-de-git.html' 
 },
 {
             'title': 'Sincronización de tareas compartidas,',
