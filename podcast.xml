@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 28 Mar 2022 21:40 +0100</pubDate>
+    <pubDate>Thu, 21 Apr 2022 12:49 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>La nube no siempre es la mejor opción</title>
+    <link>https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html</link>
+    <pubDate>Thu, 21 Apr 2022 12:43 +0100</pubDate>
+    <description>La nube no siempre es la mejor opción 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html&gt;La nube no siempre es la mejor opción&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/50884330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-3-21%2F260871635-44100-2-00749594a1f6e.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html</guid> 
+          <itunes:summary>La nube no siempre es la mejor opción </itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Editor Micro y tus scripts con Termux</title>
     <link>https://ugeek.github.io/post/2022-03-28-editor-micro-y-tus-scripts-con-termux.html</link>

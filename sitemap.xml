@@ -13,6 +13,39 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
+    <title>La nube no siempre es la mejor opción</title>
+    <link>https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="La nube no siempre es la mejor opción"&gt;
+&lt;br&gt;&lt;p&gt;La nube no siempre es la mejor opción ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html&gt;La nube no siempre es la mejor opción&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 21 Apr 2022 12:43 +0100</pubDate>
+    <category>terminal</category>
+    <category>bash</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html</guid>
+   </item>
+   <item>
     <title>Editor Micro y tus scripts con Termux</title>
     <link>https://ugeek.github.io/post/2022-03-28-editor-micro-y-tus-scripts-con-termux.html</link>
     <description>
