@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 21 Apr 2022 12:49 +0100</pubDate>
+    <pubDate>Wed, 04 May 2022 21:20 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Mis Aplicaciones RSS</title>
+    <link>https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html</link>
+    <pubDate>Wed, 04 May 2022 21:15 +0100</pubDate>
+    <description>Mis Aplicaciones RSS
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html&gt;Mis Aplicaciones RSS&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/51527463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-4%2F34cc7695-8256-ca22-ef5d-e661f4d63908.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html</guid> 
+          <itunes:summary>Mis Aplicaciones RSS</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>La nube no siempre es la mejor opción</title>
     <link>https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html</link>

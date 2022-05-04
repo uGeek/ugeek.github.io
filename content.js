@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Mis Aplicaciones RSS,',
+            'text': 'Mis Aplicaciones RSS,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html' 
+},
+{
             'title': 'La nube no siempre es la mejor opción,',
             'text': 'La nube no siempre es la mejor opción ,', 
             'tags': 'terminal,bash,,,,', 
