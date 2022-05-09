@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Viendo que trae de nuevo Nextcloud 24,',
+            'text': 'Viendo que trae de nuevo Nextcloud 24,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-09-viendo-que-trae-de-nuevo-nextcloud-24.html' 
+},
+{
             'title': 'Mis Aplicaciones RSS,',
             'text': 'Mis Aplicaciones RSS,', 
             'tags': 'terminal,bash,,,,', 
