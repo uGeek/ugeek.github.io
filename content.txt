@@ -1,5 +1,23 @@
 
 {
+            'title': 'Viendo que trae de nuevo Nextcloud 24,',
+            'text': 'Viendo que trae de nuevo Nextcloud 24,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-09-viendo-que-trae-de-nuevo-nextcloud-24.html' 
+},
+{
+            'title': 'Mis Aplicaciones RSS,',
+            'text': 'Mis Aplicaciones RSS,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html' 
+},
+{
+            'title': 'La nube no siempre es la mejor opción,',
+            'text': 'La nube no siempre es la mejor opción ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html' 
+},
+{
             'title': 'Editor Micro y tus scripts con Termux,',
             'text': 'https://ugeek.github.io/blog/post/2022-03-24-micro-un-editor-normal-para-terminal.html - https://ugeek.github.io/blog/post/2022-03-26-micro-todas-las-opciones.html - https://ugeek.github.io/blog/post/2022-03-25-termux-una-distro-linux-en-android-con-la-que-crear-tus-aplicaciones.html,', 
             'tags': 'terminal,bash,,,,', 
