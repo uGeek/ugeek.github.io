@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Profundizando en Nextcloud,',
+            'text': 'Profundizando en Nextcloud,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html' 
+},
+{
             'title': 'Viendo que trae de nuevo Nextcloud 24,',
             'text': 'Viendo que trae de nuevo Nextcloud 24,', 
             'tags': 'terminal,bash,,,,', 

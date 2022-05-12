@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 09 May 2022 21:28 +0100</pubDate>
+    <pubDate>Thu, 12 May 2022 19:06 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Profundizando en Nextcloud</title>
+    <link>https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html</link>
+    <pubDate>Thu, 12 May 2022 19:02 +0100</pubDate>
+    <description>Profundizando en Nextcloud
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html&gt;Profundizando en Nextcloud&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/51908224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-12%2F265137525-44100-2-a56128946899a.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html</guid> 
+          <itunes:summary>Profundizando en Nextcloud</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Viendo que trae de nuevo Nextcloud 24</title>
     <link>https://ugeek.github.io/post/2022-05-09-viendo-que-trae-de-nuevo-nextcloud-24.html</link>
