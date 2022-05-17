@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Más nubes. Kodbox. aplicaciones Android...,',
+            'text': 'Más nubes. Kodbox. aplicaciones Android...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-17-mas-nubes-kodbox-aplicaciones-android--.html' 
+},
+{
             'title': 'Profundizando en Nextcloud,',
             'text': 'Profundizando en Nextcloud,', 
             'tags': 'terminal,bash,,,,', 
