@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Notas, servicios con arm64 y Aplicaciones Android,',
+            'text': 'Notas, servicios con arm64 y Aplicaciones Android ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html' 
+},
+{
             'title': 'Más nubes. Kodbox. aplicaciones Android...,',
             'text': 'Más nubes. Kodbox. aplicaciones Android...,', 
             'tags': 'terminal,bash,,,,', 

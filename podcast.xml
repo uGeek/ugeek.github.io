@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 17 May 2022 20:01 +0100</pubDate>
+    <pubDate>Mon, 30 May 2022 20:17 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Notas, servicios con arm64 y Aplicaciones Android</title>
+    <link>https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html</link>
+    <pubDate>Mon, 30 May 2022 20:12 +0100</pubDate>
+    <description>Notas, servicios con arm64 y Aplicaciones Android 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html&gt;Notas, servicios con arm64 y Aplicaciones Android&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/52780129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-30%2F268783885-44100-2-627e5c7241f4e.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html</guid> 
+          <itunes:summary>Notas, servicios con arm64 y Aplicaciones Android </itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Más nubes. Kodbox. aplicaciones Android...</title>
     <link>https://ugeek.github.io/post/2022-05-17-mas-nubes-kodbox-aplicaciones-android--.html</link>
