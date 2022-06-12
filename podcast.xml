@@ -22,13 +22,13 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 30 May 2022 20:17 +0100</pubDate>
+    <pubDate>Sun, 12 Jun 2022 19:06 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>Notas, servicios con arm64 y Aplicaciones Android</title>
     <link>https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html</link>
-    <pubDate>Mon, 30 May 2022 20:12 +0100</pubDate>
-    <description>Notas, servicios con arm64 y Aplicaciones Android 
+    <pubDate>Mon, 30 May 2022 19:11 +0100</pubDate>
+    <description>Notas, servicios con arm64 y Aplicaciones Android
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html&gt;Notas, servicios con arm64 y Aplicaciones Android&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -46,17 +46,17 @@
 </description>
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/52780129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-30%2F268783885-44100-2-627e5c7241f4e.mp3"/>
     <guid>https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html</guid> 
-          <itunes:summary>Notas, servicios con arm64 y Aplicaciones Android </itunes:summary>
+          <itunes:summary>Notas, servicios con arm64 y Aplicaciones Android</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>Más nubes. Kodbox. aplicaciones Android...</title>
-    <link>https://ugeek.github.io/post/2022-05-17-mas-nubes-kodbox-aplicaciones-android--.html</link>
-    <pubDate>Tue, 17 May 2022 19:56 +0100</pubDate>
-    <description>Más nubes. Kodbox. aplicaciones Android...
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-17-mas-nubes-kodbox-aplicaciones-android--.html&gt;Más nubes. Kodbox. aplicaciones Android...&lt;/a&gt;
+    <title>Más nubes. Kodbox. aplicaciones Android…</title>
+    <link>https://ugeek.github.io/post/2022-05-17-mas-nube-kodbox-aplicaciones-android.html</link>
+    <pubDate>Tue, 17 May 2022 19:11 +0100</pubDate>
+    <description>Más nubes. Kodbox. aplicaciones Android…
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-17-mas-nube-kodbox-aplicaciones-android.html&gt;Más nubes. Kodbox. aplicaciones Android…&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -72,18 +72,18 @@
 
 </description>
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/52141749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-17%2F266142327-44100-2-a4d7ab0d442bb.mp3"/>
-    <guid>https://ugeek.github.io/post/2022-05-17-mas-nubes-kodbox-aplicaciones-android--.html</guid> 
-          <itunes:summary>Más nubes. Kodbox. aplicaciones Android...</itunes:summary>
+    <guid>https://ugeek.github.io/post/2022-05-17-mas-nube-kodbox-aplicaciones-android.html</guid> 
+          <itunes:summary>Más nubes. Kodbox. aplicaciones Android…</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
     <title>Profundizando en Nextcloud</title>
-    <link>https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html</link>
-    <pubDate>Thu, 12 May 2022 19:02 +0100</pubDate>
+    <link>https://ugeek.github.io/post/2022-05-12-viendo-que-trae-de-nuevo-nextcloud-24.html</link>
+    <pubDate>Thu, 12 May 2022 19:11 +0100</pubDate>
     <description>Profundizando en Nextcloud
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html&gt;Profundizando en Nextcloud&lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-12-viendo-que-trae-de-nuevo-nextcloud-24.html&gt;Profundizando en Nextcloud&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -99,35 +99,8 @@
 
 </description>
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/51908224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-12%2F265137525-44100-2-a56128946899a.mp3"/>
-    <guid>https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html</guid> 
+    <guid>https://ugeek.github.io/post/2022-05-12-viendo-que-trae-de-nuevo-nextcloud-24.html</guid> 
           <itunes:summary>Profundizando en Nextcloud</itunes:summary>
-          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
-          <itunes:explicit>No</itunes:explicit>
-   </item>
-   <item>
-    <title>Viendo que trae de nuevo Nextcloud 24</title>
-    <link>https://ugeek.github.io/post/2022-05-09-viendo-que-trae-de-nuevo-nextcloud-24.html</link>
-    <pubDate>Mon, 09 May 2022 21:24 +0100</pubDate>
-    <description>Viendo que trae de nuevo Nextcloud 24
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-09-viendo-que-trae-de-nuevo-nextcloud-24.html&gt;Viendo que trae de nuevo Nextcloud 24&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
-
-</description>
-    <enclosure url="https://anchor.fm/s/106db04/podcast/play/51757501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-9%2F264496913-44100-2-49590f7d0e399.mp3"/>
-    <guid>https://ugeek.github.io/post/2022-05-09-viendo-que-trae-de-nuevo-nextcloud-24.html</guid> 
-          <itunes:summary>Viendo que trae de nuevo Nextcloud 24</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
@@ -135,7 +108,7 @@
    <item>
     <title>Mis Aplicaciones RSS</title>
     <link>https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html</link>
-    <pubDate>Wed, 04 May 2022 21:15 +0100</pubDate>
+    <pubDate>Wed, 04 May 2022 19:11 +0100</pubDate>
     <description>Mis Aplicaciones RSS
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html&gt;Mis Aplicaciones RSS&lt;/a&gt;
 
@@ -160,10 +133,37 @@
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
+    <title>Viendo que trae de nuevo Nextcloud 24</title>
+    <link>https://ugeek.github.io/post/2022-04-21-viendo-que-trae-de-nuevo-nextcloud-24.html</link>
+    <pubDate>Thu, 21 Apr 2022 19:11 +0100</pubDate>
+    <description>Viendo que trae de nuevo Nextcloud 24
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-04-21-viendo-que-trae-de-nuevo-nextcloud-24.html&gt;Viendo que trae de nuevo Nextcloud 24&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/51757501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-9%2F264496913-44100-2-49590f7d0e399.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-04-21-viendo-que-trae-de-nuevo-nextcloud-24.html</guid> 
+          <itunes:summary>Viendo que trae de nuevo Nextcloud 24</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
     <title>La nube no siempre es la mejor opción</title>
     <link>https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html</link>
-    <pubDate>Thu, 21 Apr 2022 12:43 +0100</pubDate>
-    <description>La nube no siempre es la mejor opción 
+    <pubDate>Thu, 21 Apr 2022 19:11 +0100</pubDate>
+    <description>La nube no siempre es la mejor opción
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html&gt;La nube no siempre es la mejor opción&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -181,7 +181,7 @@
 </description>
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/50884330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-3-21%2F260871635-44100-2-00749594a1f6e.mp3"/>
     <guid>https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html</guid> 
-          <itunes:summary>La nube no siempre es la mejor opción </itunes:summary>
+          <itunes:summary>La nube no siempre es la mejor opción</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
@@ -6829,33 +6829,6 @@
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>News y FreshRSS. Gestor de Noticias RSS.</title>
-    <link>https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html</link>
-    <pubDate>Tue, 14 Feb 2017 01:00 +0100</pubDate>
-    <description>News y FreshRSS. Gestor de Noticias RSS.
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html&gt;News y FreshRSS. Gestor de Noticias RSS.&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
-
-</description>
-    <enclosure url="https://ia801601.us.archive.org/21/items/013NewsYFreshRSS.GestorDeNoticiasRSS/%23013%20News%20y%20Fresh%20RSS.%20Gestor%20de%20Noticias%20RSS.mp3"/>
-    <guid>https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html</guid> 
-          <itunes:summary>News y FreshRSS. Gestor de Noticias RSS.</itunes:summary>
-          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
-          <itunes:explicit>No</itunes:explicit>
-   </item>
-   <item>
     <title>bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.</title>
     <link>https://ugeek.github.io/post/2017-02-14-bis-f-droid-tienda-android-de-aplicaciones-de-software-libre-y-actualizar-las-noticias-en-nextcloud.html</link>
     <pubDate>Tue, 14 Feb 2017 01:00 +0100</pubDate>
@@ -6880,6 +6853,33 @@
           <itunes:summary>bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>nextcloud,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>News y FreshRSS. Gestor de Noticias RSS.</title>
+    <link>https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html</link>
+    <pubDate>Tue, 14 Feb 2017 01:00 +0100</pubDate>
+    <description>News y FreshRSS. Gestor de Noticias RSS.
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html&gt;News y FreshRSS. Gestor de Noticias RSS.&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://ia801601.us.archive.org/21/items/013NewsYFreshRSS.GestorDeNoticiasRSS/%23013%20News%20y%20Fresh%20RSS.%20Gestor%20de%20Noticias%20RSS.mp3"/>
+    <guid>https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html</guid> 
+          <itunes:summary>News y FreshRSS. Gestor de Noticias RSS.</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
