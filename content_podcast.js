@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Kernel Panic y vuelta a empezar,',
+            'text': 'Kernel Panic y vuelta a empezar,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-06-13-kernel-panic-y-vuelta-a-empezar.html' 
+},
+{
             'title': 'Notas, servicios con arm64 y Aplicaciones Android,',
             'text': 'Notas, servicios con arm64 y Aplicaciones Android,', 
             'tags': 'terminal,bash,,,,', 
