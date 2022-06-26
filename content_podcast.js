@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Telegram Premium? Conduit, viMusic...,',
+            'text': 'Telegram Premium? Conduit, viMusic...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-06-26-telegram-premium?-conduit-vimusic--.html' 
+},
+{
             'title': 'Kernel Panic y vuelta a empezar,',
             'text': 'Kernel Panic y vuelta a empezar,', 
             'tags': 'terminal,bash,,,,', 
