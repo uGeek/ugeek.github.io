@@ -1,15 +1,33 @@
 
 {
+            'title': 'Telegram Premium? Conduit, viMusic...,',
+            'text': 'Telegram Premium? Conduit, viMusic...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-06-26-telegram-premium?-conduit-vimusic--.html' 
+},
+{
+            'title': 'Kernel Panic y vuelta a empezar,',
+            'text': 'Kernel Panic y vuelta a empezar,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-06-13-kernel-panic-y-vuelta-a-empezar.html' 
+},
+{
+            'title': 'Notas, servicios con arm64 y Aplicaciones Android,',
+            'text': 'Notas, servicios con arm64 y Aplicaciones Android,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html' 
+},
+{
+            'title': 'Más nubes. Kodbox. aplicaciones Android…,',
+            'text': 'Más nubes. Kodbox. aplicaciones Android…,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-05-17-mas-nube-kodbox-aplicaciones-android.html' 
+},
+{
             'title': 'Profundizando en Nextcloud,',
             'text': 'Profundizando en Nextcloud,', 
             'tags': 'terminal,bash,,,,', 
-            'url': 'https://ugeek.github.io/post/2022-05-12-profundizando-en-nextcloud.html' 
-},
-{
-            'title': 'Viendo que trae de nuevo Nextcloud 24,',
-            'text': 'Viendo que trae de nuevo Nextcloud 24,', 
-            'tags': 'terminal,bash,,,,', 
-            'url': 'https://ugeek.github.io/post/2022-05-09-viendo-que-trae-de-nuevo-nextcloud-24.html' 
+            'url': 'https://ugeek.github.io/post/2022-05-12-viendo-que-trae-de-nuevo-nextcloud-24.html' 
 },
 {
             'title': 'Mis Aplicaciones RSS,',
@@ -18,8 +36,14 @@
             'url': 'https://ugeek.github.io/post/2022-05-04-mis-aplicaciones-rss.html' 
 },
 {
+            'title': 'Viendo que trae de nuevo Nextcloud 24,',
+            'text': 'Viendo que trae de nuevo Nextcloud 24,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-04-21-viendo-que-trae-de-nuevo-nextcloud-24.html' 
+},
+{
             'title': 'La nube no siempre es la mejor opción,',
-            'text': 'La nube no siempre es la mejor opción ,', 
+            'text': 'La nube no siempre es la mejor opción,', 
             'tags': 'terminal,bash,,,,', 
             'url': 'https://ugeek.github.io/post/2022-04-21-la-nube-no-siempre-es-la-mejor-opcion.html' 
 },
@@ -1500,16 +1524,16 @@
             'url': 'https://ugeek.github.io/post/2017-02-15-notas-en-nextcloud-y-markdown.html' 
 },
 {
-            'title': 'News y FreshRSS. Gestor de Noticias RSS.,',
-            'text': 'News y FreshRSS. Gestor de Noticias RSS.,', 
-            'tags': 'servidor,podcast,rss,,,', 
-            'url': 'https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html' 
-},
-{
             'title': 'bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.,',
             'text': 'bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.,', 
             'tags': 'android,podcast,app,nextcloud,,', 
             'url': 'https://ugeek.github.io/post/2017-02-14-bis-f-droid-tienda-android-de-aplicaciones-de-software-libre-y-actualizar-las-noticias-en-nextcloud.html' 
+},
+{
+            'title': 'News y FreshRSS. Gestor de Noticias RSS.,',
+            'text': 'News y FreshRSS. Gestor de Noticias RSS.,', 
+            'tags': 'servidor,podcast,rss,,,', 
+            'url': 'https://ugeek.github.io/post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html' 
 },
 {
             'title': 'Como actualizar Nextcloud y salir del modo de "mantenimiento",',
