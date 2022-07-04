@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sun, 26 Jun 2022 12:49 +0100</pubDate>
+    <pubDate>Mon, 04 Jul 2022 12:22 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Navega rápido y filtrando toda la publicidad con el 3 en 1</title>
+    <link>https://ugeek.github.io/post/2022-07-04-navega-rapido-y-filtrando-toda-la-publicidad-con-el-3-en-1.html</link>
+    <pubDate>Mon, 04 Jul 2022 12:18 +0100</pubDate>
+    <description>https://ugeek.github.io/blog/post/2022-07-04-navegando-sin-publicidad-con-blocky-socks5-y-wireguard.html
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-07-04-navega-rapido-y-filtrando-toda-la-publicidad-con-el-3-en-1.html&gt;Navega rápido y filtrando toda la publicidad con el 3 en 1&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/54369589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-6-4%2F274896127-44100-1-72c13654b0017.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-07-04-navega-rapido-y-filtrando-toda-la-publicidad-con-el-3-en-1.html</guid> 
+          <itunes:summary>https://ugeek.github.io/blog/post/2022-07-04-navegando-sin-publicidad-con-blocky-socks5-y-wireguard.html</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Telegram Premium? Conduit, viMusic...</title>
     <link>https://ugeek.github.io/post/2022-06-26-telegram-premium?-conduit-vimusic--.html</link>
