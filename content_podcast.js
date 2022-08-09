@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Bloqueo a Internet o servicios por tiempos,',
+            'text': 'Bloqueo a Internet o servicios por tiempos,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-08-09-bloqueo-a-internet-o-servicios-por-tiempos.html' 
+},
+{
             'title': 'Navega rápido y filtrando toda la publicidad con el 3 en 1,',
             'text': 'https://ugeek.github.io/blog/post/2022-07-04-navegando-sin-publicidad-con-blocky-socks5-y-wireguard.html,', 
             'tags': 'terminal,bash,,,,', 
