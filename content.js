@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Domótica y mi nuevo navegador en Android,',
+            'text': 'El navegador Android es Soul Browser ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-08-24-domotica-y-mi-nuevo-navegador-en-android.html' 
+},
+{
             'title': 'Bloqueo a Internet o servicios por tiempos,',
             'text': 'Bloqueo a Internet o servicios por tiempos,', 
             'tags': 'terminal,bash,,,,', 
