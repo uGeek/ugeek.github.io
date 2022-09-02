@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 24 Aug 2022 20:30 +0100</pubDate>
+    <pubDate>Fri, 02 Sep 2022 17:49 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Algunas de las aplicaciones móviles que utilizo</title>
+    <link>https://ugeek.github.io/post/2022-09-02-algunas-de-las-aplicaciones-moviles-que-utilizo.html</link>
+    <pubDate>Fri, 02 Sep 2022 17:46 +0100</pubDate>
+    <description>Algunas de las aplicaciones móviles que utilizo 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-09-02-algunas-de-las-aplicaciones-moviles-que-utilizo.html&gt;Algunas de las aplicaciones móviles que utilizo&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/57007132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-8-2%2F283740375-44100-2-d9e65453d9512.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-09-02-algunas-de-las-aplicaciones-moviles-que-utilizo.html</guid> 
+          <itunes:summary>Algunas de las aplicaciones móviles que utilizo </itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Domótica y mi nuevo navegador en Android</title>
     <link>https://ugeek.github.io/post/2022-08-24-domotica-y-mi-nuevo-navegador-en-android.html</link>

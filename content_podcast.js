@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Algunas de las aplicaciones móviles que utilizo,',
+            'text': 'Algunas de las aplicaciones móviles que utilizo ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-02-algunas-de-las-aplicaciones-moviles-que-utilizo.html' 
+},
+{
             'title': 'Domótica y mi nuevo navegador en Android,',
             'text': 'El navegador Android es Soul Browser ,', 
             'tags': 'terminal,bash,,,,', 
