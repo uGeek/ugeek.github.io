@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Fri, 02 Sep 2022 17:49 +0100</pubDate>
+    <pubDate>Mon, 05 Sep 2022 19:47 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Servicios para podcast, audiolibros... Aplicaciones OpenSource de YouTube y Twitch</title>
+    <link>https://ugeek.github.io/post/2022-09-05-servicios-para-podcast-audiolibros--aplicaciones-opensource-de-youtube-y-twitch.html</link>
+    <pubDate>Mon, 05 Sep 2022 19:44 +0100</pubDate>
+    <description>audioserve: https://github.com/izderadicka/audioserve. Aplicaciones Android NewPipe x SponsorBlock , Xtra.
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-09-05-servicios-para-podcast-audiolibros--aplicaciones-opensource-de-youtube-y-twitch.html&gt;Servicios para podcast, audiolibros... Aplicaciones OpenSource de YouTube y Twitch&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/57123583/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-5%2F639bc1d2-a73a-e34a-e310-8509111f1db6.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-09-05-servicios-para-podcast-audiolibros--aplicaciones-opensource-de-youtube-y-twitch.html</guid> 
+          <itunes:summary>audioserve: https://github.com/izderadicka/audioserve. Aplicaciones Android NewPipe x SponsorBlock , Xtra.</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Algunas de las aplicaciones móviles que utilizo</title>
     <link>https://ugeek.github.io/post/2022-09-02-algunas-de-las-aplicaciones-moviles-que-utilizo.html</link>

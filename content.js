@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Servicios para podcast, audiolibros... Aplicaciones OpenSource de YouTube y Twitch,',
+            'text': 'audioserve: https://github.com/izderadicka/audioserve. Aplicaciones Android NewPipe x SponsorBlock , Xtra.,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-05-servicios-para-podcast-audiolibros--aplicaciones-opensource-de-youtube-y-twitch.html' 
+},
+{
             'title': 'Algunas de las aplicaciones móviles que utilizo,',
             'text': 'Algunas de las aplicaciones móviles que utilizo ,', 
             'tags': 'terminal,bash,,,,', 
