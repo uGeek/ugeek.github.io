@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Guardando el contenido de mis servicios,',
+            'text': 'Guardando el contenido de mis servicios,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-08-guardando-el-contenido-de-mis-servicios.html' 
+},
+{
             'title': 'Servicios para podcast, audiolibros... Aplicaciones OpenSource de YouTube y Twitch,',
             'text': 'audioserve: https://github.com/izderadicka/audioserve. Aplicaciones Android NewPipe x SponsorBlock , Xtra.,', 
             'tags': 'terminal,bash,,,,', 

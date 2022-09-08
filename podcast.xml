@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 05 Sep 2022 19:47 +0100</pubDate>
+    <pubDate>Thu, 08 Sep 2022 18:33 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Guardando el contenido de mis servicios</title>
+    <link>https://ugeek.github.io/post/2022-09-08-guardando-el-contenido-de-mis-servicios.html</link>
+    <pubDate>Thu, 08 Sep 2022 18:30 +0100</pubDate>
+    <description>Guardando el contenido de mis servicios
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-09-08-guardando-el-contenido-de-mis-servicios.html&gt;Guardando el contenido de mis servicios&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/57274516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-8%2F98dd713f-e9fe-85ea-4c04-d822bc2ce686.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-09-08-guardando-el-contenido-de-mis-servicios.html</guid> 
+          <itunes:summary>Guardando el contenido de mis servicios</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Servicios para podcast, audiolibros... Aplicaciones OpenSource de YouTube y Twitch</title>
     <link>https://ugeek.github.io/post/2022-09-05-servicios-para-podcast-audiolibros--aplicaciones-opensource-de-youtube-y-twitch.html</link>
