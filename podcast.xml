@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 08 Sep 2022 18:33 +0100</pubDate>
+    <pubDate>Wed, 14 Sep 2022 20:05 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Utilizando servicios populares manteniendo tu privacidad. Los backends</title>
+    <link>https://ugeek.github.io/post/2022-09-14-utilizando-servicios-populares-manteniendo-tu-privacidad-los-backends.html</link>
+    <pubDate>Wed, 14 Sep 2022 20:03 +0100</pubDate>
+    <description>Utilizando servicios populares manteniendo tu privacidad. Los backends
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-09-14-utilizando-servicios-populares-manteniendo-tu-privacidad-los-backends.html&gt;Utilizando servicios populares manteniendo tu privacidad. Los backends&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/57571798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-14%2F134f5310-3317-1721-16df-12e2ac698c2f.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-09-14-utilizando-servicios-populares-manteniendo-tu-privacidad-los-backends.html</guid> 
+          <itunes:summary>Utilizando servicios populares manteniendo tu privacidad. Los backends</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Guardando el contenido de mis servicios</title>
     <link>https://ugeek.github.io/post/2022-09-08-guardando-el-contenido-de-mis-servicios.html</link>

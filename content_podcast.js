@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Utilizando servicios populares manteniendo tu privacidad. Los backends,',
+            'text': 'Utilizando servicios populares manteniendo tu privacidad. Los backends,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-14-utilizando-servicios-populares-manteniendo-tu-privacidad-los-backends.html' 
+},
+{
             'title': 'Guardando el contenido de mis servicios,',
             'text': 'Guardando el contenido de mis servicios,', 
             'tags': 'terminal,bash,,,,', 
