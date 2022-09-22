@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Servidor de Libros, Comics y Mangas. kavita,',
+            'text': 'Servidor de Libros, Comics y Mangas. kavita,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-22-servidor-de-libros-comics-y-mangas-kavita.html' 
+},
+{
             'title': 'Utilizando servicios populares manteniendo tu privacidad. Los backends,',
             'text': 'Utilizando servicios populares manteniendo tu privacidad. Los backends,', 
             'tags': 'terminal,bash,,,,', 
