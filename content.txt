@@ -1,5 +1,47 @@
 
 {
+            'title': 'Servidor de Libros, Comics y Mangas. kavita,',
+            'text': 'Servidor de Libros, Comics y Mangas. kavita,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-22-servidor-de-libros-comics-y-mangas-kavita.html' 
+},
+{
+            'title': 'Utilizando servicios populares manteniendo tu privacidad. Los backends,',
+            'text': 'Utilizando servicios populares manteniendo tu privacidad. Los backends,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-14-utilizando-servicios-populares-manteniendo-tu-privacidad-los-backends.html' 
+},
+{
+            'title': 'Guardando el contenido de mis servicios,',
+            'text': 'Guardando el contenido de mis servicios,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-08-guardando-el-contenido-de-mis-servicios.html' 
+},
+{
+            'title': 'Servicios para podcast, audiolibros... Aplicaciones OpenSource de YouTube y Twitch,',
+            'text': 'audioserve: https://github.com/izderadicka/audioserve. Aplicaciones Android NewPipe x SponsorBlock , Xtra.,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-05-servicios-para-podcast-audiolibros--aplicaciones-opensource-de-youtube-y-twitch.html' 
+},
+{
+            'title': 'Algunas de las aplicaciones móviles que utilizo,',
+            'text': 'Algunas de las aplicaciones móviles que utilizo ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-02-algunas-de-las-aplicaciones-moviles-que-utilizo.html' 
+},
+{
+            'title': 'Domótica y mi nuevo navegador en Android,',
+            'text': 'El navegador Android es Soul Browser ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-08-24-domotica-y-mi-nuevo-navegador-en-android.html' 
+},
+{
+            'title': 'Bloqueo a Internet o servicios por tiempos,',
+            'text': 'Bloqueo a Internet o servicios por tiempos,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-08-09-bloqueo-a-internet-o-servicios-por-tiempos.html' 
+},
+{
             'title': 'Navega rápido y filtrando toda la publicidad con el 3 en 1,',
             'text': 'https://ugeek.github.io/blog/post/2022-07-04-navegando-sin-publicidad-con-blocky-socks5-y-wireguard.html,', 
             'tags': 'terminal,bash,,,,', 
