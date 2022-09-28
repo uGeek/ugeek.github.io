@@ -1,5 +1,11 @@
 
 {
+            'title': 'Jellyfin siempre acaba siendo la mejor opción,',
+            'text': 'Jellyfin siempre acaba siendo la mejor opción. Just Player: https://play.google.com/store/apps/details?id=com.brouken.player&amp;hl=es&amp;gl=US,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-09-28-jellyfin-siempre-acaba-siendo-la-mejor-opcion.html' 
+},
+{
             'title': 'Servidor de Libros, Comics y Mangas. kavita,',
             'text': 'Servidor de Libros, Comics y Mangas. kavita,', 
             'tags': 'terminal,bash,,,,', 
