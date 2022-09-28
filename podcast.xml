@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 22 Sep 2022 19:02 +0100</pubDate>
+    <pubDate>Wed, 28 Sep 2022 20:11 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Jellyfin siempre acaba siendo la mejor opción</title>
+    <link>https://ugeek.github.io/post/2022-09-28-jellyfin-siempre-acaba-siendo-la-mejor-opcion.html</link>
+    <pubDate>Wed, 28 Sep 2022 20:08 +0100</pubDate>
+    <description>Jellyfin siempre acaba siendo la mejor opción. Just Player: https://play.google.com/store/apps/details?id=com.brouken.player&amp;hl=es&amp;gl=US
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-09-28-jellyfin-siempre-acaba-siendo-la-mejor-opcion.html&gt;Jellyfin siempre acaba siendo la mejor opción&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/58271030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-28%2Fa402399e-ca59-0929-c6aa-0d8f8738d5c5.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-09-28-jellyfin-siempre-acaba-siendo-la-mejor-opcion.html</guid> 
+          <itunes:summary>Jellyfin siempre acaba siendo la mejor opción. Just Player: https://play.google.com/store/apps/details?id=com.brouken.player&amp;hl=es&amp;gl=US</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Servidor de Libros, Comics y Mangas. kavita</title>
     <link>https://ugeek.github.io/post/2022-09-22-servidor-de-libros-comics-y-mangas-kavita.html</link>
