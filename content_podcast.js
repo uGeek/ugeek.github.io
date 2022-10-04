@@ -3,7 +3,7 @@ var tipuesearch = {pages: [
             'title': 'Just (Video) Player. Reproducción desde la nube,',
             'text': 'Just (Video) Player,', 
             'tags': 'terminal,bash,,,,', 
-            'url': 'https://ugeek.github.io/post/2022-10-03-just-(video)-player-reproduccion-desde-la-nube.html' 
+            'url': 'https://ugeek.github.io/post/2022-10-04-just-(video)-player-reproduccion-desde-la-nube.html' 
 },
 {
             'title': 'Jellyfin siempre acaba siendo la mejor opción,',
