@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 04 Oct 2022 20:03 +0100</pubDate>
+    <pubDate>Mon, 10 Oct 2022 10:55 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>No lo dudes. FreshRSS y Shaarli son la mejor opción</title>
+    <link>https://ugeek.github.io/post/2022-10-10-no-lo-dudes-freshrss-y-shaarli-son-la-mejor-opcion.html</link>
+    <pubDate>Mon, 10 Oct 2022 10:52 +0100</pubDate>
+    <description>No lo dudes. FreshRSS y Shaarli son la mejor opción
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-10-10-no-lo-dudes-freshrss-y-shaarli-son-la-mejor-opcion.html&gt;No lo dudes. FreshRSS y Shaarli son la mejor opción&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/58826052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-9-10%2F290246672-44100-1-134f7bbf2397f.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-10-10-no-lo-dudes-freshrss-y-shaarli-son-la-mejor-opcion.html</guid> 
+          <itunes:summary>No lo dudes. FreshRSS y Shaarli son la mejor opción</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Just (Video) Player. Reproducción desde la nube</title>
     <link>https://ugeek.github.io/post/2022-10-04-just-(video)-player-reproduccion-desde-la-nube.html</link>

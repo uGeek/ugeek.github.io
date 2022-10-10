@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'No lo dudes. FreshRSS y Shaarli son la mejor opción,',
+            'text': 'No lo dudes. FreshRSS y Shaarli son la mejor opción,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-10-10-no-lo-dudes-freshrss-y-shaarli-son-la-mejor-opcion.html' 
+},
+{
             'title': 'Just (Video) Player. Reproducción desde la nube,',
             'text': 'Just (Video) Player,', 
             'tags': 'terminal,bash,,,,', 
