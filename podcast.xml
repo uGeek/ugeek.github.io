@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 10 Oct 2022 10:55 +0100</pubDate>
+    <pubDate>Sat, 22 Oct 2022 21:18 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Firefox para móvil en 2 minutos</title>
+    <link>https://ugeek.github.io/post/2022-10-22-firefox-para-movil-en-2-minutos.html</link>
+    <pubDate>Sat, 22 Oct 2022 21:15 +0100</pubDate>
+    <description>https://ugeek.github.io/blog/post/2022-09-30-firefox-navegador-movil.html
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-10-22-firefox-para-movil-en-2-minutos.html&gt;Firefox para móvil en 2 minutos&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/59438232/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-9-22%2F292553759-44100-1-ddef8ef30003e.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-10-22-firefox-para-movil-en-2-minutos.html</guid> 
+          <itunes:summary>https://ugeek.github.io/blog/post/2022-09-30-firefox-navegador-movil.html</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>No lo dudes. FreshRSS y Shaarli son la mejor opción</title>
     <link>https://ugeek.github.io/post/2022-10-10-no-lo-dudes-freshrss-y-shaarli-son-la-mejor-opcion.html</link>

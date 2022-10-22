@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Firefox para móvil en 2 minutos,',
+            'text': 'https://ugeek.github.io/blog/post/2022-09-30-firefox-navegador-movil.html,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-10-22-firefox-para-movil-en-2-minutos.html' 
+},
+{
             'title': 'No lo dudes. FreshRSS y Shaarli son la mejor opción,',
             'text': 'No lo dudes. FreshRSS y Shaarli son la mejor opción,', 
             'tags': 'terminal,bash,,,,', 
