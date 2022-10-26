@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Capturando información de Internet,',
+            'text': 'Las extensiones que comento en el podcast son: Copy as Markdown, Copy as Org-mode, Markdown Viewer, SingleFile,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-10-26-capturando-informacion-de-internet.html' 
+},
+{
             'title': 'Firefox para móvil en 2 minutos,',
             'text': 'https://ugeek.github.io/blog/post/2022-09-30-firefox-navegador-movil.html,', 
             'tags': 'terminal,bash,,,,', 
