@@ -1,5 +1,11 @@
 
 {
+            'title': 'Charla con atareao sobre servicios y mucho más,',
+            'text': 'Primera parte de la charla con atareo de https://atareao.es. Suscribete a su podcast en el feed https://anchor.fm/s/5a5b39c/podcast/rss,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-12-07-charla-con-atareao-sobre-servicios-y-mucho-mas.html' 
+},
+{
             'title': 'Capturando información de Internet,',
             'text': 'Las extensiones que comento en el podcast son: Copy as Markdown, Copy as Org-mode, Markdown Viewer, SingleFile,', 
             'tags': 'terminal,bash,,,,', 
