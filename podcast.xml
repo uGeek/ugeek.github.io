@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 26 Oct 2022 19:32 +0100</pubDate>
+    <pubDate>Wed, 07 Dec 2022 10:57 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Charla con atareao sobre servicios y mucho más</title>
+    <link>https://ugeek.github.io/post/2022-12-07-charla-con-atareao-sobre-servicios-y-mucho-mas.html</link>
+    <pubDate>Wed, 07 Dec 2022 10:55 +0100</pubDate>
+    <description>Primera parte de la charla con atareo de https://atareao.es. Suscribete a su podcast en el feed https://anchor.fm/s/5a5b39c/podcast/rss
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-12-07-charla-con-atareao-sobre-servicios-y-mucho-mas.html&gt;Charla con atareao sobre servicios y mucho más&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/61815215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F106db04%2F61815215%2F6ccb3b22f947971a7fa60dde62d8b1b8.m4a"/>
+    <guid>https://ugeek.github.io/post/2022-12-07-charla-con-atareao-sobre-servicios-y-mucho-mas.html</guid> 
+          <itunes:summary>Primera parte de la charla con atareo de https://atareao.es. Suscribete a su podcast en el feed https://anchor.fm/s/5a5b39c/podcast/rss</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Capturando información de Internet</title>
     <link>https://ugeek.github.io/post/2022-10-26-capturando-informacion-de-internet.html</link>
