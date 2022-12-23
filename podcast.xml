@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 07 Dec 2022 10:57 +0100</pubDate>
+    <pubDate>Fri, 23 Dec 2022 12:17 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Notas, Manjaro, Jellyfin podcast,...</title>
+    <link>https://ugeek.github.io/post/2022-12-23-notas-manjaro-jellyfin-podcast--.html</link>
+    <pubDate>Fri, 23 Dec 2022 12:14 +0100</pubDate>
+    <description>https://play.google.com/store/apps/details?id=de.eindm.boum
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2022-12-23-notas-manjaro-jellyfin-podcast--.html&gt;Notas, Manjaro, Jellyfin podcast,...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/62597117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-11-23%2F304517330-44100-2-5a2b3435af523.mp3"/>
+    <guid>https://ugeek.github.io/post/2022-12-23-notas-manjaro-jellyfin-podcast--.html</guid> 
+          <itunes:summary>https://play.google.com/store/apps/details?id=de.eindm.boum</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Charla con atareao sobre servicios y mucho más</title>
     <link>https://ugeek.github.io/post/2022-12-07-charla-con-atareao-sobre-servicios-y-mucho-mas.html</link>

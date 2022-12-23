@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Notas, Manjaro, Jellyfin podcast,...,',
+            'text': 'https://play.google.com/store/apps/details?id=de.eindm.boum,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-12-23-notas-manjaro-jellyfin-podcast--.html' 
+},
+{
             'title': 'Charla con atareao sobre servicios y mucho más,',
             'text': 'Primera parte de la charla con atareo de https://atareao.es. Suscribete a su podcast en el feed https://anchor.fm/s/5a5b39c/podcast/rss,', 
             'tags': 'terminal,bash,,,,', 
