@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'El porque de Manjaro y no Ubuntu,',
+            'text': 'El porque de Manjaro y no Ubuntu,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2022-12-29-el-porque-de-manjaro-y-no-ubuntu.html' 
+},
+{
             'title': 'Notas, Manjaro, Jellyfin podcast,...,',
             'text': 'https://play.google.com/store/apps/details?id=de.eindm.boum,', 
             'tags': 'terminal,bash,,,,', 
