@@ -4,7 +4,7 @@
     <link>https://ugeek.github.io</link>
     <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
     <image>
-       <url>https://ugeek.github.io/https://ugeek.github.io/ugeek.png</url>
+       <url>https://ugeek.github.io/ugeek.png</url>
        <title>uGeek Podcast</title>
        <link>https://ugeek.github.io</link>
     </image>
@@ -22,7 +22,7 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sat, 31 Dec 2022 12:07 +0100</pubDate>
+    <pubDate>Sat, 31 Dec 2022 12:12 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>El porque de Manjaro y no Ubuntu</title>
