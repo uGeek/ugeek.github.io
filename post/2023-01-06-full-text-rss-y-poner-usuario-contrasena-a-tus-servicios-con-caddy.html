@@ -1,7 +1,7 @@
 <head>
-<title>PodGrab. Mi nuevo servidor de Podcast. uGeek Podcast</title>
+<title>Full-Text RSS y poner usuario-contraseña a tus servicios con Caddy. uGeek Podcast</title>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<link rel="canonical" href="https://ugeek.github.io/post/2021-01-14-podgrab-mi-nuevo-servidor-de-podcast.html" />
+<link rel="canonical" href="https://ugeek.github.io/post/2023-01-06-full-text-rss-y-poner-usuario-contrasena-a-tus-servicios-con-caddy.html" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <div id="logo"><a href="https://ugeek.github.io"><img src="../icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
@@ -28,19 +28,19 @@
 
 <meta name="author" content="Angel">
 <meta name="keywords" content="terminal,bash">
-<meta name="description" content="PodGrab. Mi nuevo servidor de Podcast" />
+<meta name="description" content="Artículo del blog de GeekLand: https://geekland.eu/construir-un-feed-con-el-contenido-completo-de-un-articulo/ Demo del servicio: http://ftr.fivefilters.org/" />
 
 <!-- Open Graph data -->
 <meta property="og:site_name" content="uGeek Podcast"/>
 <meta property="og:type" content="article" /> 
-<meta property="og:title" content="PodGrab. Mi nuevo servidor de Podcast" />
-<meta property="og:description" content="PodGrab. Mi nuevo servidor de Podcast" />
+<meta property="og:title" content="Full-Text RSS y poner usuario-contraseña a tus servicios con Caddy" />
+<meta property="og:description" content="Artículo del blog de GeekLand: https://geekland.eu/construir-un-feed-con-el-contenido-completo-de-un-articulo/ Demo del servicio: http://ftr.fivefilters.org/" />
 <meta property="og:image" content="https://ugeek.github.io/blog/icon/ugeek.png" />
-<meta property="og:url" content="https://ugeek.github.io/post/2021-01-14-podgrab-mi-nuevo-servidor-de-podcast.html" />
+<meta property="og:url" content="https://ugeek.github.io/post/2023-01-06-full-text-rss-y-poner-usuario-contrasena-a-tus-servicios-con-caddy.html" />
 <meta property="article:tag" content="terminal,bash" />
 
-<meta name="twitter:title" content="PodGrab. Mi nuevo servidor de Podcast" />
-<meta name="twitter:description" content="PodGrab. Mi nuevo servidor de Podcast" />
+<meta name="twitter:title" content="Full-Text RSS y poner usuario-contraseña a tus servicios con Caddy" />
+<meta name="twitter:description" content="Artículo del blog de GeekLand: https://geekland.eu/construir-un-feed-con-el-contenido-completo-de-un-articulo/ Demo del servicio: http://ftr.fivefilters.org/" />
 <meta name="twitter:image" content="https://ugeek.github.io/images-blog/https://ugeek.github.io/blog/icon/ugeek.png" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->                                                                                      
@@ -57,15 +57,15 @@ gtag("config", "");
 <br><br><br><br><br><br><br><br><br>
  <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"/> <div id="name"><a href="https://ugeek.github.io/blog/"><tt>Blog de Tecnología</tt></div></a> <div id="icon"> <a href="http://feeds.feedburner.com/uGeek" title="rss" alt="rss"><img src="../icon/podcast.png" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="http://feeds.feedburner.com/uGeekBlog" alt="rss"><img src="../icon/rss.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="../icon/github.png" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="../icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://twitter.com/ugeekpodcast"><img src="../icon/twitter.png" width="25" height="25" alt="Twitter"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="../icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/tag.html"><tt>Tags</tt></a></div>
 
-<h1 id="podgrab.-mi-nuevo-servidor-de-podcast-1" title="PodGrab. Mi nuevo servidor de Podcast" data-export_file_name="podgrab-mi-nuevo-servidor-de-podcast" data-description="PodGrab. Mi nuevo servidor de Podcast" data-export_date="2021-01-14 19:20" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png" data-url_audio="https://anchor.fm/s/106db04/podcast/play/25196111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-0-14%2F145513037-44100-1-4d770ddc4438e.mp3" data-explicit="No">PodGrab. Mi nuevo servidor de Podcast</h1>
-<p>PodGrab. Mi nuevo servidor de Podcast</p>
-<audio controls=''><source src=https://anchor.fm/s/106db04/podcast/play/25196111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-0-14%2F145513037-44100-1-4d770ddc4438e.mp3 />Tu navegador no soporta reproductor de Podcast.</audio>
+<h1 id="full-text-rss-y-poner-usuario-contraseña-a-tus-servicios-con-caddy-1" title="Full-Text RSS y poner usuario-contraseña a tus servicios con Caddy" data-export_file_name="full-text-rss-y-poner-usuario-contrasena-a-tus-servicios-con-caddy" data-description="Artículo del blog de GeekLand: https://geekland.eu/construir-un-feed-con-el-contenido-completo-de-un-articulo/ Demo del servicio: http://ftr.fivefilters.org/" data-export_date="2023-01-06 23:02" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png" data-url_audio="https://anchor.fm/s/106db04/podcast/play/63158157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-6%2F1674e007-effe-144a-3fd6-d4d96288504c.mp3" data-explicit="No">Full-Text RSS y poner usuario-contraseña a tus servicios con Caddy</h1>
+<p>Artículo del blog de GeekLand: <a href="https://geekland.eu/construir-un-feed-con-el-contenido-completo-de-un-articulo/">https://geekland.eu/construir-un-feed-con-el-contenido-completo-de-un-articulo/</a> Demo del servicio: <a href="http://ftr.fivefilters.org/">http://ftr.fivefilters.org/</a></p>
+<audio controls=''><source src=https://anchor.fm/s/106db04/podcast/play/63158157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-6%2F1674e007-effe-144a-3fd6-d4d96288504c.mp3 />Tu navegador no soporta reproductor de Podcast.</audio>
 <ul>
 <li><a href="://ugeek.github.io//ugeek.github.io/podcast.xml">Suscribete al Podcast de uGeek</a></li>
 <li>Visita los artículo y podcast en <a href="://ugeek.github.io//ugeek.github.io/"><a href="https://ugeek.github.io/">https://ugeek.github.io/</a></a></li>
 </ul>
 <br>
-<p>Publicado por Angel el Thursday 14 January del 2021</p>
+<p>Publicado por Angel el Friday 06 January del 2023</p>
 <br><br> 
 <p>También te puede interesar:</p>
 <ul>
