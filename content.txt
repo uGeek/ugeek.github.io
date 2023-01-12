@@ -1,5 +1,11 @@
 
 {
+            'title': 'Autenticación con usuario y contraseña en la misma URL,',
+            'text': 'https://usuario:contraseña@URL,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-01-11-autenticacion-con-usuario-y-contrasena-en-la-misma-url.html' 
+},
+{
             'title': 'Full-Text RSS y poner usuario-contraseña a tus servicios con Caddy,',
             'text': 'Artículo del blog de GeekLand: https://geekland.eu/construir-un-feed-con-el-contenido-completo-de-un-articulo/ Demo del servicio: http://ftr.fivefilters.org/,', 
             'tags': 'terminal,bash,,,,', 
