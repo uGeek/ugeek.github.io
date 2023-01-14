@@ -1,5 +1,11 @@
 
 {
+            'title': 'PC de solo 2Gb de RAM, actualización ZN y más cosas...,',
+            'text': 'PC de solo 2Gb de RAM, actualización ZN y más cosas...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-01-13-pc-de-solo-2gb-de-ram-actualizacion-zn-y-mas-cosas--.html' 
+},
+{
             'title': 'Autenticación con usuario y contraseña en la misma URL,',
             'text': 'https://usuario:contraseña@URL,', 
             'tags': 'terminal,bash,,,,', 
