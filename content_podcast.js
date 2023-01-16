@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Raspberry Pi con Manjaro,',
+            'text': 'Raspberry Pi con Manjaro,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-01-16-raspberry-pi-con-manjaro.html' 
+},
+{
             'title': 'PC de solo 2Gb de RAM, actualización ZN y más cosas...,',
             'text': 'PC de solo 2Gb de RAM, actualización ZN y más cosas...,', 
             'tags': 'terminal,bash,,,,', 

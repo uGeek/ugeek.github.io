@@ -13,6 +13,39 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
+    <title>Raspberry Pi con Manjaro</title>
+    <link>https://ugeek.github.io/post/2023-01-16-raspberry-pi-con-manjaro.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Raspberry Pi con Manjaro"&gt;
+&lt;br&gt;&lt;p&gt;Raspberry Pi con Manjaro... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-01-16-raspberry-pi-con-manjaro.html&gt;Raspberry Pi con Manjaro&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 16 Jan 2023 13:07 +0100</pubDate>
+    <category>terminal</category>
+    <category>bash</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/post/2023-01-16-raspberry-pi-con-manjaro.html</guid>
+   </item>
+   <item>
     <title>PC de solo 2Gb de RAM, actualización ZN y más cosas...</title>
     <link>https://ugeek.github.io/post/2023-01-13-pc-de-solo-2gb-de-ram-actualizacion-zn-y-mas-cosas--.html</link>
     <description>
