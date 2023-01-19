@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'MultiApp, traducción de Zettel Notes, Floccus, Extensiones Firefox - Mull,',
+            'text': '- Traducción de Zettel Notes en: https://crowdin.com/project/zettel-notes,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-01-19-multiapp-traduccion-de-zettel-notes-floccus-extensiones-firefox--mull.html' 
+},
+{
             'title': 'Raspberry Pi con Manjaro,',
             'text': 'Raspberry Pi con Manjaro,', 
             'tags': 'terminal,bash,,,,', 
