@@ -22,6 +22,7 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
+<<<<<<< HEAD
     <pubDate>Thu, 19 Jan 2023 20:40 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
@@ -79,6 +80,11 @@
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
+=======
+    <pubDate>Fri, 13 Jan 2023 22:23 +0100</pubDate>
+    <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+>>>>>>> parent of 65a6346... update
     <title>PC de solo 2Gb de RAM, actualización ZN y más cosas...</title>
     <link>https://ugeek.github.io/post/2023-01-13-pc-de-solo-2gb-de-ram-actualizacion-zn-y-mas-cosas--.html</link>
     <pubDate>Fri, 13 Jan 2023 21:43 +0100</pubDate>
