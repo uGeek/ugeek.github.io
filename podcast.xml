@@ -22,7 +22,7 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 19 Jan 2023 18:20 +0100</pubDate>
+    <pubDate>Thu, 19 Jan 2023 18:33 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>Raspberry Pi con Manjaro</title>
@@ -7793,7 +7793,7 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <enclosure url="https://archive.org/download/HolaMundo_201701/Hola%20Mundo.mp3"/>
+    <enclosure url="https://ia801406.us.archive.org/8/items/HolaMundo_201701/Hola%20Mundo.mp3"/>
     <guid>https://ugeek.github.io/post/2017-01-26-hola-mundo.html</guid> 
           <itunes:summary>Hola Mundo</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
