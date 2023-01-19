@@ -1,6 +1,5 @@
 var tipuesearch = {pages: [
 {
-<<<<<<< HEAD
             'title': 'MultiApp, traducción de Zettel Notes, Floccus, Extensiones Firefox - Mull,',
             'text': '- Traducción de Zettel Notes ,', 
             'tags': 'terminal,bash,,,,', 
@@ -13,8 +12,6 @@ var tipuesearch = {pages: [
             'url': 'https://ugeek.github.io/post/2023-01-16-raspberry-pi-con-manjaro.html' 
 },
 {
-=======
->>>>>>> parent of 65a6346... update
             'title': 'PC de solo 2Gb de RAM, actualización ZN y más cosas...,',
             'text': 'PC de solo 2Gb de RAM, actualización ZN y más cosas...,', 
             'tags': 'terminal,bash,,,,', 

@@ -13,7 +13,6 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
-<<<<<<< HEAD
     <title>MultiApp, traducción de Zettel Notes, Floccus, Extensiones Firefox - Mull</title>
     <link>https://ugeek.github.io/post/2023-01-19-multiapp-traduccion-de-zettel-notes-floccus-extensiones-firefox-mull.html</link>
     <description>
@@ -80,8 +79,6 @@
     <guid>https://ugeek.github.io/post/2023-01-16-raspberry-pi-con-manjaro.html</guid>
    </item>
    <item>
-=======
->>>>>>> parent of 65a6346... update
     <title>PC de solo 2Gb de RAM, actualización ZN y más cosas...</title>
     <link>https://ugeek.github.io/post/2023-01-13-pc-de-solo-2gb-de-ram-actualizacion-zn-y-mas-cosas--.html</link>
     <description>
