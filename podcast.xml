@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 19 Jan 2023 21:56 +0100</pubDate>
+    <pubDate>Thu, 26 Jan 2023 06:50 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Encendido remoto de PC, ZSH, modo markdown</title>
+    <link>https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html</link>
+    <pubDate>Thu, 26 Jan 2023 06:47 +0100</pubDate>
+    <description>Encendido remoto de PC, ZSH, modo markdown
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html&gt;Encendido remoto de PC, ZSH, modo markdown&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/64052839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-0-26%2F309463314-44100-2-6bf3ede11c304.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html</guid> 
+          <itunes:summary>Encendido remoto de PC, ZSH, modo markdown</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>MultiApp, traducción de Zettel Notes, Floccus, Extensiones Firefox - Mull</title>
     <link>https://ugeek.github.io/post/2023-01-19-multiapp-traduccion-de-zettel-notes-floccus-extensiones-firefox-mull.html</link>

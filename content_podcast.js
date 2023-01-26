@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Encendido remoto de PC, ZSH, modo markdown,',
+            'text': 'Encendido remoto de PC, ZSH, modo markdown,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html' 
+},
+{
             'title': 'MultiApp, traducción de Zettel Notes, Floccus, Extensiones Firefox - Mull,',
             'text': '- Traducción de Zettel Notes ,', 
             'tags': 'terminal,bash,,,,', 
