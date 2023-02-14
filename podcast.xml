@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 26 Jan 2023 06:50 +0100</pubDate>
+    <pubDate>Tue, 14 Feb 2023 07:11 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Notas, audiobookshelf, jellyfin...</title>
+    <link>https://ugeek.github.io/post/2023-02-14-notas-audiobookshelf-jellyfin--.html</link>
+    <pubDate>Tue, 14 Feb 2023 07:08 +0100</pubDate>
+    <description>Notas, audiobookshelf, jellyfin...
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-02-14-notas-audiobookshelf-jellyfin--.html&gt;Notas, audiobookshelf, jellyfin...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/64978072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2Fe9cd09a6-cfb7-73be-e623-d68b7b60fee8.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-02-14-notas-audiobookshelf-jellyfin--.html</guid> 
+          <itunes:summary>Notas, audiobookshelf, jellyfin...</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Encendido remoto de PC, ZSH, modo markdown</title>
     <link>https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html</link>
