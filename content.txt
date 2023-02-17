@@ -1,5 +1,11 @@
 
 {
+            'title': 'Notas, audiobookshelf, jellyfin...,',
+            'text': 'Notas, audiobookshelf, jellyfin...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-02-14-notas-audiobookshelf-jellyfin--.html' 
+},
+{
             'title': 'Encendido remoto de PC, ZSH, modo markdown,',
             'text': 'Encendido remoto de PC, ZSH, modo markdown,', 
             'tags': 'terminal,bash,,,,', 
