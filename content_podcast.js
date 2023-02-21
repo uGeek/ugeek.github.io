@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Brave vs Firefox,',
+            'text': 'Brave vs Firefox,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-02-21-brave-vs-firefox.html' 
+},
+{
             'title': 'Notas, audiobookshelf, jellyfin...,',
             'text': 'Notas, audiobookshelf, jellyfin...,', 
             'tags': 'terminal,bash,,,,', 

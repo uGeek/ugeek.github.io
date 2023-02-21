@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 14 Feb 2023 07:11 +0100</pubDate>
+    <pubDate>Tue, 21 Feb 2023 07:42 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Brave vs Firefox</title>
+    <link>https://ugeek.github.io/post/2023-02-21-brave-vs-firefox.html</link>
+    <pubDate>Tue, 21 Feb 2023 07:40 +0100</pubDate>
+    <description>Brave vs Firefox
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-02-21-brave-vs-firefox.html&gt;Brave vs Firefox&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/65386652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-1-21%2F313939157-44100-1-79a9ee7aef8d6.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-02-21-brave-vs-firefox.html</guid> 
+          <itunes:summary>Brave vs Firefox</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Notas, audiobookshelf, jellyfin...</title>
     <link>https://ugeek.github.io/post/2023-02-14-notas-audiobookshelf-jellyfin--.html</link>
