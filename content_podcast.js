@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'sendcroc. Enviando archivos, directorios y texto entre todos tus dispositivos,',
+            'text': 'https://github.com/uGeek/sendcroc,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-03-01-sendcroc-enviando-archivos-directorios-y-texto-entre-todos-tus-dispositivos.html' 
+},
+{
             'title': 'Brave vs Firefox,',
             'text': 'Brave vs Firefox,', 
             'tags': 'terminal,bash,,,,', 
