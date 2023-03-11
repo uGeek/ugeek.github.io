@@ -1,5 +1,23 @@
 
 {
+            'title': 'ChatGPT y mi Dashboard,',
+            'text': 'ChatGPT y mi Dashboard ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-03-11-chatgpt-y-mi-dashboard.html' 
+},
+{
+            'title': 'sendcroc. Enviando archivos, directorios y texto entre todos tus dispositivos,',
+            'text': 'https://github.com/uGeek/sendcroc,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-03-01-sendcroc-enviando-archivos-directorios-y-texto-entre-todos-tus-dispositivos.html' 
+},
+{
+            'title': 'Brave vs Firefox,',
+            'text': 'Brave vs Firefox,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-02-21-brave-vs-firefox.html' 
+},
+{
             'title': 'Notas, audiobookshelf, jellyfin...,',
             'text': 'Notas, audiobookshelf, jellyfin...,', 
             'tags': 'terminal,bash,,,,', 
