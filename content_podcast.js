@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Dotfiles con ChatGTP, Bing Chat sin edge, ...,',
+            'text': 'Dotfiles con ChatGTP, Bing Chat sin edge,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-03-17-dotfiles-con-chatgtp-bing-chat-sin-edge---.html' 
+},
+{
             'title': 'ChatGPT y mi Dashboard,',
             'text': 'ChatGPT y mi Dashboard ,', 
             'tags': 'terminal,bash,,,,', 

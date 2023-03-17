@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sat, 11 Mar 2023 11:14 +0100</pubDate>
+    <pubDate>Fri, 17 Mar 2023 21:20 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Dotfiles con ChatGTP, Bing Chat sin edge, ...</title>
+    <link>https://ugeek.github.io/post/2023-03-17-dotfiles-con-chatgtp-bing-chat-sin-edge---.html</link>
+    <pubDate>Fri, 17 Mar 2023 21:17 +0100</pubDate>
+    <description>Dotfiles con ChatGTP, Bing Chat sin edge
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-03-17-dotfiles-con-chatgtp-bing-chat-sin-edge---.html&gt;Dotfiles con ChatGTP, Bing Chat sin edge, ...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/66788511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-17%2Fb8b27cfd-94c7-78cf-c209-a11d9da4ce88.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-03-17-dotfiles-con-chatgtp-bing-chat-sin-edge---.html</guid> 
+          <itunes:summary>Dotfiles con ChatGTP, Bing Chat sin edge</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>ChatGPT y mi Dashboard</title>
     <link>https://ugeek.github.io/post/2023-03-11-chatgpt-y-mi-dashboard.html</link>
