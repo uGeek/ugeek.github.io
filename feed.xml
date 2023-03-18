@@ -14,11 +14,11 @@
     <generator>org-bash-blog static site generator (https://github.com/ugeek/org-bash-blog)</generator>
    <item>
     <title>Bing Chat en cualquier Navegador</title>
-    <link>https://ugeek.github.io/blog/post/2023-03-17-bing-chat-en-cualquier-navegador.html</link>
+    <link>https://ugeek.github.io/blog/post/2023-03-18-bing-chat-en-cualquier-navegador.html</link>
     <description>
-&lt;img src="https://ugeek.github.io/blog/images-blog/Bing_Chat_en_cualquier_Navegador.png" alt="Bing Chat en cualquier Navegador"&gt;
+&lt;img src="https://ugeek.github.io/blog/images-blog/ugeek.png" alt="Bing Chat en cualquier Navegador"&gt;
 &lt;br&gt;&lt;p&gt;Bing Chat es una versión integrada del chatbot disponible en el sitio web de Bing, que puede responder a preguntas generales.... 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2023-03-17-bing-chat-en-cualquier-navegador.html&gt;Bing Chat en cualquier Navegador&lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2023-03-18-bing-chat-en-cualquier-navegador.html&gt;Bing Chat en cualquier Navegador&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -38,12 +38,45 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <pubDate>Fri, 17 Mar 2023  +0100</pubDate>
+    <pubDate>Sat, 18 Mar 2023 13:20 +0100</pubDate>
     <category>chatgtp</category>
     <category>bing</category>
     <category>edge</category>
     <category>chat</category>
-    <guid>https://ugeek.github.io/blog/post/2023-03-17-bing-chat-en-cualquier-navegador.html</guid>
+    <guid>https://ugeek.github.io/blog/post/2023-03-18-bing-chat-en-cualquier-navegador.html</guid>
+   </item>
+   <item>
+    <title>eddif en emacs, el Meld de terminal</title>
+    <link>https://ugeek.github.io/blog/post/2023-03-18-eddif-en-emacs-el-meld-de-terminal.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/images-blog/ugeek.png" alt="eddif en emacs, el Meld de terminal"&gt;
+&lt;br&gt;&lt;p&gt;A veces quiero comparar dos archivos de texto y ver las diferencias entre ellos. Emacs tiene una función llamada ediff que me permite hacer eso, pero por defecto me muestra... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2023-03-18-eddif-en-emacs-el-meld-de-terminal.html&gt;eddif en emacs, el Meld de terminal&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sat, 18 Mar 2023  +0100</pubDate>
+    <category>emacs</category>
+    <category>diff</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/blog/post/2023-03-18-eddif-en-emacs-el-meld-de-terminal.html</guid>
    </item>
    <item>
     <title>Edge en Manjaro para utilizar Bing Chat</title>
@@ -71,7 +104,7 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <pubDate>Mon, 13 Mar 2023 21:50 +0100</pubDate>
+    <pubDate>Mon, 13 Mar 2023 10:50 +0100</pubDate>
     <category>edge</category>
     <category>manjaro</category>
     <category>chrome</category>
