@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Más sobre IA y mis últimos artículos,',
+            'text': 'Más sobre IA y mis últimos artículos,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-03-25-mas-sobre-ia-y-mis-ultimos-articulos.html' 
+},
+{
             'title': 'Dotfiles con ChatGTP, Bing Chat sin edge, ...,',
             'text': 'Dotfiles con ChatGTP, Bing Chat sin edge,', 
             'tags': 'terminal,bash,,,,', 
