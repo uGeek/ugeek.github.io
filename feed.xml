@@ -13,6 +13,39 @@
     <atom:link href="https://ugeek.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-blog static site generator (https://github.com/ugeek/org-bash-blog)</generator>
    <item>
+    <title>Geolocalizando y mostrando rutas por la ip.</title>
+    <link>https://ugeek.github.io/blog/post/2023-04-11-geolocalizando-y-mostrando-rutas-por-la-ip-.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/images-blog/ugeek.png" alt="Geolocalizando y mostrando rutas por la ip."&gt;
+&lt;br&gt;&lt;p&gt;Voy a explicar cómo se puede geolocalizar una dirección IP usando diferentes métodos y herramientas. Una dirección IP es un identificador único que se asigna a cada dispositivo conectado a... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2023-04-11-geolocalizando-y-mostrando-rutas-por-la-ip-.html&gt;Geolocalizando y mostrando rutas por la ip.&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 11 Apr 2023  +0100</pubDate>
+    <category>ip</category>
+    <category>web</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/blog/post/2023-04-11-geolocalizando-y-mostrando-rutas-por-la-ip-.html</guid>
+   </item>
+   <item>
     <title>Script. Creando una barra gráfica de porcentaje con bash para mi dashboard</title>
     <link>https://ugeek.github.io/blog/post/2023-04-10-script-creando-una-barra-grafica-de-porcentaje-con-bash-para-mi-dashboard.html</link>
     <description>
@@ -71,7 +104,7 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <pubDate>Mon, 10 Apr 2023  +0100</pubDate>
+    <pubDate>Mon, 10 Apr 2023 10:42 +0100</pubDate>
     <category>vps</category>
     <category>oracle</category>
     <category></category>
