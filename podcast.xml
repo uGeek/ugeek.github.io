@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sat, 25 Mar 2023 20:43 +0100</pubDate>
+    <pubDate>Sat, 15 Apr 2023 14:10 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Vps gratuito de Oracle deshabilitar paro por inactividad</title>
+    <link>https://ugeek.github.io/post/2023-04-15-vps-gratuito-de-oracle-deshabilitar-paro-por-inactividad.html</link>
+    <pubDate>Sat, 15 Apr 2023 14:07 +0100</pubDate>
+    <description>VPS gratuito de Oracle, deshabilitar paro por inactividad
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-04-15-vps-gratuito-de-oracle-deshabilitar-paro-por-inactividad.html&gt;Vps gratuito de Oracle deshabilitar paro por inactividad&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/68659725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-3-15%2F324076238-44100-1-494cab6be1d51.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-04-15-vps-gratuito-de-oracle-deshabilitar-paro-por-inactividad.html</guid> 
+          <itunes:summary>VPS gratuito de Oracle, deshabilitar paro por inactividad</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Más sobre IA y mis últimos artículos</title>
     <link>https://ugeek.github.io/post/2023-03-25-mas-sobre-ia-y-mis-ultimos-articulos.html</link>
