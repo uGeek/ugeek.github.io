@@ -1,5 +1,11 @@
 
 {
+            'title': 'Vps gratuito de Oracle deshabilitar paro por inactividad,',
+            'text': 'VPS gratuito de Oracle, deshabilitar paro por inactividad,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-04-15-vps-gratuito-de-oracle-deshabilitar-paro-por-inactividad.html' 
+},
+{
             'title': 'Más sobre IA y mis últimos artículos,',
             'text': 'Más sobre IA y mis últimos artículos,', 
             'tags': 'terminal,bash,,,,', 
