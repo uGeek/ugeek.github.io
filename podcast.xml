@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sat, 15 Apr 2023 14:10 +0100</pubDate>
+    <pubDate>Fri, 05 May 2023 07:13 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>GPT-4 en tu terminal con Bing Chat</title>
+    <link>https://ugeek.github.io/post/2023-05-05-gpt-4-en-tu-terminal-con-bing-chat.html</link>
+    <pubDate>Fri, 05 May 2023 07:09 +0100</pubDate>
+    <description>GPT-4 en tu terminal con Bing Chat
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-05-05-gpt-4-en-tu-terminal-con-bing-chat.html&gt;GPT-4 en tu terminal con Bing Chat&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/69829732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-4-5%2F327797935-44100-1-ac31a05421cdb.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-05-05-gpt-4-en-tu-terminal-con-bing-chat.html</guid> 
+          <itunes:summary>GPT-4 en tu terminal con Bing Chat</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Vps gratuito de Oracle deshabilitar paro por inactividad</title>
     <link>https://ugeek.github.io/post/2023-04-15-vps-gratuito-de-oracle-deshabilitar-paro-por-inactividad.html</link>
