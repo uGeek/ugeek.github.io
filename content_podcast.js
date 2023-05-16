@@ -1,9 +1,9 @@
 var tipuesearch = {pages: [
 {
-            'title': 'GPT-4 en tu terminal con Bing Chat,',
-            'text': 'GPT-4 en tu terminal con Bing Chat,', 
+            'title': 'Bard de Google en tu Terminal,',
+            'text': 'Bard de Google en tu Terminal,', 
             'tags': 'terminal,bash,,,,', 
-            'url': 'https://ugeek.github.io/post/2023-05-16-gpt-4-en-tu-terminal-con-bing-chat.html' 
+            'url': 'https://ugeek.github.io/post/2023-05-16-bard-de-google-en-tu-terminal.html' 
 },
 {
             'title': 'GPT-4 en tu terminal con Bing Chat,',
