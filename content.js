@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'FlatNotes,',
+            'text': 'FlatNotes,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-05-26-flatnotes.html' 
+},
+{
             'title': 'Bard de Google en tu Terminal,',
             'text': 'Bard de Google en tu Terminal,', 
             'tags': 'terminal,bash,,,,', 

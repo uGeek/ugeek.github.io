@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 16 May 2023 20:02 +0100</pubDate>
+    <pubDate>Fri, 26 May 2023 07:09 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>FlatNotes</title>
+    <link>https://ugeek.github.io/post/2023-05-26-flatnotes.html</link>
+    <pubDate>Fri, 26 May 2023 07:06 +0100</pubDate>
+    <description>FlatNotes
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-05-26-flatnotes.html&gt;FlatNotes&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/71063260/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-4-26%2F331703106-44100-1-3d6d9aac104f.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-05-26-flatnotes.html</guid> 
+          <itunes:summary>FlatNotes</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Bard de Google en tu Terminal</title>
     <link>https://ugeek.github.io/post/2023-05-16-bard-de-google-en-tu-terminal.html</link>
