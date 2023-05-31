@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Mi Red de Notas,',
+            'text': 'Mi Red de Notas,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-05-31-mi-red-de-notas.html' 
+},
+{
             'title': 'FlatNotes,',
             'text': 'FlatNotes,', 
             'tags': 'terminal,bash,,,,', 
