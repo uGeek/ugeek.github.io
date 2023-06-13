@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'SilverBullet. El mejor servicio de Notas que probado,',
+            'text': 'https://github.com/silverbulletmd/silverbullet,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-06-13-silverbullet-el-mejor-servicio-de-notas-que-probado.html' 
+},
+{
             'title': 'Mi Red de Notas,',
             'text': 'Mi Red de Notas,', 
             'tags': 'terminal,bash,,,,', 
