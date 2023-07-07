@@ -1,5 +1,11 @@
 
 {
+            'title': 'Rss News Voice, Iniciando servicios automáticamente con caddy, el adiós del internet que conocemos,',
+            'text': '- https://play.google.com/store/apps/details?id=com.chinhdd.rssnewsvoice,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-07-05-rss-news-voice-iniciando-servicios-automaticamente-con-caddy-el-adios-del-internet-que-conocemos.html' 
+},
+{
             'title': 'SilverBullet. El mejor servicio de Notas que probado,',
             'text': 'https://github.com/silverbulletmd/silverbullet,', 
             'tags': 'terminal,bash,,,,', 
