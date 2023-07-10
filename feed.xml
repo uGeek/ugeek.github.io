@@ -13,6 +13,39 @@
     <atom:link href="https://ugeek.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-blog static site generator (https://github.com/ugeek/org-bash-blog)</generator>
    <item>
+    <title>Firefox. Reducir el tamaño de las pestañas como en Brave, quitar marcadores y cambiar el tema</title>
+    <link>https://ugeek.github.io/blog/post/2023-07-10-firefox-reducir-el-tamano-de-las-pestanas-como-en-brave-quitar-marcadores-y-cambiar-el-tema.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/images-blog/ugeek.png" alt="Firefox. Reducir el tamaño de las pestañas como en Brave, quitar marcadores y cambiar el tema"&gt;
+&lt;br&gt;&lt;p&gt;Estoy utilizando Firefox nuevamente, pero después de estar utilizando *Brave*, veo las pestañas muy grandes. Vamos a ver como reducir el tamaño de las pestañas y dejarlas aproximadamente como *Brave*... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2023-07-10-firefox-reducir-el-tamano-de-las-pestanas-como-en-brave-quitar-marcadores-y-cambiar-el-tema.html&gt;Firefox. Reducir el tamaño de las pestañas como en Brave, quitar marcadores y cambiar el tema&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 10 Jul 2023  +0100</pubDate>
+    <category>firefox</category>
+    <category>navegador</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/blog/post/2023-07-10-firefox-reducir-el-tamano-de-las-pestanas-como-en-brave-quitar-marcadores-y-cambiar-el-tema.html</guid>
+   </item>
+   <item>
     <title>SilverBullet. Mi página Índice</title>
     <link>https://ugeek.github.io/blog/post/2023-07-08-silverbullet-mi-pagina-indice.html</link>
     <description>
@@ -38,7 +71,7 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <pubDate>Sat, 08 Jul 2023  +0100</pubDate>
+    <pubDate>Sat, 08 Jul 2023 22:00 +0100</pubDate>
     <category>silverbullet</category>
     <category>notas</category>
     <category>markdown</category>
