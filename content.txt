@@ -1,5 +1,11 @@
 
 {
+            'title': 'Crea aplicaciones de webs e instala PWA,',
+            'text': 'Crea aplicaciones de webs e instala PWA,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-07-17-crea-aplicaciones-de-webs-e-instala-pwa.html' 
+},
+{
             'title': 'Rss News Voice, Iniciando servicios automáticamente con caddy, el adiós del internet que conocemos,',
             'text': '- https://play.google.com/store/apps/details?id=com.chinhdd.rssnewsvoice,', 
             'tags': 'terminal,bash,,,,', 
