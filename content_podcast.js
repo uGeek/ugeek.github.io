@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Seguridad en mis servicios,',
+            'text': 'Seguridad en mis servicios,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-07-31-seguridad-en-mis-servicios.html' 
+},
+{
             'title': 'Crea aplicaciones de webs e instala PWA,',
             'text': 'Crea aplicaciones de webs e instala PWA,', 
             'tags': 'terminal,bash,,,,', 
