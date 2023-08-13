@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 31 Jul 2023 01:59 +0100</pubDate>
+    <pubDate>Sun, 13 Aug 2023 20:01 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Mis apps Android imprescindibles del 2023 y alguna cosa más</title>
+    <link>https://ugeek.github.io/post/2023-08-13-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html</link>
+    <pubDate>Sun, 13 Aug 2023 19:57 +0100</pubDate>
+    <description>Mis apps Android imprescindibles del 2023 y alguna cosa más
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-08-13-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html&gt;Mis apps Android imprescindibles del 2023 y alguna cosa más&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/74580218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-7-13%2F342899931-44100-2-2185d62dba7f7.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-08-13-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html</guid> 
+          <itunes:summary>Mis apps Android imprescindibles del 2023 y alguna cosa más</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Seguridad en mis servicios</title>
     <link>https://ugeek.github.io/post/2023-07-31-seguridad-en-mis-servicios.html</link>
