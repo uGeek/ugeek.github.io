@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sun, 13 Aug 2023 20:01 +0100</pubDate>
+    <pubDate>Sun, 20 Aug 2023 11:18 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Mis apps Android imprescindibles del 2023 y alguna cosa más</title>
+    <link>https://ugeek.github.io/post/2023-08-20-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html</link>
+    <pubDate>Sun, 20 Aug 2023 11:15 +0100</pubDate>
+    <description>Preguntas, Markdown y más
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-08-20-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html&gt;Mis apps Android imprescindibles del 2023 y alguna cosa más&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/74832102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-7-20%2F343716610-44100-1-2f1295ebd99f1.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-08-20-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html</guid> 
+          <itunes:summary>Preguntas, Markdown y más</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Mis apps Android imprescindibles del 2023 y alguna cosa más</title>
     <link>https://ugeek.github.io/post/2023-08-13-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html</link>

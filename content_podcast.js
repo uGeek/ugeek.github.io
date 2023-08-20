@@ -1,6 +1,12 @@
 var tipuesearch = {pages: [
 {
             'title': 'Mis apps Android imprescindibles del 2023 y alguna cosa más,',
+            'text': 'Preguntas, Markdown y más,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-08-20-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html' 
+},
+{
+            'title': 'Mis apps Android imprescindibles del 2023 y alguna cosa más,',
             'text': 'Mis apps Android imprescindibles del 2023 y alguna cosa más,', 
             'tags': 'terminal,bash,,,,', 
             'url': 'https://ugeek.github.io/post/2023-08-13-mis-apps-android-imprescindibles-del-2023-y-alguna-cosa-mas.html' 
