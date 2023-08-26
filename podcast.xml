@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sun, 20 Aug 2023 12:23 +0100</pubDate>
+    <pubDate>Sat, 26 Aug 2023 14:35 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Mi experiencia con un proyector económico</title>
+    <link>https://ugeek.github.io/post/2023-08-26-mi-experiencia-con-un-proyector-economico.html</link>
+    <pubDate>Sat, 26 Aug 2023 12:06 +0100</pubDate>
+    <description>Mi experiencia con un proyector económico
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2023-08-26-mi-experiencia-con-un-proyector-economico.html&gt;Mi experiencia con un proyector económico&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/75087344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-7-24%2F344252423-44100-1-ac223f31ed91b.mp3"/>
+    <guid>https://ugeek.github.io/post/2023-08-26-mi-experiencia-con-un-proyector-economico.html</guid> 
+          <itunes:summary>Mi experiencia con un proyector económico</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Sugerencias, Preguntas, Markdown y más</title>
     <link>https://ugeek.github.io/post/2023-08-20-sugerencias-preguntas-markdown-y-mas.html</link>

@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Mi experiencia con un proyector económico,',
+            'text': 'Mi experiencia con un proyector económico,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-08-26-mi-experiencia-con-un-proyector-economico.html' 
+},
+{
             'title': 'Sugerencias, Preguntas, Markdown y más,',
             'text': 'Preguntas, Markdown y más,', 
             'tags': 'terminal,bash,,,,', 
