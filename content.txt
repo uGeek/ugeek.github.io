@@ -1,5 +1,17 @@
 
 {
+            'title': 'Mi experiencia con un proyector económico,',
+            'text': 'Mi experiencia con un proyector económico,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-08-26-mi-experiencia-con-un-proyector-economico.html' 
+},
+{
+            'title': 'Sugerencias, Preguntas, Markdown y más,',
+            'text': 'Preguntas, Markdown y más,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-08-20-sugerencias-preguntas-markdown-y-mas.html' 
+},
+{
             'title': 'Mis apps Android imprescindibles del 2023 y alguna cosa más,',
             'text': 'Mis apps Android imprescindibles del 2023 y alguna cosa más,', 
             'tags': 'terminal,bash,,,,', 
