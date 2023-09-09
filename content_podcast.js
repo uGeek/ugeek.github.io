@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Recomendando podcasts, conserva tu música, vinilo y nuevos dockers en ARM64,',
+            'text': 'Recomendando podcasts, conserva tu música, vinilo y dockers en ARM64,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-09-09-recomendando-podcasts-conserva-tu-musica-vinilo-y-nuevos-dockers-en-arm64.html' 
+},
+{
             'title': 'Mi experiencia con un proyector económico,',
             'text': 'Mi experiencia con un proyector económico,', 
             'tags': 'terminal,bash,,,,', 
