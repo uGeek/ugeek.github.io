@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Creando mis servicios con IA. ChatGPT,',
+            'text': 'Creando mis servicios con IA. ChatGPT,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-09-28-creando-mis-servicios-con-ia-chatgpt.html' 
+},
+{
             'title': 'Recomendando podcasts, conserva tu música, vinilo y nuevos dockers en ARM64,',
             'text': 'Recomendando podcasts, conserva tu música, vinilo y dockers en ARM64,', 
             'tags': 'terminal,bash,,,,', 
