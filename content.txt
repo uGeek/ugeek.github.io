@@ -1,5 +1,11 @@
 
 {
+            'title': 'Android y sus aplicaciones en Windows y Linux,',
+            'text': 'Android y sus aplicaciones en Windows y Linux,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-11-01-android-y-sus-aplicaciones-en-windows-y-linux.html' 
+},
+{
             'title': 'Creando mis servicios con IA. ChatGPT,',
             'text': 'Creando mis servicios con IA. ChatGPT,', 
             'tags': 'terminal,bash,,,,', 
