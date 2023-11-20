@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Dockge. Servicio para gestionar mis docker compose,',
+            'text': 'Dockge. Servicio para gestionar mis docker compose ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2023-11-20-dockge-servicio-para-gestionar-mis-docker-compose.html' 
+},
+{
             'title': 'Android y sus aplicaciones en Windows y Linux,',
             'text': 'Android y sus aplicaciones en Windows y Linux,', 
             'tags': 'terminal,bash,,,,', 
