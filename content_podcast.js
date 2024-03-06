@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'RSS Funnel. Gestionando y optimizando mis Feeds,',
+            'text': 'https://github.com/shouya/rss-funnel,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2024-03-06-rss-funnel-gestionando-y-optimizando-mis-feeds.html' 
+},
+{
             'title': 'Dockge. Servicio para gestionar mis docker compose,',
             'text': 'Dockge. Servicio para gestionar mis docker compose ,', 
             'tags': 'terminal,bash,,,,', 
