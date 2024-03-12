@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 06 Mar 2024 18:21 +0100</pubDate>
+    <pubDate>Tue, 12 Mar 2024 08:02 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Escuchando los vídeos de YouTube en formato podcast sin servidor</title>
+    <link>https://ugeek.github.io/post/2024-03-12-escuchando-los-videos-de-youtube-en-formato-podcast-sin-servidor.html</link>
+    <pubDate>Tue, 12 Mar 2024 07:59 +0100</pubDate>
+    <description>Escuchando los vídeos de YouTube en formato podcast sin servidor
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2024-03-12-escuchando-los-videos-de-youtube-en-formato-podcast-sin-servidor.html&gt;Escuchando los vídeos de YouTube en formato podcast sin servidor&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/83904739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2024-2-12%2F370595681-44100-1-daea2b15dd36.mp3"/>
+    <guid>https://ugeek.github.io/post/2024-03-12-escuchando-los-videos-de-youtube-en-formato-podcast-sin-servidor.html</guid> 
+          <itunes:summary>Escuchando los vídeos de YouTube en formato podcast sin servidor</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>RSS Funnel. Gestionando y optimizando mis Feeds</title>
     <link>https://ugeek.github.io/post/2024-03-06-rss-funnel-gestionando-y-optimizando-mis-feeds.html</link>
