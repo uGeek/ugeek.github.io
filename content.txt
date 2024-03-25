@@ -1,5 +1,23 @@
 
 {
+            'title': 'Gestionando audios y vídeos en local con AntennaPod,',
+            'text': 'Gestionando audios y vídeos en local con AntennaPod,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2024-03-19-gestionando-audios-y-videos-en-local-con-antennapod.html' 
+},
+{
+            'title': 'Escuchando los vídeos de YouTube en formato podcast sin servidor,',
+            'text': 'Escuchando los vídeos de YouTube en formato podcast sin servidor,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2024-03-12-escuchando-los-videos-de-youtube-en-formato-podcast-sin-servidor.html' 
+},
+{
+            'title': 'RSS Funnel. Gestionando y optimizando mis Feeds,',
+            'text': 'https://github.com/shouya/rss-funnel,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2024-03-06-rss-funnel-gestionando-y-optimizando-mis-feeds.html' 
+},
+{
             'title': 'Dockge. Servicio para gestionar mis docker compose,',
             'text': 'Dockge. Servicio para gestionar mis docker compose ,', 
             'tags': 'terminal,bash,,,,', 

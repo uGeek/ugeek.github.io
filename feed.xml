@@ -13,6 +13,72 @@
     <atom:link href="https://ugeek.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-blog static site generator (https://github.com/ugeek/org-bash-blog)</generator>
    <item>
+    <title>Docker. Merino, un servidor proxy SOCKS5 en rus</title>
+    <link>https://ugeek.github.io/blog/post/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rus.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/images-blog/ugeek.png" alt="Docker. Merino, un servidor proxy SOCKS5 en rus"&gt;
+&lt;br&gt;&lt;p&gt;Merino es un servidor proxy SOCKS5 que ofrece varias características útiles. Está escrito completamente en Rust, lo que lo hace seguro y confiable. Utiliza un controlador de conexiones multihilo para... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rus.html&gt;Docker. Merino, un servidor proxy SOCKS5 en rus&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 25 Mar 2024  +0100</pubDate>
+    <category>socks5</category>
+    <category>rust</category>
+    <category>socks5</category>
+    <category>docker</category>
+    <guid>https://ugeek.github.io/blog/post/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rus.html</guid>
+   </item>
+   <item>
+    <title>Android. Descargando vídeos de YouTube como podcas</title>
+    <link>https://ugeek.github.io/blog/post/2023-12-12-android-descargando-videos-de-youtube-como-podcas.html</link>
+    <description>
+&lt;img src="https://ugeek.github.io/blog/images-blog/ugeek.png" alt="Android. Descargando vídeos de YouTube como podcas"&gt;
+&lt;br&gt;&lt;p&gt;Quizás no sea tan importante generar un *Feed* de podcast para consumir los audios de YouTube. Con estas aplicaciones puedes escuchar o ver videos de todos los sitios web complatibles... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2023-12-12-android-descargando-videos-de-youtube-como-podcas.html&gt;Android. Descargando vídeos de YouTube como podcas&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 12 Dec 2023 03:55 +0100</pubDate>
+    <category>android</category>
+    <category>youtube</category>
+    <category></category>
+    <category></category>
+    <guid>https://ugeek.github.io/blog/post/2023-12-12-android-descargando-videos-de-youtube-como-podcas.html</guid>
+   </item>
+   <item>
     <title>Manjaro Instalando y actualizando en modo Grafico</title>
     <link>https://ugeek.github.io/blog/post/2023-12-08-manjaro-instalando-y-actualizando-en-modo-grafico.html</link>
     <description>
@@ -38,7 +104,7 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <pubDate>Fri, 08 Dec 2023  +0100</pubDate>
+    <pubDate>Fri, 08 Dec 2023 06:55 +0100</pubDate>
     <category>manjaro</category>
     <category>pacman</category>
     <category>pamac</category>
