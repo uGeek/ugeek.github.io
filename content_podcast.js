@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'La que se está liando con la IA,',
+            'text': 'La que se está liando con la IA,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-01-29-la-que-se-esta-liando-con-la-ia.html' 
+},
+{
             'title': 'Gestionando audios y vídeos en local con AntennaPod,',
             'text': 'Gestionando audios y vídeos en local con AntennaPod,', 
             'tags': 'terminal,bash,,,,', 
