@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 29 Jan 2025 20:40 +0100</pubDate>
+    <pubDate>Wed, 12 Feb 2025 10:45 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Como avanza la IA y Fastidiando al personal</title>
+    <link>https://ugeek.github.io/post/2025-02-12-como-avanza-la-ia-y-fastidiando-al-personal.html</link>
+    <pubDate>Wed, 12 Feb 2025 10:41 +0100</pubDate>
+    <description>Como avanza la IA y Fastidiando al personal
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2025-02-12-como-avanza-la-ia-y-fastidiando-al-personal.html&gt;Como avanza la IA y Fastidiando al personal&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/98384623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-12%2Fb4639473-6797-a5c0-6475-b4d02e842ba7.mp3"/>
+    <guid>https://ugeek.github.io/post/2025-02-12-como-avanza-la-ia-y-fastidiando-al-personal.html</guid> 
+          <itunes:summary>Como avanza la IA y Fastidiando al personal</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>La que se está liando con la IA</title>
     <link>https://ugeek.github.io/post/2025-01-29-la-que-se-esta-liando-con-la-ia.html</link>

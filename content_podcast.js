@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Como avanza la IA y Fastidiando al personal,',
+            'text': 'Como avanza la IA y Fastidiando al personal,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-12-como-avanza-la-ia-y-fastidiando-al-personal.html' 
+},
+{
             'title': 'La que se está liando con la IA,',
             'text': 'La que se está liando con la IA,', 
             'tags': 'terminal,bash,,,,', 
