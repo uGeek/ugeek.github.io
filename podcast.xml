@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 12 Feb 2025 10:45 +0100</pubDate>
+    <pubDate>Thu, 13 Feb 2025 07:34 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Fallos en cadena</title>
+    <link>https://ugeek.github.io/post/2025-02-13-fallos-en-cadena.html</link>
+    <pubDate>Thu, 13 Feb 2025 07:30 +0100</pubDate>
+    <description>Fallos en cadena
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2025-02-13-fallos-en-cadena.html&gt;Fallos en cadena&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/98431178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F3939d335-6e5c-3da0-d85e-7a7eb8001b0a.mp3"/>
+    <guid>https://ugeek.github.io/post/2025-02-13-fallos-en-cadena.html</guid> 
+          <itunes:summary>Fallos en cadena</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Como avanza la IA y Fastidiando al personal</title>
     <link>https://ugeek.github.io/post/2025-02-12-como-avanza-la-ia-y-fastidiando-al-personal.html</link>

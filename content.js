@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Fallos en cadena,',
+            'text': 'Fallos en cadena,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-13-fallos-en-cadena.html' 
+},
+{
             'title': 'Como avanza la IA y Fastidiando al personal,',
             'text': 'Como avanza la IA y Fastidiando al personal,', 
             'tags': 'terminal,bash,,,,', 
