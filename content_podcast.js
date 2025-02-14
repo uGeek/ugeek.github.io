@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Ollama en Raspberry o vps, Mistral, ...,',
+            'text': 'Ollama en Raspberry o vps, Mistral, ...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-14-ollama-en-raspberry-o-vps-mistral---.html' 
+},
+{
             'title': 'Fallos en cadena,',
             'text': 'Fallos en cadena,', 
             'tags': 'terminal,bash,,,,', 

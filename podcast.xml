@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 13 Feb 2025 07:34 +0100</pubDate>
+    <pubDate>Fri, 14 Feb 2025 09:08 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Ollama en Raspberry o vps, Mistral, ...</title>
+    <link>https://ugeek.github.io/post/2025-02-14-ollama-en-raspberry-o-vps-mistral---.html</link>
+    <pubDate>Fri, 14 Feb 2025 09:05 +0100</pubDate>
+    <description>Ollama en Raspberry o vps, Mistral, ...
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2025-02-14-ollama-en-raspberry-o-vps-mistral---.html&gt;Ollama en Raspberry o vps, Mistral, ...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/98486020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-14%2Feb796320-19e8-99bf-eb20-d41f38207fe5.mp3"/>
+    <guid>https://ugeek.github.io/post/2025-02-14-ollama-en-raspberry-o-vps-mistral---.html</guid> 
+          <itunes:summary>Ollama en Raspberry o vps, Mistral, ...</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Fallos en cadena</title>
     <link>https://ugeek.github.io/post/2025-02-13-fallos-en-cadena.html</link>
