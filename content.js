@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Brave , Duck Duck Go,',
+            'text': 'Brave , Duck Duck Go,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-17-brave--duck-duck-go.html' 
+},
+{
             'title': 'Ollama en Raspberry o vps, Mistral, ...,',
             'text': 'Ollama en Raspberry o vps, Mistral, ...,', 
             'tags': 'terminal,bash,,,,', 
