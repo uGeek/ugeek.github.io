@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 17 Feb 2025 11:51 +0100</pubDate>
+    <pubDate>Fri, 28 Feb 2025 07:42 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Dashboard y Actualidad</title>
+    <link>https://ugeek.github.io/post/2025-02-28-dashboard-y-actualidad.html</link>
+    <pubDate>Fri, 28 Feb 2025 07:37 +0100</pubDate>
+    <description>Dashboard y Actualidad
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2025-02-28-dashboard-y-actualidad.html&gt;Dashboard y Actualidad&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/99159217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-28%2F62144580-465d-2461-6476-c7da5c8676df.mp3"/>
+    <guid>https://ugeek.github.io/post/2025-02-28-dashboard-y-actualidad.html</guid> 
+          <itunes:summary>Dashboard y Actualidad</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Brave , Duck Duck Go</title>
     <link>https://ugeek.github.io/post/2025-02-17-brave--duck-duck-go.html</link>

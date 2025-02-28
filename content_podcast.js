@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Dashboard y Actualidad,',
+            'text': 'Dashboard y Actualidad,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-28-dashboard-y-actualidad.html' 
+},
+{
             'title': 'Brave , Duck Duck Go,',
             'text': 'Brave , Duck Duck Go,', 
             'tags': 'terminal,bash,,,,', 
