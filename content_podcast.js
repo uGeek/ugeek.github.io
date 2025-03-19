@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Pocketcast, Telegram, Deepseek, Mistral,...,',
+            'text': 'Pocketcast, Telegram, Deepseek, Mistral,...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-03-19-pocketcast-telegram-deepseek-mistral--.html' 
+},
+{
             'title': 'Dashboard y Actualidad,',
             'text': 'Dashboard y Actualidad,', 
             'tags': 'terminal,bash,,,,', 
