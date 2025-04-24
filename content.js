@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo,',
+            'text': 'wdblog. Reescribiendo el código del blog y como tu puedes modificalo ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html' 
+},
+{
             'title': 'Pocketcast, Telegram, Deepseek, Mistral,...,',
             'text': 'Pocketcast, Telegram, Deepseek, Mistral,...,', 
             'tags': 'terminal,bash,,,,', 

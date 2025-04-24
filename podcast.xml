@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 19 Mar 2025 07:22 +0100</pubDate>
+    <pubDate>Thu, 24 Apr 2025 08:33 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</title>
+    <link>https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html</link>
+    <pubDate>Thu, 24 Apr 2025 08:27 +0100</pubDate>
+    <description>wdblog. Reescribiendo el código del blog y como tu puedes modificalo 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html&gt;wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/101709001/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-24%2Fafc0ad59-614e-9954-f52b-39ce94a0e141.mp3"/>
+    <guid>https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html</guid> 
+          <itunes:summary>wdblog. Reescribiendo el código del blog y como tu puedes modificalo </itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Pocketcast, Telegram, Deepseek, Mistral,...</title>
     <link>https://ugeek.github.io/post/2025-03-19-pocketcast-telegram-deepseek-mistral--.html</link>
