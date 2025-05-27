@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Gemini 2.5 es buenísima,',
+            'text': 'Gemini 2.5 es buenísima ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html' 
+},
+{
             'title': 'wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo,',
             'text': 'wdblog. Reescribiendo el código del blog y como tu puedes modificalo ,', 
             'tags': 'terminal,bash,,,,', 

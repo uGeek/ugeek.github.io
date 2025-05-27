@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 24 Apr 2025 08:33 +0100</pubDate>
+    <pubDate>Tue, 27 May 2025 09:39 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Gemini 2.5 es buenísima</title>
+    <link>https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html</link>
+    <pubDate>Tue, 27 May 2025 09:34 +0100</pubDate>
+    <description>Gemini 2.5 es buenísima 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html&gt;Gemini 2.5 es buenísima&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/103259553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-27%2F9485a654-af32-85d0-d8f1-eaec76936a56.mp3"/>
+    <guid>https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html</guid> 
+          <itunes:summary>Gemini 2.5 es buenísima </itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</title>
     <link>https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html</link>
