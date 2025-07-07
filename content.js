@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Gemini-cli y mis IA s Favoritas,',
+            'text': 'Gemini-cli y mis IA s Favoritas ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-07-07-gemini-cli-y-mis-ia s-favoritas.html' 
+},
+{
             'title': 'Gemini 2.5 es buenísima,',
             'text': 'Gemini 2.5 es buenísima ,', 
             'tags': 'terminal,bash,,,,', 
