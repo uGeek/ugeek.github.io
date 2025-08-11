@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 07 Jul 2025 07:23 +0100</pubDate>
+    <pubDate>Mon, 11 Aug 2025 09:13 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</title>
+    <link>https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html</link>
+    <pubDate>Mon, 11 Aug 2025 09:08 +0100</pubDate>
+    <description>Creando Apps Android Y Extensiones del Navegador Con Gemini-cli
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html&gt;Creando Apps Android Y Extensiones del Navegador Con Gemini-cli&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/106707937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-11%2F6a855443-e4b2-28f6-ba17-881a4267a999.mp3"/>
+    <guid>https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html</guid> 
+          <itunes:summary>Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Gemini-cli y mis IA's Favoritas</title>
     <link>https://ugeek.github.io/post/2025-07-07-gemini-cli-y-mis-ia's-favoritas.html</link>

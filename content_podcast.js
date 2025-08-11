@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli,',
+            'text': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html' 
+},
+{
             'title': 'Gemini-cli y mis IA s Favoritas,',
             'text': 'Gemini-cli y mis IA s Favoritas ,', 
             'tags': 'terminal,bash,,,,', 
