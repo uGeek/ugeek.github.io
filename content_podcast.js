@@ -1,5 +1,11 @@
 var tipuesearch = {pages: [
 {
+            'title': 'Replica de tu servidor WebDAV en tu móvil,',
+            'text': 'Replica de tu servidor WebDAV en tu móvil ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html' 
+},
+{
             'title': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli,',
             'text': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli,', 
             'tags': 'terminal,bash,,,,', 
