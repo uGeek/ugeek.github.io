@@ -1,90 +1,77 @@
 <head>
-<title>El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor.. uGeek Podcast</title>
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<link rel="canonical" href="https://ugeek.github.io/post/2017-02-05-el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi--el-sistema-kanban-en-tu-servidor.html" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<div id="logo"><a href="https://ugeek.github.io"><img src="../icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
-<link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
-<link rel="alternate" type="application/rss+xml" href="https://ugeek.github.io/feed.xml" title="uGeek - Blog de Tecnología">
-
-
-
-
-
-<link rel="shortcut icon" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" type="image/x-icon" />
-<link rel="icon" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" sizes="32x32" />
-<link rel="icon" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" />
+<title>El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor.. uGeek Podcast</title> 
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+<div id="logo"><a href="https://ugeek.github.io"><img src="../icon/ugeek.png" border="0" width="90" height="90" alt="uGeek"></a></div> 
+<link rel="stylesheet" type="text/css" href="../css/stylesheet.css" /> 
+<link rel="alternate" type="application/rss+xml" href="https://ugeek.github.io/feed.xml" title="uGeek Podcast">
+<link rel="shortcut icon" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" type="image/x-icon" /> 
+<link rel="icon" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" sizes="32x32" /> 
+<link rel="icon" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" sizes="192x192" /> 
+<link rel="apple-touch-icon-precomposed" href="https://ugeek.github.iohttps://ugeek.github.io/icon/ugeek-256x256.png" /> 
 <meta property="og:locale" content="es_ES" />
-
-
-
-<meta name="robots" content="index, follow">
-<meta name="twitter:site" content="@ugeekpodcast" />
-<meta name="twitter:card" content="summary_large_image" />
-<link rel="alternate" type="application/rss+xml" title="uGeek. Blog de Tecnología" href="https://ugeek.github.io/feed/" />
-
-
-<meta name="author" content="Angel">
-<meta name="keywords" content="notas,podcast,raspberry">
+<meta name="robots" content="index, follow"> 
+<meta name="twitter:site" content="@ugeekpodcast" /> 
+<meta name="twitter:card" content="summary_large_image" /> 
+<link rel="alternate" type="application/rss+xml" title="uGeek Podcast" href="https://ugeek.github.io/feed/" />
+<meta name="author" content=""> 
 <meta name="description" content="Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos." />
-
-<!-- Open Graph data -->
-<meta property="og:site_name" content="uGeek Podcast"/>
+<meta property="og:site_name" content="uGeek Podcast"/> 
 <meta property="og:type" content="article" /> 
-<meta property="og:title" content="El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor." />
-<meta property="og:description" content="Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos." />
-<meta property="og:image" content="https://ugeek.github.io/blog/icon/ugeek.png" />
+<meta property="og:title" content="El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor." /> 
+<meta property="og:description" content="Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos." /> 
+<meta property="og:image" content="https://ugeek.github.io/images-blog/https://ugeek.github.io/blog/icon/ugeek.png" /> 
 <meta property="og:url" content="https://ugeek.github.io/post/2017-02-05-el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi--el-sistema-kanban-en-tu-servidor.html" />
-<meta property="article:tag" content="notas,podcast,raspberry" />
-
-<meta name="twitter:title" content="El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor." />
-<meta name="twitter:description" content="Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos." />
+<meta name="twitter:title" content="El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor." /> 
+<meta name="twitter:description" content="Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos." /> 
 <meta name="twitter:image" content="https://ugeek.github.io/images-blog/https://ugeek.github.io/blog/icon/ugeek.png" />
-
-<!-- Global site tag (gtag.js) - Google Analytics -->                                                                                      
-<script async src="https://www.googletagmanager.com/gtag/js?id="></script>                                              
-<script>                                                                                                                                   
-window.dataLayer = window.dataLayer || [];                                                                                                 
-function gtag(){dataLayer.push(arguments);}                                                                                                
-gtag("js", new Date())                                                                                                                   
-gtag("config", "");                                                                                                   
-</script>   
-
+<link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+<link rel="alternate" type="application/rss+xml" href="https://ugeek.github.io/feed.xml" title="uGeek Podcast">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", ""); </script>
+<link type="text/css" rel="stylesheet" href="../css/search.css"></link> 
+<link rel="stylesheet" type="text/css" href="../css/stylesheet.css" /> 
+<script type="text/javascript" src="../js/jquery.min.js"></script> 
+<script type="text/javascript" src="../js/tipuesearch_set.js"></script> 
+<script type="text/javascript" src="../content.js"></script> 
+<script type="text/javascript" src="../js/tipuesearch.min.js"></script>
 </head>
-
 <br><br><br><br><br><br><br><br><br>
- <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"/> <div id="name"><a href="https://ugeek.github.io/blog/"><tt>Blog de Tecnología</tt></div></a> <div id="icon"> <a href="https://ugeek.github.io/podcast.xml" title="rss" alt="rss"><img src="../icon/podcast.png" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/feed.xml" alt="rss"><img src="../icon/rss.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="../icon/github.png" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="../icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://twitter.com/ugeekpodcast"><img src="../icon/twitter.png" width="25" height="25" alt="Twitter"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="../icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/tag.html"><tt>Tags</tt></a></div>
-
-<h1 id="el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi.-el-sistema-kanban-en-tu-servidor.-1" title="El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor." data-export_file_name="el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi--el-sistema-kanban-en-tu-servidor" data-description="Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos." data-export_date="2017-02-05 01:00" data-category="notas" data-tag="podcast,raspberry" data-image="https://ugeek.github.io/blog/icon/ugeek.png" data-url_audio="https://ia601900.us.archive.org/18/items/ElTrelloDeSoftwareLibreWekan/El_Trello_de_software_libre_Wekan.mp3" data-explicit="No">El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor.</h1>
+<link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"/><div id="name"><a href="https://ugeek.github.io/blog/"><tt>Blog de Tecnología</tt></div></a><div id="icon"><a href="https://ugeek.github.io/podcast.xml" title="rss" alt="rss"><img src="../icon/podcast.png"  width="25" height="25" alt="podcast"></a>&nbsp;&nbsp;<a href="https://ugeek.github.io/feed.xml" alt="rss"><img src="../icon/rss.png"  width="25" height="25"></a>&nbsp;&nbsp;<a href="https://github.com/ugeek"><img src="../icon/github.png"  width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="../icon/docker.png"  width="25" height="25"></a>&nbsp;&nbsp;<a href="https://twitter.com/ugeekpodcast"><img src="../icon/twitter.png"  width="25" height="25" alt="Twitter"></a>&nbsp;&nbsp;<a href="https://t.me/uGeek"><img src="../icon/telegram.png"  width="25" height="25" alt="Telegram"></a></div><div id="menu"><a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp;<a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp;<a href="https://ugeek.github.io/tag.html"><tt>Tags</tt></a></div>
+<!-- SEARCH BOX -->
+<input type="text" name="q" placeholder="buscar..." id="tipue_search_input" required> 
+<div align="center" id="tipue_search_content"></div> 
+<script>
+$(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
+</script><h1 id="el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi-el-sistema-kanban-en-tu-servidor">El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor.</h1>
 <p>Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos.</p>
 <p>Sistema Kanban. <a href="https://es.wikipedia.org/wiki/Kanban">https://es.wikipedia.org/wiki/Kanban</a></p>
 <p>Para poder acceder a Wekan desde vuestro navegador, tenéis que poner vuestra ip:8080</p>
 <h2 id="kanboard">kanboard</h2>
 <p>Kanboard la podremos instalar en nuestra Raspberri Pi ya que es una aplicación muy liviana y que apenas consume recursos.</p>
 <p>Una vez descomprimido el archivo en la carpeta donde tiene acceso vuestro servidor web, para acceder debereis poner el nombre de usuario y contraseña por defecto:</p>
-<p>usuario: admin contraseña: admin</p>
+<p>usuario: admin</p>
+<p>contraseña: admin</p>
 <p><a href="https://kanboard.net/">https://kanboard.net/</a></p>
-<audio controls=''><source src=https://ia601900.us.archive.org/18/items/ElTrelloDeSoftwareLibreWekan/El_Trello_de_software_libre_Wekan.mp3 />Tu navegador no soporta reproductor de Podcast.</audio>
 <ul>
-<li><a href="://ugeek.github.io//ugeek.github.io/podcast.xml">Suscribete al Podcast de uGeek</a></li>
-<li>Visita los artículo y podcast en <a href="://ugeek.github.io//ugeek.github.io/"><a href="https://ugeek.github.io/">https://ugeek.github.io/</a></a></li>
+<li><a href="https://ugeek.github.io/podcast.xml">Suscribete al Podcast</a> - <a href="https://ugeek.github.io">Visita la web</a></li>
 </ul>
-<br>
-<p>Publicado por Angel el Sunday 05 February del 2017</p>
-<br><br> 
+<p>Publicado por Angel el Sunday 05 February del 2017 </p>
 <p>También te puede interesar:</p>
 <ul>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2023-05-31-mi-red-de-notas.html">Mi Red de Notas</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2023-02-14-notas-audiobookshelf-jellyfin--.html">Notas, audiobookshelf, jellyfin…</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2022-12-23-notas-manjaro-jellyfin-podcast--.html">Notas, Manjaro, Jellyfin podcast,…</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html">Notas, servicios con arm64 y Aplicaciones Android</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2021-11-01-cifrado-de-notas-con-zettel-notes-y-todas-las-novedades.html">Cifrado de Notas con Zettel Notes y todas las Novedades</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html">Como estoy tomando mis notas hoy.</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2021-08-24-notas-y-tareas-multiplataforma-con-opentodolist-.html">Notas y Tareas multiplataforma con OpenTodoList.</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2021-05-05-styx-el-mejor-navegador-de-android-gestion-notas.html">Styx. El mejor Navegador de Android. Gestión Notas</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2020-06-13-la-mejor-aplicacion-de-notas-multiplataforma-de-software-libre-joplin.html">La mejor aplicación de Notas Multiplataforma de Software Libre. Joplin</a></li>
-<li><a href="://ugeek.github.io//ugeek.github.io/post/2020-02-27-la-mejor-aplicación-de-notas-para-terminal.-simplenote-cli.html">La mejor aplicación de Notas para Terminal. SimpleNote cli</a></li>
+<li><a href="https://ugeek.github.io/post/2023-05-31-mi-red-de-notas.html">Mi Red de Notas</a></li>
+<li><a href="https://ugeek.github.io/post/2023-02-14-notas-audiobookshelf-jellyfin--.html">Notas, audiobookshelf, jellyfin...</a></li>
+<li><a href="https://ugeek.github.io/post/2022-12-23-notas-manjaro-jellyfin-podcast--.html">Notas, Manjaro, Jellyfin podcast,...</a></li>
+<li><a href="https://ugeek.github.io/post/2022-05-30-notas-servicios-con-arm64-y-aplicaciones-android.html">Notas, servicios con arm64 y Aplicaciones Android</a></li>
+<li><a href="https://ugeek.github.io/post/2021-11-01-cifrado-de-notas-con-zettel-notes-y-todas-las-novedades.html">Cifrado de Notas con Zettel Notes y todas las Novedades</a></li>
+<li><a href="https://ugeek.github.io/post/2021-09-22-como-estoy-tomando-mis-notas-hoy-.html">Como estoy tomando mis notas hoy.</a></li>
+<li><a href="https://ugeek.github.io/post/2021-08-24-notas-y-tareas-multiplataforma-con-opentodolist-.html">Notas y Tareas multiplataforma con OpenTodoList.</a></li>
+<li><a href="https://ugeek.github.io/post/2021-05-05-styx-el-mejor-navegador-de-android-gestion-notas.html">Styx. El mejor Navegador de Android. Gestión Notas</a></li>
+<li><a href="https://ugeek.github.io/post/2020-06-13-la-mejor-aplicacion-de-notas-multiplataforma-de-software-libre-joplin.html">La mejor aplicación de Notas Multiplataforma de Software Libre. Joplin</a></li>
+<li><a href="https://ugeek.github.io/post/2020-02-27-la-mejor-aplicación-de-notas-para-terminal.-simplenote-cli.html">La mejor aplicación de Notas para Terminal. SimpleNote cli</a></li>
 </ul>
-<br><br><br><p style="text-align: center;">Powered by <a href="https://github.com/ugeek/org-bash-podcast" target="_blank" rel="noopener">org-bash-podcast</a></p><p style="text-align: center;">Writing in orgmode whith emacs</p> <p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>
+<br><br><br>
+<p style="text-align: center;">Powered by <a href="https://github.com/ugeek/org-bash-podcast" target="_blank" rel="noopener">org-bash-podcast</a></p>
+<p style="text-align: center;">Written in OrgMode with Emacs and converted to HTML with Pandoc</p>
+<p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>
