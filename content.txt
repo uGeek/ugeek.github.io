@@ -1,5 +1,77 @@
 
 {
+            'title': 'Replica de tu servidor WebDAV en tu móvil,',
+            'text': 'Replica de tu servidor WebDAV en tu móvil ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html' 
+},
+{
+            'title': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli,',
+            'text': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html' 
+},
+{
+            'title': 'Gemini-cli y mis IA s Favoritas,',
+            'text': 'Gemini-cli y mis IA s Favoritas ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-07-07-gemini-cli-y-mis-ia s-favoritas.html' 
+},
+{
+            'title': 'Gemini 2.5 es buenísima,',
+            'text': 'Gemini 2.5 es buenísima ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html' 
+},
+{
+            'title': 'wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo,',
+            'text': 'wdblog. Reescribiendo el código del blog y como tu puedes modificalo ,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html' 
+},
+{
+            'title': 'Pocketcast, Telegram, Deepseek, Mistral,...,',
+            'text': 'Pocketcast, Telegram, Deepseek, Mistral,...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-03-19-pocketcast-telegram-deepseek-mistral--.html' 
+},
+{
+            'title': 'Dashboard y Actualidad,',
+            'text': 'Dashboard y Actualidad,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-28-dashboard-y-actualidad.html' 
+},
+{
+            'title': 'Brave , Duck Duck Go,',
+            'text': 'Brave , Duck Duck Go,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-17-brave--duck-duck-go.html' 
+},
+{
+            'title': 'Ollama en Raspberry o vps, Mistral, ...,',
+            'text': 'Ollama en Raspberry o vps, Mistral, ...,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-14-ollama-en-raspberry-o-vps-mistral---.html' 
+},
+{
+            'title': 'Fallos en cadena,',
+            'text': 'Fallos en cadena,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-13-fallos-en-cadena.html' 
+},
+{
+            'title': 'Como avanza la IA y Fastidiando al personal,',
+            'text': 'Como avanza la IA y Fastidiando al personal,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-02-12-como-avanza-la-ia-y-fastidiando-al-personal.html' 
+},
+{
+            'title': 'La que se está liando con la IA,',
+            'text': 'La que se está liando con la IA,', 
+            'tags': 'terminal,bash,,,,', 
+            'url': 'https://ugeek.github.io/post/2025-01-29-la-que-se-esta-liando-con-la-ia.html' 
+},
+{
             'title': 'Gestionando audios y vídeos en local con AntennaPod,',
             'text': 'Gestionando audios y vídeos en local con AntennaPod,', 
             'tags': 'terminal,bash,,,,', 
