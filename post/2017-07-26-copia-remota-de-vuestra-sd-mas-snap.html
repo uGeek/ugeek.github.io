@@ -45,11 +45,11 @@
 $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 </script>
 <br><center><audio controls='' preload='none'><source src='https://ia800608.us.archive.org/29/items/071.CopiaRemotaDeVuestraSDMasSnaps/071.%20Copia%20remota%20de%20vuestra%20SD%2C%20Mas%20snap%27s.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
-<h1 id="copia-remota-de-vuestra-sd-mas-snaps">Copia Remota De Vuestra SD, Mas Snaps </h1>
+<h1 id="copia-remota-de-vuestra-sd-mas-snaps" title="Copia Remota De Vuestra SD, Mas Snaps" data-export_file_name="copia-remota-de-vuestra-sd-mas-snap" data-description="En el podcast de hoy os explico un poco lo que ando haciendo, como hacer una copia de nuestra SD, sin necesidad de detener ningún servicio y os hablo de algunos paquetes snap nuevos" data-export_date="2017-07-26 23:00" data-category="servidor" data-tag="podcast,snap,raspberry" data-image="https://ugeek.github.io/blog/icon/ugeek.png">Copia Remota De Vuestra SD, Mas Snaps </h1>
 <p>En el podcast de hoy os explico un poco lo que ando haciendo, como hacer una copia de nuestra SD, sin necesidad de detener ningún servicio</p>
 <p>y os hablo de algunos paquetes snap nuevos.</p>
 <h2 id="para-hacer-una-copia-via-ssh-de-nuestra-sd-y-sin-necesidad-de-extraerla-de-nuestra-raspberry-pi">Para hacer una copia via ssh de nuestra SD y sin necesidad de extraerla de nuestra Raspberry Pi.</h2>
-<p><code>sudo dd if</code><em>dev</em>sda | gzip -c | ssh usuario@192.168.1.100 "dd of<code>/home/usuario/Backup/26-07-2017.dd.gz"</code></p>
+<p><code>sudo dd if</code>/dev/sda | gzip -c | ssh usuario@192.168.1.100 "dd of<code>/home/usuario/Backup/26-07-2017.dd.gz"</code></p>
 <p>También podemos instalar ya con paquetería snap:</p>
 <h2 id="syncthing">Syncthing</h2>
 <p><code>sudo snap install syncthing</code></p>
@@ -61,10 +61,8 @@ $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 <p><code>snap install kodi --edge</code></p>
 <ul>
 <li><a href="https://ugeek.github.io/podcast.xml">Suscribete al Podcast</a> - <a href="https://ugeek.github.io">Visita la web</a></li>
-</ul>
 <p>Publicado por Angel el Wednesday 26 July del 2017 </p>
 <p>También te puede interesar:</p>
-<ul>
 <li><a href="https://ugeek.github.io/post/2024-03-12-escuchando-los-videos-de-youtube-en-formato-podcast-sin-servidor.html">Escuchando los vídeos de YouTube en formato podcast sin servidor</a></li>
 <li><a href="https://ugeek.github.io/post/2022-09-22-servidor-de-libros-comics-y-mangas-kavita.html">Servidor de Libros, Comics y Mangas. kavita</a></li>
 <li><a href="https://ugeek.github.io/post/2022-03-10-servidor-de-audiolibros-audiobookshelf.html">Servidor de audiolibros Audiobookshelf</a></li>
