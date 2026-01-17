@@ -1,4 +1,5 @@
 var tipuesearch = {"pages": [
+{ 'title': 'Actualizando el blog y haciendo cambios', 'text': 'Hablo un poco de todos los cambios que estoy haciendo en el blog...', 'tags': '   ', 'url': 'https://ugeek.github.io/post/2026-01-17-actualizando-el-blog-y-haciendo-cambios.html' },
 { 'title': 'Replica de tu servidor WebDAV en tu móvil', 'text': 'Replica de tu servidor WebDAV en tu móvil ', 'tags': '   ', 'url': 'https://ugeek.github.io/post/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html' },
 { 'title': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli', 'text': 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli', 'tags': '   ', 'url': 'https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html' },
 { 'title': 'Gemini-cli y mis IA,s Favoritas', 'text': 'Gemini-cli y mis IA,s Favoritas ', 'tags': '   ', 'url': 'https://ugeek.github.io/post/2025-07-07-gemini-cli-y-mis-ia's-favoritas.html' },
