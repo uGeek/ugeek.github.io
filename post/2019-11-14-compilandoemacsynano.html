@@ -44,7 +44,89 @@
 <script>
 $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 </script>
-<br><center><audio controls='' preload='none'><source src='https://anchor.fm/s/106db04/podcast/play/8434683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-13%2F34091974-44100-2-32a711e9dfea6.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
+
+<style>
+.audio-container {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    border: 2px solid #9b59b6;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.audio-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: start;
+}
+
+.audio-cover {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 15px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.2);
+    flex-shrink: 0;
+}
+
+.audio-title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+}
+
+audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    outline: none;
+    margin-top: 5px;
+}
+
+audio::-webkit-media-controls-panel {
+    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);
+    border-radius: 25px;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+    color: #fff;
+}
+
+.glow {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 20px #9b59b6; }
+    to { box-shadow: 0 0 30px #e91e63; }
+}
+</style>
+
+<div class='audio-container glow'>
+    <div class='audio-header'>
+        <img src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
+        <div class='audio-title'>Compilando Emacs y Nano</div>
+    </div>
+    <audio controls preload='none'>
+        <source src='https://anchor.fm/s/106db04/podcast/play/8434683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-13%2F34091974-44100-2-32a711e9dfea6.mp3' type='audio/mpeg'>
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</div>
+
 <h1 id="compilando-emacs-y-nano" title="Compilando Emacs y Nano" data-export_file_name="Compilando Emacs y Nano" data-description="Os dejo el Artículo para compilar Nano y Emacs. Articulos para compilar Emacs y Nano -&gt;&gt; https://ugeek.github.io/blog/post/2019-11-13-compilando-la-ultima-version-de-emacs.html  &gt;&gt; https://ugeek.github.io/blog/post/2019-11-12-compilando-la-ultima-version-de-nano.html --- Post de Atareao sobre nano -&gt; https://www.atareao.es/software/programacion/nano-un-editor-de-texto-para-la-terminal/ ---- Posts de Ochobitshacenunbyte sobre Emacs -&gt; https://www.ochobitshacenunbyte.com/2019/10/29/una-guia-de-referencia-para-emacs/   Org-Mode -&gt; https://www.ochobitshacenunbyte.com/2019/11/01/que-es-org-mode-para-que-sirve/" data-export_date="2019-11-14 05:25" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png">Compilando Emacs y Nano </h1>
 <p>Os dejo el Artículo para compilar Nano y Emacs. Articulos para compilar Emacs y Nano -&amp;gt;&amp;gt; <a href="https://ugeek.github.io/blog/post/2019-11-13-compilando-la-ultima-version-de-emacs.html">https://ugeek.github.io/blog/post/2019-11-13-compilando-la-ultima-version-de-emacs.html</a>  &amp;gt;&amp;gt; <a href="https://ugeek.github.io/blog/post/2019-11-12-compilando-la-ultima-version-de-nano.html">https://ugeek.github.io/blog/post/2019-11-12-compilando-la-ultima-version-de-nano.html</a> --- Post de Atareao sobre nano -&amp;gt; <a href="https://www.atareao.es/software/programacion/nano-un-editor-de-texto-para-la-terminal/">https://www.atareao.es/software/programacion/nano-un-editor-de-texto-para-la-terminal/</a> ---- Posts de Ochobitshacenunbyte sobre Emacs -&amp;gt; <a href="https://www.ochobitshacenunbyte.com/2019/10/29/una-guia-de-referencia-para-emacs/">https://www.ochobitshacenunbyte.com/2019/10/29/una-guia-de-referencia-para-emacs/</a>   Org-Mode -&amp;gt; <a href="https://www.ochobitshacenunbyte.com/2019/11/01/que-es-org-mode-para-que-sirve/">https://www.ochobitshacenunbyte.com/2019/11/01/que-es-org-mode-para-que-sirve/</a></p>
 <ul>

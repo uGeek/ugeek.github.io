@@ -44,7 +44,89 @@
 <script>
 $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 </script>
-<br><center><audio controls='' preload='none'><source src='https://anchor.fm/s/106db04/podcast/play/26002459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-31%2F275c56fc-b223-8520-46c4-07c68bd6f404.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
+
+<style>
+.audio-container {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    border: 2px solid #9b59b6;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.audio-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: start;
+}
+
+.audio-cover {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 15px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.2);
+    flex-shrink: 0;
+}
+
+.audio-title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+}
+
+audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    outline: none;
+    margin-top: 5px;
+}
+
+audio::-webkit-media-controls-panel {
+    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);
+    border-radius: 25px;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+    color: #fff;
+}
+
+.glow {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 20px #9b59b6; }
+    to { box-shadow: 0 0 30px #e91e63; }
+}
+</style>
+
+<div class='audio-container glow'>
+    <div class='audio-header'>
+        <img src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
+        <div class='audio-title'>Renovarse o Morir. ownCloud se reescribe en Go y se convierte en la mejor nube</div>
+    </div>
+    <audio controls preload='none'>
+        <source src='https://anchor.fm/s/106db04/podcast/play/26002459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-31%2F275c56fc-b223-8520-46c4-07c68bd6f404.mp3' type='audio/mpeg'>
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</div>
+
 <h1 id="renovarse-o-morir-owncloud-se-reescribe-en-go-y-se-convierte-en-la-mejor-nube" title="Renovarse o Morir. ownCloud se reescribe en Go y se convierte en la mejor nube" data-export_file_name="renovarse-o-morir-owncloud-se-reescribe-en-go-y-se-convierte-en-la-mejor-nube" data-description="Renovarse o Morir. ownCloud se reescribe en Go y se convierte en la mejor nube: https://ugeek.github.io/blog/post/2021-01-31-mi-nueva-nube-es-owncloud.html" data-export_date="2021-01-31 19:15" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/images-blog/owncloud1.png">Renovarse o Morir. ownCloud se reescribe en Go y se convierte en la mejor nube </h1>
 <p>Renovarse o Morir. ownCloud se reescribe en Go y se convierte en la mejor nube.</p>
 <ul>

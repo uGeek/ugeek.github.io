@@ -44,7 +44,89 @@
 <script>
 $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 </script>
-<br><center><audio controls='' preload='none'><source src='https://ia801505.us.archive.org/27/items/045CrossoverConSalmorejoGeek/%23045%20Crossover%20con%20Salmorejo%20Geek.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
+
+<style>
+.audio-container {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    border: 2px solid #9b59b6;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.audio-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: start;
+}
+
+.audio-cover {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 15px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.2);
+    flex-shrink: 0;
+}
+
+.audio-title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+}
+
+audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    outline: none;
+    margin-top: 5px;
+}
+
+audio::-webkit-media-controls-panel {
+    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);
+    border-radius: 25px;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+    color: #fff;
+}
+
+.glow {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 20px #9b59b6; }
+    to { box-shadow: 0 0 30px #e91e63; }
+}
+</style>
+
+<div class='audio-container glow'>
+    <div class='audio-header'>
+        <img src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
+        <div class='audio-title'>Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas...</div>
+    </div>
+    <audio controls preload='none'>
+        <source src='https://ia801505.us.archive.org/27/items/045CrossoverConSalmorejoGeek/%23045%20Crossover%20con%20Salmorejo%20Geek.mp3' type='audio/mpeg'>
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</div>
+
 <h1 id="crossover-con-salmorejo-geek-donde-hablamos-de-mastodon-ubuntu-telegram-y-mucho-mas" title="Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas..." data-export_file_name="crossover-con-salmorejo-geek-donde-hablamos-de-mastodon-ubuntu-telegram-y-mucho-mas" data-description="Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas..." data-export_date="2017-04-12 02:00" data-category="podcast" data-tag="crossover,telegram," data-image="https://ugeek.github.io/blog/icon/ugeek.png">Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas...</h1>
 <p>Nuevo Crossover esta vez con YoYo Fernández. Yoyo, todo un referente en la comunidad GNU/Linux y yo, mantenemos una charla amena e</p>
 <p>improvisada de casi 2 horas, hablando un poco de todo:</p>

@@ -44,7 +44,89 @@
 <script>
 $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 </script>
-<br><center><audio controls='' preload='none'><source src='https://anchor.fm/s/106db04/podcast/play/13243160/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69847028-44100-2-50390181f5d58.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
+
+<style>
+.audio-container {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    border: 2px solid #9b59b6;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.audio-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: start;
+}
+
+.audio-cover {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 15px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.2);
+    flex-shrink: 0;
+}
+
+.audio-title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+}
+
+audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    outline: none;
+    margin-top: 5px;
+}
+
+audio::-webkit-media-controls-panel {
+    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);
+    border-radius: 25px;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+    color: #fff;
+}
+
+.glow {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 20px #9b59b6; }
+    to { box-shadow: 0 0 30px #e91e63; }
+}
+</style>
+
+<div class='audio-container glow'>
+    <div class='audio-header'>
+        <img src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
+        <div class='audio-title'>Ubuntu 20.04 en nuestra Raspberry y placa ARM</div>
+    </div>
+    <audio controls preload='none'>
+        <source src='https://anchor.fm/s/106db04/podcast/play/13243160/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69847028-44100-2-50390181f5d58.mp3' type='audio/mpeg'>
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</div>
+
 <h1 id="ubuntu-2004-en-nuestra-raspberry-y-placa-arm" title="Ubuntu 20.04 en nuestra Raspberry y placa ARM" data-export_file_name="Ubuntu 20.04 en nuestra Raspberry y placa ARM" data-description="Artículo: https://ugeek.github.io/blog/post/2020-04-26-instalar-ubuntu-20-04-en-una-raspberry-o-servidor-arm-y-que-hacer-despues-de-instalarlo.html" data-export_date="2020-05-04 05:25" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png">Ubuntu 20.04 en nuestra Raspberry y placa ARM </h1>
 <p>Artículo: <a href="https://ugeek.github.io/blog/post/2020-04-26-instalar-ubuntu-20-04-en-una-raspberry-o-servidor-arm-y-que-hacer-despues-de-instalarlo.html">https://ugeek.github.io/blog/post/2020-04-26-instalar-ubuntu-20-04-en-una-raspberry-o-servidor-arm-y-que-hacer-despues-de-instalarlo.html</a></p>
 <ul>

@@ -44,7 +44,89 @@
 <script>
 $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 </script>
-<br><center><audio controls='' preload='none'><source src='https://ia601500.us.archive.org/0/items/NasVsServidorLinux/Nas%20vs%20Servidor%20Linux.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
+
+<style>
+.audio-container {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    border: 2px solid #9b59b6;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.audio-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: start;
+}
+
+.audio-cover {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 15px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.2);
+    flex-shrink: 0;
+}
+
+.audio-title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+}
+
+audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    outline: none;
+    margin-top: 5px;
+}
+
+audio::-webkit-media-controls-panel {
+    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);
+    border-radius: 25px;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+    color: #fff;
+}
+
+.glow {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 20px #9b59b6; }
+    to { box-shadow: 0 0 30px #e91e63; }
+}
+</style>
+
+<div class='audio-container glow'>
+    <div class='audio-header'>
+        <img src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
+        <div class='audio-title'>Nas vs Servidor Linux</div>
+    </div>
+    <audio controls preload='none'>
+        <source src='https://ia601500.us.archive.org/0/items/NasVsServidorLinux/Nas%20vs%20Servidor%20Linux.mp3' type='audio/mpeg'>
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</div>
+
 <h1 id="nas-vs-servidor-linux" title="Nas vs Servidor Linux" data-export_file_name="nas-vs-servidor-linux" data-description="¿Que diferencia hay entre un Servidor Linux y los NAS QNAP-Synology?. En este podcast os explico desde mi punto de vista los pros y contras para decidir cual será tu servidor." data-export_date="2017-12-15 07:15" data-category="linux" data-tag="podcast,nas" data-image="https://ugeek.github.io/blog/icon/ugeek.png">Nas vs Servidor Linux</h1>
 <p>¿Que diferencia hay entre un Servidor Linux y los NAS QNAP-Synology?. En este podcast os explico desde mi punto de vista los pros y contras para decidir cual será tu servidor.</p>
 <p><a href="https://eschromebook.blogspot.com/">Web de MosqueteroWeb. Eschromebook</a></p>
