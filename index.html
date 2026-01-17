@@ -110,7 +110,7 @@ $(document).ready(function() {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
-    justify-content: center; /* Centramos la caratula ya que no hay titulo al lado */
+    justify-content: center; /* Centramos la caratula */
 }
 .audio-cover {
     width: 80px;
@@ -120,17 +120,20 @@ $(document).ready(function() {
     box-shadow: 0 4px 8px rgba(0,0,0,0.3);
     border: 1px solid rgba(255,255,255,0.2);
 }
-/* Estilo para el H2 fuera del player */
+
+/* Estilo para el H2 fuera del player (PERSONALIZADO) */
 .latest-podcast-title {
     text-align: center;
     margin-top: 40px;
-    margin-bottom: 10px;
-    color: #333; /* O el color que use tu tema */
-    font-weight: bold;
-}
-/* En modo oscuro si tu tema lo requiere, ajusta este color */
-@media (prefers-color-scheme: dark) {
-    .latest-podcast-title { color: #fff; }
+    margin-bottom: 20px;
+    color: #6c2eb9;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    border-bottom-style: solid;
+    border-bottom-color: lightgray;
+    border-bottom-width: 1px; /* Añadido un ancho por defecto para que se vea */
+    padding-bottom: 10px;
 }
 
 audio {
@@ -189,7 +192,7 @@ audio::-webkit-media-controls-time-remaining-display {
 }
 
 .playlist-scroll-area {
-    /* Altura ajustada para mostrar ~4 items (aprox 45px c/u) */
+    /* Altura ajustada para mostrar ~4 items */
     max-height: 200px; 
     overflow-y: auto;
     padding-right: 5px;
@@ -214,7 +217,7 @@ audio::-webkit-media-controls-time-remaining-display {
     cursor: pointer;
     transition: background 0.3s ease;
     color: rgba(255, 255, 255, 0.7);
-    font-size: 13px; /* Fuente ligeramente más pequeña para que quepa fecha+titulo */
+    font-size: 13px;
 }
 .playlist-item:hover {
     background: rgba(255, 255, 255, 0.1);
@@ -1575,11 +1578,11 @@ function updateTrack(url, title, image) {
     var audio = document.getElementById('main-audio');
     var source = document.getElementById('main-source');
     var coverImg = document.getElementById('main-cover');
-    var externalTitle = document.getElementById('external-title'); // Seleccionar el H2 externo
+    var externalTitle = document.getElementById('external-title'); 
 
     source.src = url;
     coverImg.src = image;
-    externalTitle.innerText = title; // Actualizar el texto del H2 externo
+    externalTitle.innerText = title; 
 
     audio.load();
     audio.play();
@@ -1599,15 +1602,6 @@ document.getElementById('playlistFilter').addEventListener('keyup', function() {
     });
 });
 </script>
-
-<h2>Últimos Podcasts</h2>
-<ul>
-<li><a href="https://ugeek.github.io/post/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html">Replica de tu servidor WebDAV en tu móvil</a></li>
-<li><a href="https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html">Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</a></li>
-<li><a href="https://ugeek.github.io/post/2025-07-07-gemini-cli-y-mis-ia's-favoritas.html">Gemini-cli y mis IA's Favoritas</a></li>
-<li><a href="https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html">Gemini 2.5 es buenísima</a></li>
-<li><a href="https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html">wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</a></li>
-</ul>
 <h2 id="replica-de-tu-servidor-webdav-en-tu-móvil">Replica de tu servidor WebDAV en tu móvil </h2>
 <h2 id="iniciando-tu-servidor">Iniciando tu servidor</h2>
 <ul>
