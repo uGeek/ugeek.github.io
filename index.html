@@ -94,79 +94,78 @@ $(document).ready(function() {
 <li><a href="https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html">Gemini 2.5 es buenísima</a> </li>
 <li><a href="https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html">wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</a> </li>
 </ul>
-<p>#+BEGIN_EXPORT html</p>
-<p>&lt;style&gt;</p>
-<p>.audio-container {</p>
-<p>    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);</p>
-<p>    border-radius: 20px;</p>
-<p>    padding: 20px;</p>
-<p>    max-width: 500px;</p>
-<p>    margin: 20px auto;</p>
-<p>    box-shadow: 0 10px 40px rgba(0,0,0,0.5);</p>
-<p>    border: 2px solid #9b59b6;</p>
-<p>    font-family: 'Segoe UI', Arial, sans-serif;</p>
-<p>}</p>
-<p>.audio-header {</p>
-<p>    display: flex;</p>
-<p>    align-items: center;</p>
-<p>    margin-bottom: 20px;</p>
-<p>    justify-content: start;</p>
-<p>}</p>
-<p>.audio-cover {</p>
-<p>    width: 60px;</p>
-<p>    height: 60px;</p>
-<p>    border-radius: 10px;</p>
-<p>    margin-right: 15px;</p>
-<p>    object-fit: cover;</p>
-<p>    box-shadow: 0 4px 8px rgba(0,0,0,0.3);</p>
-<p>    border: 1px solid rgba(255,255,255,0.2);</p>
-<p>    flex-shrink: 0;</p>
-<p>}</p>
-<p>.audio-title {</p>
-<p>    color: #fff;</p>
-<p>    font-size: 16px;</p>
-<p>    font-weight: 600;</p>
-<p>    line-height: 1.4;</p>
-<p>    text-align: left;</p>
-<p>}</p>
-<p>audio {</p>
-<p>    width: 100%;</p>
-<p>    height: 40px;</p>
-<p>    border-radius: 25px;</p>
-<p>    outline: none;</p>
-<p>    margin-top: 5px;</p>
-<p>}</p>
-<p>audio::-webkit-media-controls-panel {</p>
-<p>    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);</p>
-<p>    border-radius: 25px;</p>
-<p>}</p>
-<p>audio::-webkit-media-controls-play-button {</p>
-<p>    background-color: #fff;</p>
-<p>    border-radius: 50%;</p>
-<p>}</p>
-<p>audio::-webkit-media-controls-current-time-display,</p>
-<p>audio::-webkit-media-controls-time-remaining-display {</p>
-<p>    color: #fff;</p>
-<p>}</p>
-<p>.glow {</p>
-<p>    animation: glow 2s ease-in-out infinite alternate;</p>
-<p>}</p>
-<p>@keyframes glow {</p>
-<p>    from { box-shadow: 0 0 20px #9b59b6; }</p>
-<p>    to { box-shadow: 0 0 30px #e91e63; }</p>
-<p>}</p>
-<p>&lt;/style&gt;</p>
-<p>&lt;div class='audio-container glow'&gt;</p>
-<p>    &lt;div class='audio-header'&gt;</p>
-<p>        &lt;img src<code>'https://ugeek.github.io/blog/icon/ugeek.png' class</code>'audio-cover' alt='Cover'&gt;</p>
-<p>        &lt;div class='audio-title'&gt;Replica de tu servidor WebDAV en tu móvil&lt;/div&gt;</p>
-<p>    &lt;/div&gt;</p>
-<p>    &lt;audio controls preload='none'&gt;</p>
-<p>        &lt;source src<code>'https://anchor.fm/s/106db04/podcast/play/111950239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F273298e2-8cc5-215a-5e99-7f919de20252.mp3' type</code>'audio/mpeg'&gt;</p>
-<p>        Tu navegador no soporta el elemento audio.</p>
-<p>    &lt;/audio&gt;</p>
-<p>&lt;/div&gt;</p>
-<p>#+END_EXPORT</p>
+<style>
+.audio-container {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    border: 2px solid #9b59b6;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+.audio-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: start;
+}
+.audio-cover {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 15px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.2);
+    flex-shrink: 0;
+}
+.audio-title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+}
+audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    outline: none;
+    margin-top: 5px;
+}
+audio::-webkit-media-controls-panel {
+    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);
+    border-radius: 25px;
+}
+audio::-webkit-media-controls-play-button {
+    background-color: #fff;
+    border-radius: 50%;
+}
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+    color: #fff;
+}
+.glow {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+@keyframes glow {
+    from { box-shadow: 0 0 20px #9b59b6; }
+    to { box-shadow: 0 0 30px #e91e63; }
+}
+</style>
+
+<div class='audio-container glow'>
+    <div class='audio-header'>
+        <img src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
+        <div class='audio-title'>Replica de tu servidor WebDAV en tu móvil</div>
+    </div>
+    <audio controls preload='none'>
+        <source src='https://anchor.fm/s/106db04/podcast/play/111950239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F273298e2-8cc5-215a-5e99-7f919de20252.mp3' type='audio/mpeg'>
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</div>
 <h2 id="replica-de-tu-servidor-webdav-en-tu-móvil">Replica de tu servidor WebDAV en tu móvil </h2>
 <h2 id="iniciando-tu-servidor">Iniciando tu servidor</h2>
 <ul>
