@@ -95,6 +95,7 @@ $(document).ready(function() {
 <li><a href="https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html">wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</a> </li>
 </ul>
 <style>
+/* Estilos Principales */
 .audio-container {
     background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
     border-radius: 20px;
@@ -154,18 +155,89 @@ audio::-webkit-media-controls-time-remaining-display {
     from { box-shadow: 0 0 20px #9b59b6; }
     to { box-shadow: 0 0 30px #e91e63; }
 }
+
+/* Estilos de la Playlist */
+.playlist {
+    margin-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 10px;
+}
+.playlist-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    color: rgba(255, 255, 255, 0.7);
+}
+.playlist-item:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+.playlist-icon {
+    font-size: 14px;
+    margin-right: 12px;
+    color: #e91e63;
+}
+.playlist-info {
+    font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
 </style>
 
 <div class='audio-container glow'>
+    <!-- Reproductor Principal -->
     <div class='audio-header'>
-        <img src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
-        <div class='audio-title'>Replica de tu servidor WebDAV en tu móvil</div>
+        <img id="main-cover" src='https://ugeek.github.io/blog/icon/ugeek.png' class='audio-cover' alt='Cover'>
+        <div id="main-title" class='audio-title'>Replica de tu servidor WebDAV en tu móvil</div>
     </div>
-    <audio controls preload='none'>
-        <source src='https://anchor.fm/s/106db04/podcast/play/111950239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F273298e2-8cc5-215a-5e99-7f919de20252.mp3' type='audio/mpeg'>
+    <audio id="main-audio" controls preload='none'>
+        <source id="main-source" src='https://anchor.fm/s/106db04/podcast/play/111950239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F273298e2-8cc5-215a-5e99-7f919de20252.mp3' type='audio/mpeg'>
         Tu navegador no soporta el elemento audio.
     </audio>
+
+    <!-- Lista de Reproducción (El Resto) -->
+    <div class="playlist">
+        
+        <div class='playlist-item' onclick="updateTrack('https://anchor.fm/s/106db04/podcast/play/106707937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-11%2F6a855443-e4b2-28f6-ba17-881a4267a999.mp3', 'Creando Apps Android Y Extensiones del Navegador Con Gemini-cli', 'https://ugeek.github.io/blog/icon/ugeek.png')">
+            <div class='playlist-icon'>&#9658;</div>
+            <div class='playlist-info'>Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</div>
+        </div>
+        <div class='playlist-item' onclick="updateTrack('https://anchor.fm/s/106db04/podcast/play/105129351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F35e94540-d907-5827-0937-423b1aea26cd.mp3', 'Gemini-cli y mis IA\'s Favoritas', 'https://ugeek.github.io/blog/icon/ugeek.png')">
+            <div class='playlist-icon'>&#9658;</div>
+            <div class='playlist-info'>Gemini-cli y mis IA's Favoritas</div>
+        </div>
+        <div class='playlist-item' onclick="updateTrack('https://anchor.fm/s/106db04/podcast/play/103259553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-27%2F9485a654-af32-85d0-d8f1-eaec76936a56.mp3', 'Gemini 2.5 es buenísima', 'https://ugeek.github.io/blog/icon/ugeek.png')">
+            <div class='playlist-icon'>&#9658;</div>
+            <div class='playlist-info'>Gemini 2.5 es buenísima</div>
+        </div>
+        <div class='playlist-item' onclick="updateTrack('https://anchor.fm/s/106db04/podcast/play/101709001/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-24%2Fafc0ad59-614e-9954-f52b-39ce94a0e141.mp3', 'wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo', 'https://ugeek.github.io/blog/icon/ugeek.png')">
+            <div class='playlist-icon'>&#9658;</div>
+            <div class='playlist-info'>wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</div>
+        </div>
+    </div>
 </div>
+
+<script>
+function updateTrack(url, title, image) {
+    var audio = document.getElementById('main-audio');
+    var source = document.getElementById('main-source');
+    var titleDiv = document.getElementById('main-title');
+    var coverImg = document.getElementById('main-cover');
+
+    // Actualizar fuente y metadatos
+    source.src = url;
+    titleDiv.innerText = title;
+    coverImg.src = image;
+
+    // Recargar y reproducir
+    audio.load();
+    audio.play();
+}
+</script>
 <h2 id="replica-de-tu-servidor-webdav-en-tu-móvil">Replica de tu servidor WebDAV en tu móvil </h2>
 <h2 id="iniciando-tu-servidor">Iniciando tu servidor</h2>
 <ul>
