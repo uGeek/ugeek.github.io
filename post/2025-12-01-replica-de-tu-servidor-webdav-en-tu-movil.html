@@ -44,6 +44,73 @@
 <script>
 $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 </script>
+
+<style>
+.audio-container {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 20px;
+    padding: 30px;
+    max-width: 400px;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    border: 2px solid #9b59b6;
+}
+
+.audio-title {
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.audio-icon {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+audio {
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    outline: none;
+}
+
+audio::-webkit-media-controls-panel {
+    background: linear-gradient(90deg, #9b59b6 0%, #e91e63 100%);
+    border-radius: 25px;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+    color: #fff;
+}
+
+.glow {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 20px #9b59b6; }
+    to { box-shadow: 0 0 30px #e91e63; }
+}
+</style>
+
+<div class='audio-container glow'>
+    <div class='audio-icon'>🎧</div>
+    <div class='audio-title'>Reproduciendo Audio</div>
+    <audio controls preload='none'>
+        <source src='https://anchor.fm/s/106db04/podcast/play/111950239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F273298e2-8cc5-215a-5e99-7f919de20252.mp3' type='audio/mpeg'>
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</div>
+
 <br><center><audio controls='' preload='none'><source src='https://anchor.fm/s/106db04/podcast/play/111950239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F273298e2-8cc5-215a-5e99-7f919de20252.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
 <h1 id="replica-de-tu-servidor-webdav-en-tu-móvil" title="Replica de tu servidor WebDAV en tu móvil" data-export_file_name="replica-de-tu-servidor-webdav-en-tu-movil" data-description="Replica de tu servidor WebDAV en tu móvil" data-export_date="2025-12-01 07:57" data-category="terminal" data-tag="bash" data-image="https://ugeek.github.io/blog/icon/ugeek.png">Replica de tu servidor WebDAV en tu móvil  </h1>
 <ul>
@@ -61,7 +128,6 @@ $(document).ready(function() { $("#tipue_search_input").tipuesearch(); });
 <li><a href="https://ugeek.github.io/post/2025-02-13-fallos-en-cadena.html">Fallos en cadena</a></li>
 <li><a href="https://ugeek.github.io/post/2025-02-12-como-avanza-la-ia-y-fastidiando-al-personal.html">Como avanza la IA y Fastidiando al personal</a></li>
 </ul>
-<br><center><audio controls='' preload='none'><source src='https://anchor.fm/s/106db04/podcast/play/111950239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F273298e2-8cc5-215a-5e99-7f919de20252.mp3' type='audio/mpeg'>Tu navegador no soporta el elemento audio.</audio></center><br>
 <br><br><br>
 <p style="text-align: center;">Powered by <a href="https://github.com/ugeek/org-bash-podcast" target="_blank" rel="noopener">org-bash-podcast</a></p>
 <p style="text-align: center;">Written in OrgMode with Emacs</p>
