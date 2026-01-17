@@ -94,6 +94,14 @@ $(document).ready(function() {
 <li><a href="https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html">Gemini 2.5 es buenísima</a> </li>
 <li><a href="https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html">wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</a> </li>
 </ul>
+<h1 id="últimos-podcast">Últimos Podcast</h1>
+<ul>
+<li><a href="https://ugeek.github.io/post/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html">Replica de tu servidor WebDAV en tu móvil</a> </li>
+<li><a href="https://ugeek.github.io/post/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html">Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</a> </li>
+<li><a href="https://ugeek.github.io/post/2025-07-07-gemini-cli-y-mis-ia's-favoritas.html">Gemini-cli y mis IA's Favoritas</a> </li>
+<li><a href="https://ugeek.github.io/post/2025-05-27-gemini-2-5-es-buenisima.html">Gemini 2.5 es buenísima</a> </li>
+<li><a href="https://ugeek.github.io/post/2025-04-24-wdblog-reescribiendo-el-codigo-del-blog-y-como-tu-puedes-modificalo-y-adaptarlo.html">wdblog. Reescribiendo el código del blog y como tu puedes modificalo y adaptarlo</a> </li>
+</ul>
 <style>
 .audio-container {
     background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
@@ -118,17 +126,6 @@ $(document).ready(function() {
     object-fit: cover;
     box-shadow: 0 4px 8px rgba(0,0,0,0.3);
     border: 1px solid rgba(255,255,255,0.2);
-}
-
-.latest-podcast-title {
-    text-align: center;
-    margin-top: 40px;
-    margin-bottom: 10px;
-    color: #3c1b66;
-    font-weight: normal;
-    font-size: 32px;
-    font-family: Arial;
-    text-transform: uppercase;
 }
 
 audio {
@@ -231,8 +228,6 @@ audio::-webkit-media-controls-time-remaining-display {
     display: none !important;
 }
 </style>
-
-<h2 class="latest-podcast-title">Último Podcast: <span id="external-title">Replica de tu servidor WebDAV en tu móvil</span></h2>
 
 <div class='audio-container glow'>
     <div class='audio-header'>
@@ -1568,11 +1563,10 @@ function updateTrack(url, title, image) {
     var audio = document.getElementById('main-audio');
     var source = document.getElementById('main-source');
     var coverImg = document.getElementById('main-cover');
-    var externalTitle = document.getElementById('external-title'); 
 
     source.src = url;
     coverImg.src = image;
-    externalTitle.innerText = title; 
+    // Titulo ya no externo
 
     audio.load();
     audio.play();
