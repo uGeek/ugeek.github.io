@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?> <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"> <channel> <title>uGeek Podcast</title> <link>https://ugeek.github.io</link> <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description> <image> <url>https://ugeek.github.io/ugeek.png</url> <title>uGeek Podcast</title> <link>https://ugeek.github.io</link> </image> <language>es</language> <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml" /> <generator>org-bash-podcast static site generator</generator>
    <item>
-    <title>Mis teclados en Android y dos para iOS.</title>
-    <link>https://ugeek.github.io/post/2026-01-28-mis-teclados-en-android-y-dos-para-ios-.html</link>
-    <description>
-&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Mis teclados en Android y dos para iOS."&gt;
-&lt;br&gt;&lt;p&gt;Aquí te explico los teclados que utilizo en mis dispositivos Android y los dos teclados que son también compatibles con iOS y puedes utilizar.Gboard (el teclado de Google) - HTTPS://en.wikipedia.org/wiki/GboardHeliboard - HTTPS://github.com/Helium314/HeliBoardUnexpected Keyboard - HTTPS://play.google.com/store/apps/details?id=juloo.keyboard2&hl=en\_USHeliboardL - HTTPS://github.com/Helium314/HeliBoardTypeless - HTTPS://play.google.com/store/apps/details?id=com.typeless.mobileFuto - HTTPS://play.google.com/store/apps/details?id=org.futo.inputmethod.latin.playstore&hl=en\_US , HTTPS://github.com/futo-org/android-keyboard/releases... &lt;p&gt;Sigue leyendo: &lt;a href="https://ugeek.github.io/post/2026-01-28-mis-teclados-en-android-y-dos-para-ios-.html"&gt;Mis teclados en Android y dos para iOS.&lt;/a&gt; &lt;/a&gt;&lt;/p&gt;
-</description>
-    <pubDate>Wed, 28 Jan 2026 20:38:00 +0100</pubDate>
-    <category>terminal</category>
-    <guid>https://ugeek.github.io/post/2026-01-28-mis-teclados-en-android-y-dos-para-ios-.html</guid>
-   </item>
-   <item>
     <title>Actualizando el blog y haciendo cambios</title>
     <link>https://ugeek.github.io/post/2026-01-17-actualizando-el-blog-y-haciendo-cambios.html</link>
     <description>
