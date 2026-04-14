@@ -9,7 +9,8 @@
       <itunes:name><![CDATA[uGeek]]></itunes:name>
       <itunes:email><![CDATA[ugeekpodcast@gmail.com]]></itunes:email>
     </itunes:owner>
-    <itunes:explicit><![CDATA[No]]></itunes:explicit>
+    <itunes:author><![CDATA[Angel]]></itunes:author>
+    <itunes:explicit><![CDATA[false]]></itunes:explicit>
     <itunes:keywords><![CDATA[Tecnología,Linux,Bash]]></itunes:keywords>
     <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
     <itunes:category text="Technology"/>
