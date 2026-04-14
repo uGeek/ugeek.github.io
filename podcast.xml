@@ -5,6 +5,14 @@
     <link>https://ugeek.github.io/</link>
     <description><![CDATA[Feed de Podcast uGeek]]></description>
     <language>es</language>
+    <itunes:owner>
+      <itunes:name><![CDATA[uGeek]]></itunes:name>
+      <itunes:email><![CDATA[ugeekpodcast@gmail.com]]></itunes:email>
+    </itunes:owner>
+    <itunes:explicit><![CDATA[No]]></itunes:explicit>
+    <itunes:keywords><![CDATA[Tecnología,Linux,Bash]]></itunes:keywords>
+    <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
+    <itunes:category text="Technology"/>
     <item>
       <title><![CDATA[Actualizado el Blog, Arch Linux y más...]]></title>
       <link>https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html</link>
