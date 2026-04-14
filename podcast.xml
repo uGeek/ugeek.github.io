@@ -6,6 +6,17 @@
     <description><![CDATA[Feed de Podcast uGeek]]></description>
     <language>es</language>
     <item>
+      <title><![CDATA[Actualizado el Blog, Arch Linux y más...]]></title>
+      <link>https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html</link>
+      <description><![CDATA[En este podcast hablo de cómo he actualizado el blog con un nuevo sistema mediante mi servidor WebDAV. He apagado la Raspberry para tener como servidor mi mini PC. Además, he instalado Arch Linux y otras cosas, como la IA local.]]></description>
+      <pubDate>Tue, 14 Apr 2026 17:43:00 GMT</pubDate>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html</guid>
+      <enclosure url="https://anchor.fm/s/106db04/podcast/play/118456290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-14%2F9a2f01f4-9dca-aeeb-5dec-3e144ca0687c.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/72265/72265-1531065990976-aa9b752299ad3.jpg"/>
+      <itunes:summary><![CDATA[En este podcast hablo de cómo he actualizado el blog con un nuevo sistema mediante mi servidor WebDAV. He apagado la Raspberry para tener como servidor mi mini PC. Además, he instalado Arch Linux y otras cosas, como la IA local.]]></itunes:summary>
+    </item>
+    <item>
       <title><![CDATA[Actualizando el blog y haciendo cambios]]></title>
       <link>https://ugeek.github.io/posts/2026-01-17-actualizando-el-blog-y-haciendo-cambios.html</link>
       <description><![CDATA[Hablo un poco de todos los cambios que estoy haciendo en el blog... Post: Actualizando el blog y haciendo cambios]]></description>
