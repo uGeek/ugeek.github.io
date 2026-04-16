@@ -15,6 +15,17 @@
     <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title><![CDATA[Brave Origin. No más Excusas para utilizar Brave ]]></title>
+      <link>https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html</link>
+      <description><![CDATA[Estamos de suerte porque el mejor navegador, que tenía esta pequeña carencia de incluir un montón de complementos innecesarios para mucha gente, ahora nos da la posibilidad de utilizarse con las características básicas. Tenemos todas las virtudes y todo lo mejor de Brave en una versión, Brave Origin.]]></description>
+      <pubDate>Thu, 16 Apr 2026 20:51:00 GMT</pubDate>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html</guid>
+      <enclosure url="https://anchor.fm/s/106db04/podcast/play/118572755/https%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2026-3-16%252Fc9448ac3-3bd6-5110-e15a-07b353b46393.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
+      <itunes:summary><![CDATA[Estamos de suerte porque el mejor navegador, que tenía esta pequeña carencia de incluir un montón de complementos innecesarios para mucha gente, ahora nos da la posibilidad de utilizarse con las características básicas. Tenemos todas las virtudes y todo lo mejor de Brave en una versión, Brave Origin.]]></itunes:summary>
+    </item>
+    <item>
       <title><![CDATA[Actualizado el Blog, Arch Linux y más...]]></title>
       <link>https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html</link>
       <description><![CDATA[En este podcast hablo de cómo he actualizado el blog con un nuevo sistema mediante mi servidor WebDAV. He apagado la Raspberry para tener como servidor mi mini PC. Además, he instalado Arch Linux y otras cosas, como la IA local.]]></description>

@@ -15,6 +15,15 @@
     <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title><![CDATA[Brave Origin. No más Excusas para utilizar Brave ]]></title>
+      <link>https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html</link>
+      <description><![CDATA[Estamos de suerte porque el mejor navegador, que tenía esta pequeña carencia de incluir un montón de complementos innecesarios para mucha gente, ahora nos da la posibilidad de utilizarse con las características básicas. Tenemos todas las virtudes y todo lo mejor de Brave en una versión, Brave Origin.]]></description>
+      <pubDate>Thu, 16 Apr 2026 20:51:00 GMT</pubDate>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html</guid>
+      
+    </item>
+    <item>
       <title><![CDATA[Actualizado el Blog, Arch Linux y más...]]></title>
       <link>https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html</link>
       <description><![CDATA[En este podcast hablo de cómo he actualizado el blog con un nuevo sistema mediante mi servidor WebDAV. He apagado la Raspberry para tener como servidor mi mini PC. Además, he instalado Arch Linux y otras cosas, como la IA local.]]></description>
@@ -183,15 +192,6 @@
       <pubDate>Wed, 01 Nov 2023 11:19:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2023-11-01-android-y-sus-aplicaciones-en-windows-y-linux.html</guid>
-      
-    </item>
-    <item>
-      <title><![CDATA[Creando mis servicios con IA. ChatGPT]]></title>
-      <link>https://ugeek.github.io/posts/2023-09-28-creando-mis-servicios-con-ia-chatgpt.html</link>
-      <description><![CDATA[Creando mis servicios con IA. ChatGPT Post: Creando mis servicios con IA. ChatGPT]]></description>
-      <pubDate>Thu, 28 Sep 2023 05:47:00 GMT</pubDate>
-      <category><![CDATA[Podcast]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2023-09-28-creando-mis-servicios-con-ia-chatgpt.html</guid>
       
     </item>
   </channel>
