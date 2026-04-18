@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title><![CDATA[Podcast uGeek]]></title>
+    <title>uGeek Blog</title>
     <link>https://ugeek.github.io/</link>
-    <description><![CDATA[Feed de Podcast uGeek]]></description>
+    <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
+    <image>
+      <url>https://ugeek.github.io/blog/icon/ugeek.png</url>
+      <title>uGeek Blog</title>
+      <link>https://ugeek.github.io/</link>
+    </image>
     <language>es</language>
+    <atom:link href="https://ugeek.github.io/podcast.xml" rel="self" type="application/rss+xml"/>
+    <generator>wdblog</generator>
     <itunes:owner>
-      <itunes:name><![CDATA[uGeek]]></itunes:name>
-      <itunes:email><![CDATA[ugeekpodcast@gmail.com]]></itunes:email>
+      <itunes:name>uGeek</itunes:name>
+      <itunes:email>ugeekpodcast@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:author><![CDATA[Angel]]></itunes:author>
-    <itunes:explicit><![CDATA[false]]></itunes:explicit>
-    <itunes:keywords><![CDATA[Tecnología,Linux,Bash]]></itunes:keywords>
+    <itunes:author>Angel</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Tecnología,Linux,Bash</itunes:keywords>
     <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
     <itunes:category text="Technology"/>
+    <itunes:summary><![CDATA[Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek]]></itunes:summary>
     <item>
       <title><![CDATA[Brave Origin. No más Excusas para utilizar Brave]]></title>
       <link>https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html</link>
@@ -32,8 +40,8 @@
       <pubDate>Tue, 14 Apr 2026 17:43:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html</guid>
-      <enclosure url="https://anchor.fm/s/106db04/podcast/play/118572755/https%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2026-3-16%252Fc9448ac3-3bd6-5110-e15a-07b353b46393.mp3" type="audio/mpeg"/>
-      <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
+      <enclosure url="https://anchor.fm/s/106db04/podcast/play/118456290/https%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2026-3-14%252F9a2f01f4-9dca-aeeb-5dec-3e144ca0687c.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/72265/72265-1531065990976-aa9b752299ad3.jpg"/>
       <itunes:summary><![CDATA[En este podcast hablo de cómo he actualizado el blog con un nuevo sistema mediante mi servidor WebDAV. He apagado la Raspberry para tener como servidor mi mini PC. Además, he instalado Arch Linux y otras cosas, como la IA local.]]></itunes:summary>
     </item>
     <item>
@@ -2859,7 +2867,7 @@
       <pubDate>Wed, 26 Jul 2017 22:00:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2017-07-27-copia-remota-de-vuestra-sd-mas-snaps.html</guid>
-      <enclosure url="https://ia800608.us.archive.org/29/items/071.CopiaRemotaDeVuestraSDMasSnaps/071.%20Copia%20remota%20de%20vuestra%20SD%252C%20Mas%20snap's.mp3" type="audio/mpeg"/>
+      <enclosure url="https://ia800608.us.archive.org/29/items/071.CopiaRemotaDeVuestraSDMasSnaps/071.%20Copia%20remota%20de%20vuestra%20SD%252C%20Mas%20snap&apos;s.mp3" type="audio/mpeg"/>
       <itunes:image href="https://ugeek.github.io/images-blog/https://ugeek.github.io/blog/icon/ugeek.png"/>
       <itunes:summary><![CDATA[En el podcast de hoy os explico un poco lo que ando haciendo, como hacer una copia de nuestra SD, sin necesidad de detener ningún servicio y os hablo de algunos paquetes snap nuevos Post: Copia Remota De Vuestra SD, Mas Snaps]]></itunes:summary>
     </item>
