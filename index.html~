@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>uGeek Blog. Inicio</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="./css/stylesheet.css">
+    <link rel="alternate" type="application/rss+xml" href="https://ugeek.github.io/blog/feed.xml" title="">
+    <link rel="shortcut icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" type="image/x-icon">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="32x32">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="https://ugeek.github.io/icon/ugeek-256x256.png">
+    <meta property="og:locale" content="es_ES">
+    <meta name="robots" content="index, follow">
+    <meta name="twitter:site" content="@ugeekpodcast">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="alternate" type="application/rss+xml" title="uGeek. Blog de Tecnología" href="https://ugeek.github.io/blog/feed/">
+    <meta name="author" content="Angel">
+    <meta name="description" content="">
+    <meta property="og:site_name" content="uGeek Blog">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="uGeek Blog. Inicio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+    <meta name="twitter:title" content="uGeek Blog. Inicio">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="">
+</head>
+<div id="logo"><a href="https://ugeek.github.io"><img src="https://ugeek.github.io/icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
+<br><br><br><br><br><br><br><br><br>
+
+<div id="name"><a href="https://ugeek.github.io/"><tt>Blog del Podcast</tt></div></a> <div id="icon"> <a href="https://ugeek.github.io/podcast.xml" title="rss" alt="rss"><img src="https://ugeek.github.io/icon/podcast.png" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/feed.xml" alt="rss"><img src="https://ugeek.github.io/icon/rss.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="https://ugeek.github.io/icon/github.png" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="https://ugeek.github.io/icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://twitter.com/ugeekpodcast"><img src="https://ugeek.github.io/icon/twitter.png" width="25" height="25" alt="Twitter"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="https://ugeek.github.io/icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/blog/tag.html"><tt>Tags</tt></a></div>
+
+</head>
+
+
+
+
+<p>Bienvenido al Blog del Podcast de <strong>uGeek</strong>. Aquí encontraras tutoriales y notas que voy tomando en el proceso de aprendizaje de todo aquello que os explico en el <a href="https://ugeek.github.io">Podcast</a>. En la sección <a href="https://ugeek.github.io/blog/tag.html">Tags</a>, encontraras todos los Artículos y Podcast, clasificados por temáticas.</p>
+<p>También puedes encontra mis aplicaciones desarrolladas en bash: <a href="https://ugeek.github.io/dk">dk</a>, <a href="https://ugeek.github.io/wgc">wgc</a>, <a href="https://ugeek.github.io/org-bash-blog/">org-bash-blog</a>, <a href="https://ugeek.github.io/org-bash-podcast/">org-bash-podcast</a>, <a href="https://ugeek.github.io/todo.txt-sync/">todo.txt-sync</a>…</p>
+<h3>Últimos en Podcast uGeek</h3><ul><li><em>2026-04-16</em> - <a href="https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html">Brave Origin. No más Excusas para utilizar Brave</a></li><li><em>2026-04-14</em> - <a href="https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html">Actualizado el Blog, Arch Linux y más...</a></li><li><em>2026-01-17</em> - <a href="https://ugeek.github.io/posts/2026-01-17-actualizando-el-blog-y-haciendo-cambios.html">Actualizando el blog y haciendo cambios</a></li><li><em>2025-12-01</em> - <a href="https://ugeek.github.io/posts/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html">Replica de tu servidor WebDAV en tu móvil</a></li><li><em>2025-08-11</em> - <a href="https://ugeek.github.io/posts/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html">Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</a></li></ul><h3>También en la red</h3><ul><li><em>2026-01-14</em> - <a href="https://ugeek.github.io/blog/posts/2026-01-14-actualizacion-del-editor-de-texto-micro-a-la-ultima-version.html">Actualización del Editor de Texto Micro a la Última Versión</a></li><li><em>2024-03-25</em> - <a href="https://ugeek.github.io/blog/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html">Docker. Merino, un servidor proxy SOCKS5 en rust</a></li><li><em>2024-03-25</em> - <a href="https://ugeek.github.io/blog/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html">RSS. Google News, generando Feeds de temas personalizados</a></li><li><em>2023-12-12</em> - <a href="https://ugeek.github.io/blog/posts/2023-12-12-android-descargando-videos-de-youtube-como-podcast.html">Android. Descargando vídeos de YouTube como podcast</a></li><li><em>2023-12-08</em> - <a href="https://ugeek.github.io/blog/posts/2023-12-08-manjaro-instalando-y-actualizando-en-modo-grafico.html">Manjaro Instalando y actualizando en modo Grafico</a></li></ul><!-- WIDGET REPRODUCTOR DE PODCAST UGEEK -->
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+    /* ─── CONTENEDOR PRINCIPAL AISLADO DEL BLOG ─────────────────────── */
+    .ugeek-player-container {
+        --bg-dark: #0d0f1a;
+        --bg-card: #13162200;
+        --bg-surface: #1a1d2e;
+        --bg-elevated: #20243a;
+        --bg-input: #0f1120;
+        --text-main: #eef0f8;
+        --text-secondary: #9da3c0;
+        --text-muted: #5a6080;
+        --purple: #a855f7;
+        --pink: #ec4899;
+        --blue: #6366f1;
+        --grad-1: #a855f7;
+        --grad-2: #ec4899;
+        --grad-3: #f97316;
+        --glow-purple: rgba(168, 85, 247, 0.3);
+        --glow-pink: rgba(236, 72, 153, 0.3);
+        --border: rgba(255,255,255,0.06);
+        --radius-lg: 24px;
+        --radius-md: 16px;
+        --radius-sm: 10px;
+        --transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
+        background: var(--bg-dark);
+        background-image:
+            radial-gradient(ellipse 80% 60% at 50% -20%, rgba(168,85,247,0.12) 0%, transparent 70%),
+            radial-gradient(ellipse 60% 40% at 80% 80%, rgba(236,72,153,0.08) 0%, transparent 60%);
+        color: var(--text-main);
+        font-family: 'Inter', 'Segoe UI', sans-serif;
+        font-size: 14px; /* Previene heredar tamaños del blog */
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 24px 16px;
+        margin: 40px auto; /* Centra el reproductor en el blog */
+        border-radius: var(--radius-lg);
+        max-width: 500px;
+        box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+    }
+
+    /* Reseteo local estricto para elementos hijos (no afecta a tu blog) */
+    .ugeek-player-container *,
+    .ugeek-player-container *::before,
+    .ugeek-player-container *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    .ugeek-player-container ul { list-style: none; }
+    .ugeek-player-container input { font-family: inherit; }
+
+    .ugeek-player-container .player-wrap {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    /* ─── TARJETA ─────────────────────────────────── */
+    .ugeek-player-container .card {
+        background: rgba(20, 24, 42, 0.85);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        overflow: hidden;
+        position: relative;
+    }
+    .ugeek-player-container .card::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        border-radius: var(--radius-lg);
+        padding: 1px;
+        background: linear-gradient(135deg, rgba(168,85,247,0.4), rgba(236,72,153,0.2), transparent 60%);
+        -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+        mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+        -webkit-mask-composite: xor;
+        mask-composite: exclude;
+        pointer-events: none;
+    }
+
+    /* ─── HERO / NOW PLAYING ───────────────────────── */
+    .ugeek-player-container .now-playing-card { padding: 28px 24px 20px; }
+
+    .ugeek-player-container .podcast-header {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin-bottom: 24px;
+    }
+
+    .ugeek-player-container .artwork-container {
+        position: relative;
+        flex-shrink: 0;
+    }
+    .ugeek-player-container .artwork {
+        width: 72px;
+        height: 72px;
+        border-radius: 14px;
+        object-fit: cover;
+        display: block;
+        border: 1px solid rgba(255,255,255,0.1);
+        max-width: none; /* Asegura que la imagen mantenga sus proporciones en el blog */
+    }
+    .ugeek-player-container .artwork-glow {
+        position: absolute;
+        inset: -4px;
+        border-radius: 18px;
+        background: linear-gradient(135deg, var(--grad-1), var(--grad-2));
+        opacity: 0.5;
+        filter: blur(8px);
+        z-index: -1;
+        transition: var(--transition);
+    }
+    .ugeek-player-container .artwork-container.playing .artwork-glow {
+        opacity: 0.85;
+        animation: pulseGlow 2.5s ease-in-out infinite;
+    }
+    @keyframes pulseGlow {
+        0%, 100% { transform: scale(1); opacity: 0.7; }
+        50% { transform: scale(1.1); opacity: 1; }
+    }
+
+    .ugeek-player-container .podcast-meta { flex: 1; min-width: 0; }
+    .ugeek-player-container .podcast-name {
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        background: linear-gradient(90deg, var(--grad-1), var(--grad-2));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 5px;
+    }
+    .ugeek-player-container .episode-title {
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--text-main);
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .ugeek-player-container .episode-number {
+        font-size: 11px;
+        color: var(--text-muted);
+        margin-top: 4px;
+    }
+
+    /* ─── VISUALIZADOR DE ONDAS ─────────────────────── */
+    .ugeek-player-container .waveform-container {
+        margin-bottom: 18px;
+        height: 48px;
+        display: flex;
+        align-items: center;
+        gap: 2px;
+        overflow: hidden;
+        position: relative;
+    }
+    .ugeek-player-container .wave-bar {
+        flex: 1;
+        background: var(--bg-elevated);
+        border-radius: 2px;
+        transition: height 0.1s ease;
+        min-height: 3px;
+    }
+    .ugeek-player-container .wave-bar.active { background: linear-gradient(to top, var(--grad-2), var(--grad-1)); }
+    .ugeek-player-container .wave-bar.played { background: linear-gradient(to top, rgba(236,72,153,0.5), rgba(168,85,247,0.5)); }
+
+    /* ─── BARRA DE PROGRESO ─────────────────────────── */
+    .ugeek-player-container .progress-section { margin-bottom: 16px; }
+    .ugeek-player-container .progress-track {
+        position: relative;
+        height: 5px;
+        background: var(--bg-elevated);
+        border-radius: 10px;
+        cursor: pointer;
+        overflow: visible;
+        margin-bottom: 8px;
+    }
+    .ugeek-player-container .progress-fill {
+        position: absolute;
+        left: 0; top: 0; bottom: 0;
+        background: linear-gradient(90deg, var(--grad-1), var(--grad-2));
+        border-radius: 10px;
+        width: 0%;
+        pointer-events: none;
+        transition: width 0.1s linear;
+    }
+    .ugeek-player-container .progress-buffer {
+        position: absolute;
+        left: 0; top: 0; bottom: 0;
+        background: rgba(255,255,255,0.08);
+        border-radius: 10px;
+        width: 0%;
+        pointer-events: none;
+    }
+    .ugeek-player-container .progress-thumb {
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%) scale(0);
+        width: 14px;
+        height: 14px;
+        background: white;
+        border-radius: 50%;
+        box-shadow: 0 0 8px var(--glow-pink), 0 2px 4px rgba(0,0,0,0.5);
+        pointer-events: none;
+        transition: transform 0.15s ease;
+    }
+    .ugeek-player-container .progress-track:hover .progress-thumb,
+    .ugeek-player-container .progress-track.dragging .progress-thumb {
+        transform: translate(-50%, -50%) scale(1);
+    }
+    .ugeek-player-container .time-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .ugeek-player-container .time-label {
+        font-size: 11px;
+        font-weight: 500;
+        color: var(--text-muted);
+        font-variant-numeric: tabular-nums;
+    }
+    .ugeek-player-container .time-label.current { color: var(--text-secondary); }
+
+    /* ─── CONTROLES ─────────────────────────────────── */
+    .ugeek-player-container .controls {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        margin-bottom: 20px;
+    }
+
+    .ugeek-player-container .ctrl-btn {
+        background: none;
+        border: none;
+        color: var(--text-secondary);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        transition: var(--transition);
+        position: relative;
+    }
+    .ugeek-player-container .ctrl-btn:hover { color: var(--text-main); }
+    .ugeek-player-container .ctrl-btn:active { transform: scale(0.9); }
+
+    .ugeek-player-container .ctrl-btn.secondary { width: 36px; height: 36px; font-size: 14px; }
+    .ugeek-player-container .ctrl-btn.secondary:hover { background: var(--bg-elevated); }
+
+    .ugeek-player-container .ctrl-btn.skip { width: 42px; height: 42px; font-size: 16px; }
+    .ugeek-player-container .ctrl-btn.skip:hover { background: rgba(255,255,255,0.06); }
+
+    .ugeek-player-container .ctrl-btn.play-main {
+        width: 58px;
+        height: 58px;
+        background: linear-gradient(135deg, var(--grad-1), var(--grad-2));
+        border-radius: 50%;
+        box-shadow: 0 4px 20px var(--glow-purple), 0 2px 8px var(--glow-pink);
+        color: white;
+        font-size: 20px;
+        transition: var(--transition);
+    }
+    .ugeek-player-container .ctrl-btn.play-main:hover {
+        transform: scale(1.08);
+        box-shadow: 0 6px 28px var(--glow-purple), 0 4px 12px var(--glow-pink);
+    }
+    .ugeek-player-container .ctrl-btn.play-main:active { transform: scale(0.96); }
+    .ugeek-player-container .ctrl-btn.play-main.loading { animation: spinGrad 1s linear infinite; }
+    @keyframes spinGrad { from { filter: hue-rotate(0deg); } to { filter: hue-rotate(360deg); } }
+
+    .ugeek-player-container .skip-label {
+        font-size: 8px;
+        font-weight: 700;
+        position: absolute;
+        bottom: 7px;
+        left: 50%;
+        transform: translateX(-50%);
+        pointer-events: none;
+    }
+
+    /* ─── SEGUNDA FILA: velocidad, volumen, modo ───── */
+    .ugeek-player-container .aux-controls {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        padding-top: 16px;
+        border-top: 1px solid var(--border);
+    }
+
+    .ugeek-player-container .speed-btn {
+        background: var(--bg-elevated);
+        border: 1px solid var(--border);
+        color: var(--text-secondary);
+        font-family: 'Inter', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 5px 10px;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: var(--transition);
+        white-space: nowrap;
+    }
+    .ugeek-player-container .speed-btn:hover { border-color: var(--purple); color: var(--purple); }
+
+    .ugeek-player-container .volume-wrap {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex: 1;
+        max-width: 140px;
+    }
+    .ugeek-player-container .volume-icon { color: var(--text-muted); flex-shrink: 0; }
+    .ugeek-player-container .vol-range {
+        -webkit-appearance: none;
+        flex: 1;
+        height: 4px;
+        background: var(--bg-elevated);
+        border-radius: 4px;
+        outline: none;
+        cursor: pointer;
+    }
+    .ugeek-player-container .vol-range::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--grad-1), var(--grad-2));
+        cursor: pointer;
+    }
+
+    .ugeek-player-container .fav-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        color: var(--text-muted);
+        font-size: 18px;
+        transition: var(--transition);
+        display: flex;
+        align-items: center;
+    }
+    .ugeek-player-container .fav-btn:hover, .ugeek-player-container .fav-btn.active { color: var(--pink); }
+    .ugeek-player-container .fav-btn.active { animation: heartPop 0.3s ease; }
+    @keyframes heartPop { 0% { transform: scale(1); } 50% { transform: scale(1.4); } 100% { transform: scale(1); } }
+
+    .ugeek-player-container .sleep-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        color: var(--text-muted);
+        transition: var(--transition);
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        font-family: 'Inter', sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+    }
+    .ugeek-player-container .sleep-btn:hover { color: var(--text-secondary); }
+    .ugeek-player-container .sleep-btn.active { color: var(--blue); }
+
+    /* ─── TARJETA DE BÚSQUEDA Y LISTA ───────────────── */
+    .ugeek-player-container .list-card { padding: 16px; }
+
+    .ugeek-player-container .list-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 12px;
+    }
+    .ugeek-player-container .list-title {
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-secondary);
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+    }
+    .ugeek-player-container .ep-count {
+        font-size: 11px;
+        color: var(--text-muted);
+        background: var(--bg-elevated);
+        padding: 2px 8px;
+        border-radius: 20px;
+    }
+
+    .ugeek-player-container .search-wrap { position: relative; margin-bottom: 12px; }
+    .ugeek-player-container .search-icon {
+        position: absolute;
+        left: 12px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: var(--text-muted);
+        pointer-events: none;
+    }
+    .ugeek-player-container .search-input {
+        width: 100%;
+        background: var(--bg-input);
+        border: 1px solid var(--border);
+        color: var(--text-main);
+        padding: 10px 12px 10px 36px;
+        border-radius: 12px;
+        font-size: 13px;
+        font-family: inherit;
+        outline: none;
+        transition: var(--transition);
+    }
+    .ugeek-player-container .search-input::placeholder { color: var(--text-muted); }
+    .ugeek-player-container .search-input:focus {
+        border-color: rgba(168,85,247,0.5);
+        background: rgba(168,85,247,0.04);
+    }
+    .ugeek-player-container .search-clear {
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: var(--bg-elevated);
+        border: none;
+        color: var(--text-muted);
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        font-size: 12px;
+        cursor: pointer;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        transition: var(--transition);
+    }
+    .ugeek-player-container .search-clear:hover { color: var(--text-main); }
+    .ugeek-player-container .search-clear.visible { display: flex; }
+
+    .ugeek-player-container .playlist {
+        list-style: none;
+        max-height: 300px;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+        padding-right: 4px;
+    }
+    .ugeek-player-container .playlist::-webkit-scrollbar { width: 4px; }
+    .ugeek-player-container .playlist::-webkit-scrollbar-track { background: transparent; }
+    .ugeek-player-container .playlist::-webkit-scrollbar-thumb { background: rgba(168,85,247,0.3); border-radius: 10px; }
+    .ugeek-player-container .playlist::-webkit-scrollbar-thumb:hover { background: rgba(168,85,247,0.6); }
+
+    .ugeek-player-container .ep-item {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 10px 10px;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: var(--transition);
+        position: relative;
+    }
+    .ugeek-player-container .ep-item:hover { background: rgba(255,255,255,0.04); }
+    .ugeek-player-container .ep-item.active {
+        background: linear-gradient(135deg, rgba(168,85,247,0.12), rgba(236,72,153,0.08));
+        border: 1px solid rgba(168,85,247,0.2);
+    }
+
+    .ugeek-player-container .ep-num {
+        font-size: 11px;
+        color: var(--text-muted);
+        min-width: 24px;
+        text-align: center;
+        font-variant-numeric: tabular-nums;
+        transition: var(--transition);
+    }
+    .ugeek-player-container .ep-item.active .ep-num,
+    .ugeek-player-container .ep-item:hover .ep-num { color: transparent; }
+
+    .ugeek-player-container .ep-play-indicator {
+        position: absolute;
+        left: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 24px;
+        height: 24px;
+        display: none;
+        align-items: center;
+        justify-content: center;
+    }
+    .ugeek-player-container .ep-item.active .ep-play-indicator,
+    .ugeek-player-container .ep-item:hover .ep-play-indicator { display: flex; }
+
+    .ugeek-player-container .equalizer { display: flex; gap: 2px; align-items: flex-end; height: 14px; }
+    .ugeek-player-container .eq-bar {
+        width: 3px;
+        background: linear-gradient(to top, var(--grad-2), var(--grad-1));
+        border-radius: 2px;
+        animation: eqAnim 0.8s ease-in-out infinite;
+    }
+    .ugeek-player-container .eq-bar:nth-child(1) { height: 6px; animation-delay: 0s; }
+    .ugeek-player-container .eq-bar:nth-child(2) { height: 14px; animation-delay: 0.2s; }
+    .ugeek-player-container .eq-bar:nth-child(3) { height: 10px; animation-delay: 0.1s; }
+    .ugeek-player-container .eq-bar:nth-child(4) { height: 8px; animation-delay: 0.3s; }
+    @keyframes eqAnim { 0%, 100% { transform: scaleY(0.5); } 50% { transform: scaleY(1); } }
+    .ugeek-player-container .eq-bar.paused { animation-play-state: paused; }
+
+    .ugeek-player-container .ep-play-icon-svg { display: none; color: var(--purple); }
+    .ugeek-player-container .ep-item:hover:not(.active) .ep-play-icon-svg { display: block; }
+    .ugeek-player-container .ep-item:hover:not(.active) .equalizer { display: none; }
+    .ugeek-player-container .ep-item.active .equalizer { display: flex; }
+
+    .ugeek-player-container .ep-info { flex: 1; min-width: 0; }
+    .ugeek-player-container .ep-title {
+        font-size: 13px;
+        font-weight: 500;
+        color: var(--text-secondary);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        transition: var(--transition);
+    }
+    .ugeek-player-container .ep-item:hover .ep-title,
+    .ugeek-player-container .ep-item.active .ep-title { color: var(--text-main); }
+    .ugeek-player-container .ep-item.active .ep-title {
+        background: linear-gradient(90deg, var(--grad-1), var(--grad-2));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        font-weight: 600;
+    }
+
+    .ugeek-player-container .loading-state {
+        display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 32px 0;
+    }
+    .ugeek-player-container .loader-ring {
+        width: 36px; height: 36px; border-radius: 50%;
+        border: 3px solid var(--bg-elevated);
+        border-top-color: var(--purple);
+        animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .ugeek-player-container .loading-text { font-size: 13px; color: var(--text-muted); }
+
+    .ugeek-player-container .empty-state {
+        text-align: center; padding: 24px 0; color: var(--text-muted); font-size: 13px; display: none;
+    }
+    .ugeek-player-container .empty-state span { font-size: 28px; display: block; margin-bottom: 8px; }
+
+    /* ─── TOAST NOTIFICATIONS (Se muestra global pero respeta el diseño) ─── */
+    .ugeek-toast-container {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        pointer-events: none;
+        font-family: 'Inter', 'Segoe UI', sans-serif;
+    }
+    .ugeek-toast-container .toast {
+        background: #20243a;
+        border: 1px solid rgba(255,255,255,0.06);
+        color: #eef0f8;
+        padding: 10px 20px;
+        border-radius: 20px;
+        font-size: 13px;
+        white-space: nowrap;
+        animation: toastIn 0.3s ease, toastOut 0.3s ease 2.2s forwards;
+        backdrop-filter: blur(10px);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    }
+    @keyframes toastIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes toastOut { to { opacity: 0; transform: translateY(-10px); } }
+
+    @media (max-width: 400px) {
+        .ugeek-player-container .ctrl-btn.play-main { width: 52px; height: 52px; }
+        .ugeek-player-container .controls { gap: 6px; }
+        .ugeek-player-container .now-playing-card { padding: 20px 16px 16px; }
+    }
+</style>
+
+<div class="ugeek-player-container">
+    <div class="player-wrap">
+
+        <!-- TARJETA PRINCIPAL -->
+        <div class="card now-playing-card">
+            <div class="podcast-header">
+                <div class="artwork-container" id="artwork-wrap">
+                    <div class="artwork-glow"></div>
+                    <img id="artwork"
+                         src="https://ugeek.github.io/icon/ugeek.png"
+                         alt="uGeek"
+                         class="artwork"
+                         onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MiIgaGVpZ2h0PSI3MiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iIzFhMWQyZSIvPjwvc3ZnPg=='" >
+                </div>
+                <div class="podcast-meta">
+                    <div class="podcast-name">🎙 uGeek Podcast</div>
+                    <div class="episode-title" id="now-title">Selecciona un episodio</div>
+                    <div class="episode-number" id="now-number">— / —</div>
+                </div>
+            </div>
+
+            <div class="waveform-container" id="waveform"></div>
+
+            <div class="progress-section">
+                <div class="progress-track" id="progress-track">
+                    <div class="progress-buffer" id="progress-buffer"></div>
+                    <div class="progress-fill" id="progress-fill"></div>
+                    <div class="progress-thumb" id="progress-thumb"></div>
+                </div>
+                <div class="time-row">
+                    <span class="time-label current" id="current-time">0:00</span>
+                    <span class="time-label" id="remaining-time">-0:00</span>
+                    <span class="time-label" id="duration-time">0:00</span>
+                </div>
+            </div>
+
+            <div class="controls">
+                <button class="ctrl-btn secondary" id="shuffle-btn" title="Aleatorio">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M10.59 9.17L5.41 4 4 5.41l5.17 5.17 1.42-1.41zM14.5 4l2.04 2.04L4 18.59 5.41 20 17.96 7.46 20 9.5V4h-5.5zm.33 9.41l-1.41 1.41 3.13 3.13L14.5 20H20v-5.5l-2.04 2.04-3.13-3.13z"/>
+                    </svg>
+                </button>
+                <button class="ctrl-btn skip" id="prev-btn" title="Anterior">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/>
+                    </svg>
+                </button>
+                <button class="ctrl-btn skip" id="back-btn" title="Retroceder 15s" style="position:relative">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/>
+                    </svg>
+                    <span class="skip-label">15</span>
+                </button>
+                <button class="ctrl-btn play-main" id="play-btn" title="Reproducir">
+                    <svg id="icon-play" width="26" height="26" viewBox="0 0 24 24" fill="white" style="margin-left:3px">
+                        <path d="M8 5v14l11-7z"/>
+                    </svg>
+                    <svg id="icon-pause" width="26" height="26" viewBox="0 0 24 24" fill="white" style="display:none">
+                        <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+                    </svg>
+                    <svg id="icon-loading" width="22" height="22" viewBox="0 0 24 24" fill="white" style="display:none">
+                        <path d="M12 4V2A10 10 0 0 0 2 12h2a8 8 0 0 1 8-8z"/>
+                    </svg>
+                </button>
+                <button class="ctrl-btn skip" id="fwd-btn" title="Adelantar 30s" style="position:relative">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M18 13c0 3.31-2.69 6-6 6s-6-2.69-6-6 2.69-6 6-6v4l5-5-5-5v4c-4.42 0-8 3.58-8 8s3.58 8 8 8 8-3.58 8-8h-2z"/>
+                    </svg>
+                    <span class="skip-label">30</span>
+                </button>
+                <button class="ctrl-btn skip" id="next-btn" title="Siguiente">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/>
+                    </svg>
+                </button>
+                <button class="ctrl-btn secondary" id="repeat-btn" title="Repetir">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4z"/>
+                    </svg>
+                </button>
+            </div>
+
+            <div class="aux-controls">
+                <button class="speed-btn" id="speed-btn">1×</button>
+                <div class="volume-wrap">
+                    <svg class="volume-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/>
+                    </svg>
+                    <input type="range" class="vol-range" id="volume-range" min="0" max="1" step="0.05" value="1">
+                    <svg class="volume-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
+                    </svg>
+                </div>
+                <button class="fav-btn" id="fav-btn" title="Favorito">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"/>
+                    </svg>
+                </button>
+                <button class="sleep-btn" id="sleep-btn" title="Temporizador">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"/>
+                    </svg>
+                    <span id="sleep-label"></span>
+                </button>
+            </div>
+        </div>
+
+        <!-- TARJETA: LISTA DE EPISODIOS -->
+        <div class="card list-card">
+            <div class="list-header">
+                <span class="list-title">Episodios</span>
+                <span class="ep-count" id="ep-count">—</span>
+            </div>
+            <div class="search-wrap">
+                <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+                </svg>
+                <input type="text" id="search-input" class="search-input" placeholder="Buscar episodio...">
+                <button class="search-clear" id="search-clear">✕</button>
+            </div>
+            <div class="loading-state" id="loading-state">
+                <div class="loader-ring"></div>
+                <div class="loading-text">Cargando episodios...</div>
+            </div>
+            <div class="empty-state" id="empty-state">
+                <span>🔍</span> No se encontraron episodios
+            </div>
+            <ul class="playlist" id="playlist"></ul>
+        </div>
+    </div>
+</div>
+
+<!-- Tostadas de Notificación -->
+<div class="ugeek-toast-container" id="ugeek-toast-container"></div>
+<audio id="main-audio" preload="metadata"></audio>
+
+<script>
+const state = {
+    episodes:[], currentIndex: -1, isPlaying: false, isLoading: false, isShuffle: false,
+    repeatMode: 0, favorites: new Set(JSON.parse(localStorage.getItem('ug_favs') || '[]')),
+    lastPosition: JSON.parse(localStorage.getItem('ug_positions') || '{}'),
+    speed: 1, speedOptions:[0.5, 0.75, 1, 1.25, 1.5, 1.75, 2], speedIndex: 2,
+    sleepTimer: null, sleepRemaining: 0, dragging: false,
+};
+
+const audio         = document.getElementById('main-audio');
+const playBtn       = document.getElementById('play-btn');
+const iconPlay      = document.getElementById('icon-play');
+const iconPause     = document.getElementById('icon-pause');
+const iconLoading   = document.getElementById('icon-loading');
+const progressTrack = document.getElementById('progress-track');
+const progressFill  = document.getElementById('progress-fill');
+const progressBuf   = document.getElementById('progress-buffer');
+const progressThumb = document.getElementById('progress-thumb');
+const currentTimeEl = document.getElementById('current-time');
+const remainingEl   = document.getElementById('remaining-time');
+const durationEl    = document.getElementById('duration-time');
+const playlistEl    = document.getElementById('playlist');
+const searchInput   = document.getElementById('search-input');
+const searchClear   = document.getElementById('search-clear');
+const loadingState  = document.getElementById('loading-state');
+const emptyState    = document.getElementById('empty-state');
+const epCount       = document.getElementById('ep-count');
+const nowTitle      = document.getElementById('now-title');
+const nowNumber     = document.getElementById('now-number');
+const artworkWrap   = document.getElementById('artwork-wrap');
+const waveformEl    = document.getElementById('waveform');
+const speedBtn      = document.getElementById('speed-btn');
+const volumeRange   = document.getElementById('volume-range');
+const favBtn        = document.getElementById('fav-btn');
+const sleepBtn      = document.getElementById('sleep-btn');
+const sleepLabel    = document.getElementById('sleep-label');
+const shuffleBtn    = document.getElementById('shuffle-btn');
+const repeatBtn     = document.getElementById('repeat-btn');
+const prevBtn       = document.getElementById('prev-btn');
+const nextBtn       = document.getElementById('next-btn');
+const backBtn       = document.getElementById('back-btn');
+const fwdBtn        = document.getElementById('fwd-btn');
+const toastContainer = document.getElementById('ugeek-toast-container');
+
+function fmt(s) {
+    if (isNaN(s) || !isFinite(s)) return '0:00';
+    const m = Math.floor(s / 60), sec = Math.floor(s % 60);
+    return `${m}:${sec < 10 ? '0' + sec : sec}`;
+}
+function showToast(msg) {
+    const t = document.createElement('div');
+    t.className = 'toast'; t.textContent = msg;
+    toastContainer.appendChild(t);
+    setTimeout(() => t.remove(), 2600);
+}
+function saveFavs() { localStorage.setItem('ug_favs', JSON.stringify([...state.favorites])); }
+function savePosition(url, time) {
+    state.lastPosition[url] = time;
+    localStorage.setItem('ug_positions', JSON.stringify(state.lastPosition));
+}
+
+const BAR_COUNT = 60; const barHeights =[];
+function buildWaveform() {
+    waveformEl.innerHTML = '';
+    for (let i = 0; i < BAR_COUNT; i++) {
+        const h = 8 + Math.random() * 36;
+        barHeights.push(h);
+        const bar = document.createElement('div');
+        bar.className = 'wave-bar'; bar.style.height = h + 'px'; bar.style.borderRadius = '3px';
+        waveformEl.appendChild(bar);
+    }
+}
+function updateWaveform() {
+    const pct = audio.duration ? audio.currentTime / audio.duration : 0;
+    const activeBars = Math.floor(pct * BAR_COUNT);
+    const bars = waveformEl.querySelectorAll('.wave-bar');
+    bars.forEach((bar, i) => {
+        bar.classList.remove('active', 'played');
+        if (i === activeBars) bar.classList.add('active');
+        else if (i < activeBars) bar.classList.add('played');
+    });
+}
+buildWaveform();
+
+async function fetchFeed() {
+    const RSS = 'https://ugeek.github.io/podcast.xml';
+    try {
+        const res = await fetch(RSS);
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const text = await res.text();
+        const xml  = new DOMParser().parseFromString(text, 'text/xml');
+        const items = xml.querySelectorAll('item');
+
+        state.episodes =[]; let idx = 1;
+        items.forEach(item => {
+            const title = item.querySelector('title')?.textContent?.trim() || 'Sin título';
+            const enc   = item.querySelector('enclosure');
+            const url   = enc?.getAttribute('url');
+            const dur   = item.querySelector('duration')?.textContent?.trim() || '';
+            if (url) state.episodes.push({ title, url, duration: dur, number: idx++ });
+        });
+        loadingState.style.display = 'none';
+        epCount.textContent = state.episodes.length + ' eps';
+        renderList(state.episodes);
+        const lastIdx = parseInt(localStorage.getItem('ug_lastIdx') || '-1');
+        if (lastIdx >= 0 && lastIdx < state.episodes.length) loadEpisode(lastIdx, false);
+    } catch (e) {
+        loadingState.innerHTML = '<div class="loading-text" style="color:#e74c3c">❌ Error al cargar</div>';
+        console.error(e);
+    }
+}
+
+function renderList(eps) {
+    playlistEl.innerHTML = '';
+    emptyState.style.display = eps.length === 0 ? 'block' : 'none';
+    eps.forEach((ep) => {
+        const realIdx = state.episodes.indexOf(ep);
+        const li = document.createElement('li');
+        li.className = 'ep-item' + (realIdx === state.currentIndex ? ' active' : '');
+        li.dataset.idx = realIdx;
+        li.innerHTML = `
+            <span class="ep-num">${ep.number}</span>
+            <span class="ep-play-indicator">
+                <span class="equalizer" style="${realIdx === state.currentIndex && state.isPlaying ? '' : 'display:none'}">
+                    <span class="eq-bar ${!state.isPlaying ? 'paused' : ''}"></span>
+                    <span class="eq-bar ${!state.isPlaying ? 'paused' : ''}"></span>
+                    <span class="eq-bar ${!state.isPlaying ? 'paused' : ''}"></span>
+                    <span class="eq-bar ${!state.isPlaying ? 'paused' : ''}"></span>
+                </span>
+                <svg class="ep-play-icon-svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </span>
+            <div class="ep-info"><div class="ep-title">${ep.title}</div></div>
+        `;
+        li.addEventListener('click', () => { realIdx === state.currentIndex ? togglePlay() : loadEpisode(realIdx, true); });
+        playlistEl.appendChild(li);
+    });
+}
+
+function loadEpisode(idx, autoplay) {
+    if (idx < 0 || idx >= state.episodes.length) return;
+    const ep = state.episodes[idx];
+    state.currentIndex = idx;
+    if (audio.src && audio.currentTime > 5) savePosition(audio.src, audio.currentTime);
+    
+    audio.src = ep.url; audio.playbackRate = state.speed;
+    const saved = state.lastPosition[ep.url];
+    if (saved && saved > 5) audio.addEventListener('loadedmetadata', () => { audio.currentTime = saved; }, { once: true });
+
+    nowTitle.textContent   = ep.title;
+    nowNumber.textContent  = `Episodio ${ep.number} de ${state.episodes.length}`;
+    updateFavBtn(); buildWaveform();
+
+    document.querySelectorAll('.ep-item').forEach(el => el.classList.toggle('active', parseInt(el.dataset.idx) === idx));
+    const activeEl = playlistEl.querySelector('.ep-item.active');
+    if (activeEl) activeEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    localStorage.setItem('ug_lastIdx', idx);
+    autoplay ? audio.play() : setPlayingState(false);
+}
+
+function togglePlay() { !audio.src ? null : audio.paused ? audio.play() : audio.pause(); }
+function setPlayingState(playing) {
+    state.isPlaying = playing;
+    iconPlay.style.display = playing ? 'none' : 'block';
+    iconPause.style.display = playing ? 'block' : 'none';
+    iconLoading.style.display = 'none';
+    playBtn.classList.remove('loading');
+    artworkWrap.classList.toggle('playing', playing);
+    document.querySelectorAll('.ep-item.active .eq-bar').forEach(b => {
+        b.classList.toggle('paused', !playing);
+        b.parentElement.style.display = playing ? 'flex' : 'none';
+    });
+}
+function setLoadingState(loading) {
+    state.isLoading = loading;
+    if (loading) {
+        iconPlay.style.display = 'none'; iconPause.style.display = 'none';
+        iconLoading.style.display = 'block'; playBtn.classList.add('loading');
+    }
+}
+
+audio.addEventListener('play',    () => setPlayingState(true));
+audio.addEventListener('pause',   () => setPlayingState(false));
+audio.addEventListener('waiting', () => setLoadingState(true));
+audio.addEventListener('canplay', () => { if (state.isLoading) setLoadingState(false); });
+audio.addEventListener('loadedmetadata', () => {
+    durationEl.textContent  = fmt(audio.duration);
+    remainingEl.textContent = '-' + fmt(audio.duration);
+    progressFill.style.width = '0%'; progressThumb.style.left = '0%';
+});
+audio.addEventListener('timeupdate', () => {
+    if (state.dragging) return;
+    const pct = audio.duration ? (audio.currentTime / audio.duration) * 100 : 0;
+    progressFill.style.width = pct + '%'; progressThumb.style.left = pct + '%';
+    currentTimeEl.textContent = fmt(audio.currentTime);
+    remainingEl.textContent = '-' + fmt(audio.duration - audio.currentTime);
+    updateWaveform();
+    if (Math.floor(audio.currentTime) % 5 === 0 && audio.currentTime > 5) savePosition(audio.src, audio.currentTime);
+});
+audio.addEventListener('progress', () => {
+    if (audio.buffered.length > 0 && audio.duration) {
+        const pct = (audio.buffered.end(audio.buffered.length - 1) / audio.duration) * 100;
+        progressBuf.style.width = pct + '%';
+    }
+});
+audio.addEventListener('ended', () => {
+    setPlayingState(false); savePosition(audio.src, 0);
+    if (state.repeatMode === 2) { audio.currentTime = 0; audio.play(); } else playNext();
+});
+
+function scrubTo(clientX) {
+    const rect = progressTrack.getBoundingClientRect();
+    const pct  = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+    progressFill.style.width  = (pct * 100) + '%'; progressThumb.style.left  = (pct * 100) + '%';
+    if (audio.duration) {
+        audio.currentTime = pct * audio.duration;
+        currentTimeEl.textContent = fmt(audio.currentTime);
+        remainingEl.textContent   = '-' + fmt(audio.duration - audio.currentTime);
+    }
+}
+
+progressTrack.addEventListener('mousedown', e => { state.dragging = true; progressTrack.classList.add('dragging'); scrubTo(e.clientX); });
+progressTrack.addEventListener('touchstart', e => { state.dragging = true; progressTrack.classList.add('dragging'); scrubTo(e.touches[0].clientX); }, { passive: true });
+document.addEventListener('mousemove', e => { if (state.dragging) scrubTo(e.clientX); });
+document.addEventListener('touchmove', e => { if (state.dragging) scrubTo(e.touches[0].clientX); }, { passive: true });
+document.addEventListener('mouseup',  () => { state.dragging = false; progressTrack.classList.remove('dragging'); });
+document.addEventListener('touchend', () => { state.dragging = false; progressTrack.classList.remove('dragging'); });
+
+playBtn.addEventListener('click', togglePlay);
+backBtn.addEventListener('click', () => { audio.currentTime = Math.max(0, audio.currentTime - 15); showToast('⏪ -15 segundos'); });
+fwdBtn.addEventListener('click', () => { audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 30); showToast('⏩ +30 segundos'); });
+
+function playNext() {
+    if (state.episodes.length === 0) return;
+    let next = state.isShuffle ? Math.floor(Math.random() * state.episodes.length) : state.currentIndex + 1;
+    if (next >= state.episodes.length) { if (state.repeatMode === 1) next = 0; else return; }
+    loadEpisode(next, true);
+}
+function playPrev() {
+    if (audio.currentTime > 5) { audio.currentTime = 0; return; }
+    const prev = state.currentIndex - 1; if (prev >= 0) loadEpisode(prev, true);
+}
+
+nextBtn.addEventListener('click', playNext);
+prevBtn.addEventListener('click', playPrev);
+
+speedBtn.addEventListener('click', () => {
+    state.speedIndex = (state.speedIndex + 1) % state.speedOptions.length;
+    state.speed = state.speedOptions[state.speedIndex]; audio.playbackRate = state.speed;
+    speedBtn.textContent = state.speed + '×'; showToast('⚡ Velocidad ' + state.speed + '×');
+});
+volumeRange.addEventListener('input', () => audio.volume = volumeRange.value);
+
+shuffleBtn.addEventListener('click', () => {
+    state.isShuffle = !state.isShuffle; shuffleBtn.style.color = state.isShuffle ? 'var(--purple)' : '';
+    showToast(state.isShuffle ? '🔀 Aleatorio activado' : '🔀 Aleatorio desactivado');
+});
+
+repeatBtn.addEventListener('click', () => {
+    state.repeatMode = (state.repeatMode + 1) % 3;
+    const icons = ['', 'var(--purple)', 'var(--pink)'];
+    const msgs  =['🔁 Repetir desactivado', '🔁 Repetir todo', '🔂 Repetir uno'];
+    repeatBtn.style.color = icons[state.repeatMode]; showToast(msgs[state.repeatMode]);
+    repeatBtn.innerHTML = state.repeatMode === 2 
+        ? `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4zm-4-2v-5h-1l-2 1v1h1.5v3H13z"/></svg>`
+        : `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4z"/></svg>`;
+});
+
+favBtn.addEventListener('click', () => {
+    if (state.currentIndex < 0) return;
+    const url = state.episodes[state.currentIndex].url;
+    if (state.favorites.has(url)) {
+        state.favorites.delete(url); favBtn.classList.remove('active'); showToast('💔 Eliminado de favoritos');
+    } else {
+        state.favorites.add(url); favBtn.classList.add('active'); showToast('❤️ Añadido a favoritos');
+    }
+    saveFavs();
+});
+function updateFavBtn() {
+    if (state.currentIndex < 0) return;
+    favBtn.classList.toggle('active', state.favorites.has(state.episodes[state.currentIndex].url));
+}
+
+const sleepOptions =[0, 15, 30, 45, 60]; let sleepOptIdx = 0;
+sleepBtn.addEventListener('click', () => {
+    sleepOptIdx = (sleepOptIdx + 1) % sleepOptions.length; const mins = sleepOptions[sleepOptIdx];
+    clearInterval(state.sleepTimer); sleepBtn.classList.remove('active'); sleepLabel.textContent = '';
+    if (mins === 0) { showToast('⏰ Temporizador desactivado'); return; }
+    state.sleepRemaining = mins * 60; sleepBtn.classList.add('active'); showToast(`⏰ Apagado en ${mins} minutos`);
+    state.sleepTimer = setInterval(() => {
+        state.sleepRemaining--; const m = Math.floor(state.sleepRemaining / 60), s = state.sleepRemaining % 60;
+        sleepLabel.textContent = ` ${m}:${s < 10 ? '0'+s : s}`;
+        if (state.sleepRemaining <= 0) {
+            clearInterval(state.sleepTimer); audio.pause(); sleepBtn.classList.remove('active');
+            sleepLabel.textContent = ''; sleepOptIdx = 0; showToast('😴 Reproducción pausada');
+        }
+    }, 1000);
+});
+
+searchInput.addEventListener('input', () => {
+    const q = searchInput.value.toLowerCase().trim();
+    searchClear.classList.toggle('visible', q.length > 0);
+    renderList(q ? state.episodes.filter(ep => ep.title.toLowerCase().includes(q)) : state.episodes);
+});
+searchClear.addEventListener('click', () => { searchInput.value = ''; searchClear.classList.remove('visible'); renderList(state.episodes); searchInput.focus(); });
+
+document.addEventListener('keydown', e => {
+    if (e.target.tagName === 'INPUT') return;
+    switch(e.code) {
+        case 'Space':    e.preventDefault(); togglePlay(); break;
+        case 'ArrowRight': audio.currentTime += 5; break;
+        case 'ArrowLeft':  audio.currentTime -= 5; break;
+        case 'ArrowUp':    audio.volume = Math.min(1, audio.volume + 0.1); volumeRange.value = audio.volume; break;
+        case 'ArrowDown':  audio.volume = Math.max(0, audio.volume - 0.1); volumeRange.value = audio.volume; break;
+        case 'KeyN':   playNext(); break;
+        case 'KeyP':   playPrev(); break;
+        case 'KeyM':   audio.muted = !audio.muted; showToast(audio.muted ? '🔇 Mute' : '🔊 Audio activado'); break;
+    }
+});
+
+fetchFeed();
+</script>
+<!-- FIN WIDGET REPRODUCTOR DE PODCAST UGEEK -->
+
+
+
+<h2 id="iniciando-tu-servidor">Iniciando tu servidor</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2019-10-29-grabar-raspbian-ubuntu-debian-en-un-pendrive-o-sd.html">Grabar Raspbian, Ubuntu, Debian,… en un Pendrive o SD desde la Terminal</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-04-26-instalar-ubuntu-20-04-en-una-raspberry-o-servidor-arm-y-que-hacer-despues-de-instalarlo.html">Ubuntu 20.04 en la Raspberry Pi</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-02-01-cambiar--mover-ruta-y-contrasena-de-usuario-en-tu-raspberry-pi.html">Cambiar usuario, contraseña, ruta por defecto en Raspberry Pi o derivadas Debian</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-10-31-habilitar-ssh-en-la-raspberry-sin-conectar-el-monitor.html">Habilitar SSH en la Raspberry sin conectar el Monitor</a></li>
+<li><a href="Raspberryhttps://ugeek.github.io/blog/post/2020-05-09-zram-ampliando-la-ram-y-no-utilizando--quemando-la-sd-de-mi-raspberry.html">ZRAM. Doblando la RAM de tu servidor o Raspberry</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-01-28-navegar-por-el-historial-de-comandos-en-bash.html">Navegando por el historial de comandos en Terminal</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-02-03-instalar-docker-en-raspberry-pi-con-raspbian.html">Docker en Raspbian</a>, <a href="https://ugeek.github.io/blog/post/2019-07-08-docker-en-debian-buster.html">Docker en debian Buster</a>, <a href="https://ugeek.github.io/blog/post/2021-04-05-docker-en-ubuntu-1804.html">Docker en ubuntu 20.04</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-01-24-paquetes-snap.html">snap</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2022-02-15-enviar-clave-ssh-al-servidor-para-no-utilizar-la-contrasena.html">Conectarnos SSH sin poner contraseña</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-08-15-cambiando-el-idioma-en-debian-ubuntu-raspbian.html">Cambiar el Idioma del sistema en Ubuntu, Debian, Raspberry OS,…</a></li>
+</ul>
+<h2 id="raspberry">Raspberry</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2022-06-24-configurar-una-ip-estatica-en-tu-raspberry-pi.html">Configurar una IP fija en tu Raspberry Pi</a></li>
+</ul>
+<h2 id="servidor-manjaro-y-raspberry-manjaro-minimal">Servidor Manjaro y Raspberry Manjaro Minimal</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2023-01-18-instalacion-de-manjaro-en-raspberry.html">Instalación de Manjaro en Raspberry</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2023-01-17-liberar-el-puerto-53-utilizado-por-systemd-resolved.html">Liberar el puerto 53 utilizado por systemd-resolved</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2023-01-27-ip-estatica-o-fija-en-manjaro.html">IP estática o fija en Manjaro</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2023-01-05-habilitar-cron-en-manjaro.html">Habilitar Cron en Manjaro</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2022-12-07-docker-instalar-docker-docker-compose-y-portainer-en-arch-linux.html">Docker. Instalar docker, docker compose y Portainer en Arch Linux</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2023-01-11-enviar-llave-publica-al-servidor-ssh.html">Enviar llave pública al servidor SSH</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-04-07-el-htop-2-0-desarrollado-en-bash-bashtop.html">El htop 2.0 desarrollado en bash. bashtop</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2022-06-29-comandos-sudo-sin-contrasena.html">Comandos sudo sin contraseña (visudo)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2021-01-05-docker-ctop-el-portanier-de-terminal.html">Docker: Ctop. El portanier de terminal</a></li>
+</ul>
+<h2 id="servicios">Servicios</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2020-02-11-wireguard-en-2-minutos-con-wgc.html">Wireguard (VPN)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-07-06-instalando-syncthing-por-reposistorios.html">Syncthing (Sincronización de directorios P2P)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-11-01-rclone-instalando-la-ultima-version.html">Rclone (Instalación ultima versión)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-07-03-dale-almacenamiento-ilimitado-a-tu-raspberry-servidor-o-pc-con-rclone.html">Rclone (Tutorial)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-05-07-servidor-de-ebooks-con-calibre.html">Calibre (Servidor de epubs, pdf,…)</a></li>
+<li><a href="https://ugeek.github.io/blog/categories/dlna.html">Dlna (Servidor Multimedia</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-04-04-montando-carpetas-del-servidor-raspberry-en-tu-escritorio.html">SSHFS (Montar carpetas via SSH)</a></li>
+</ul>
+<h2 id="dockers">Dockers</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2019-10-22-docker-servidor-webdav.html">WebDav (Nube de archivos</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-05-07-el-adios-a-plex-y-emby.-llega-jellyfin.html">Jellyfin (Servidor Multimedia. Alternativa a Plex)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-09-16-navidrome-la-alternativa-a-airsonic-desarrollada-en-go.html">Navidrome. Servidor de música con api subsonic</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2022-03-10-audiobookshelf-servidor-de-audiolibros.html">Audiobookshelf. Servidor de Audiolibros</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2021-01-03-mi-alternativa-a-nextcloud-como-nube-filebrowser-webdav-y-syncthing.html">Filebrowser, Webdav, Syncthing,… todo en uno</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-12-25-trilium-notas-jerarquicas-en-markdown.html">Trilium. Notas Jerárquicas</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-07-02-filerun-un-nextcloud-owncloud-mas-ligero-para-almacenar-tus-archivos.html">Filerun. Alternativa a Nextcloud</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2021-01-14-podgrab-mi-servidor-de-podcast-en-raspberry-o-servidor-ubuntu-debian---mediante-docker.html">PodGrab. Servidor de Podcast</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-05-06-gonic-el-mejor-y-mas-ligero-servidor-de-musica-con-api-subsonic.html">Gonic (Servidor de música con api de subsonic)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-05-25-freshrss-mi-servidor-de-rss.html">FreshRSS (Servidor de rss)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-10-01-docker:-wallabag.html">Wallabag (Servicio para guardar artículos. Alternativa a Pocket)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-04-02-shaarli-el-delicious-del-software-libre.html">Shaarli (Guardar urls. Alternativa a Delicious)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-10-19-docker-wireguard-para-raspberry-ubuntu-debian--.html">Wireguard</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-06-01-mumble-el-docker-del-servidor-de-voip-de-software-libre.html">Mumble</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-08-26-kanboard.html">Kanboard. Método Kanban</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-12-21-docker-bitwarden-un-servidor-de-contrasenas-en-tu-raspberry-pi.html">Bitwarden (Gestor contraseñas)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-04-09-zerotier-funcionamiento-e-instalacion-por-docker-o-repositorios.html">Zerotier (Red virtual, similar a una VPN)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-11-06-docker-gotify-tu-servidor-de-notificaciones.html">Gotify (Servidor de notificaciones)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-09-09-docker-kodexplorer.html">KodExplorer (Interfaz web de explorador de archivos)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-10-09-docker-duck-dns-facilitando-la-conexion-a-tus-servicios.html">DuckDNS</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-10-07-docker:-supysonic.-el-mejor-y-más-ligero-servidor-de-música.html">Supysonic (Servidor de música con api de subsonic)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-10-08-docker-jamstash-cliente-de-subsonic.html">Jamstash (Cliente subsonic)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-03-25-monta-un-servidor-web-nginx-con-una-sola-linea-de-terminal-docker.html">nginx (Servidor web)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-05-15-accediendo-a-todos-mis-servicios-desde-cualquier-lugar-sin-vpn.html">Letsencript (Generar certificados para cifrar y abrir tus servicios a la red)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-04-04-radicale-calendario-y-tareas-sincronizadas-mediante-caldav-y-carddav.html">Radicale (Servidor de calendario, tareas, contactos CalDAV y CardDAV)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-04-01-etesync-tareas-contactos-y-agendas-sincronizadas-de-extremo-a-extremo.html">EteSync (Servidor de calendario, tareas, contactos cifrado extremo a extremo</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-04-21-estando-a-la-ultima-en-tu-raspberry-con-debian-testing.html">Debian Testing</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-07-26-actualizaci%C3%B3n-autom%C3%A1tica-de-tus-dockers.html">Actualización automática de tus dockers con Watchtower o Ouroboros</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2021-01-28-servidor-de-mensajeria-matrix-synapse-en-raspberry-ubuntu-debian--con-docker.html">Servidor de mensajería Matrix Synapse</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-12-06-docker-telegram-de-terminal-para-raspberry-pi-y-amd64.html">Telegram de terminal</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-11-11-docker:-mariadb.html">Mariadb (Base de datos)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-08-21-gossa-servidor-ligero-de-archivos-multimedia-desarrollado-en-go.html">gosssa. Servicio con explorador de archivos</a></li>
+</ul>
+<h2 id="mis-aplicaciones">Mis Aplicaciones</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2019-08-15-cambiando-el-idioma-en-debian-ubuntu-raspbian.html">s-screen. Gestionando mis procesos en segundo plano</a></li>
+</ul>
+<h2 id="aplicaciones">Aplicaciones</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2020-02-16-instalando-compilando-el-ultima-version-de-rclone-browser.html">RcloneBrowser (Instalación última versión)</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-12-04-los-paquetes-snap-no-aparecen-una-vez-instalados.html">Los paquetes snap no aparecen una vez instalados en el sistema. Debian</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-06-13-joplin-desktop-joplin-para-terminal-y-webclipper.html">Joplin</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-09-20-croc-la-aplicacion-que-nos-permite-enviar-o-compartir-archivos-directorios-texto--a-cualquier-dispositivo-este-donde-este-de-un-modo-facil-con-la-terminal.html">Croc</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-12-28-i3wm-en-ubuntu-debian-raspbian---desde-0.html">i3wm en Ubuntu, Debian, Raspbian,… desde 0</a></li>
+</ul>
+<h2 id="aplicaciones-terminal">Aplicaciones Terminal</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2020-02-26-simplenote-para-terminal-sncli.html">sncli. SimpleNote</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-05-22-gestionando-mis-tareas-en-la-terminal-con-topydo.html">topydo. Aplicación todo.txt</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-01-27-aprendiendo-todo-txt-todotxt-cli.html">todotxt-cli. Aplicación todo.txt</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-01-31-a-python-tambien-le-gusta-el-todo-txt-todotxt-machine.html">todotxt-machine</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-05-23-2020-05-23-screen-comandos-basicos.html">screen. Comandos básicos</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-01-21-screen-enviar-scripts-a-segundo-plano.html">screen (enviar scripts a segundo plano)</a></li>
+</ul>
+<h2 id="aplicaciones-de-escritorio">Aplicaciones de Escritorio</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2022-01-17-script-para-crear-acceso-a-aplicaciones-appimage.html">Script para crear acceso a aplicaciones AppImage</a></li>
+<li><a href="HTTPS://ugeek.github.io/blog/post/2021-10-04-gestionar-wireguard-sin-ser-sudo.html">Gestionar Wireguard sin ser sudo</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2022-01-12-sincronizacion-de-nuestros-bookmarks-con-floccus.html">Sincronización de nuestros bookmarks con floccus</a></li>
+</ul>
+<h2 id="telegram">Telegram</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/categories/telegram.html">Todos los Artículos sobre Telegram</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-02-28-telegram-desktop-atajos-de-teclado.html">Atajos de Teclado</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2020-04-08-varias-cuentas-de-telegram-en-un-mismo-pc.html">Tener varias cuentas en Telegram Desktop</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-03-14-crea-un-bot-de-telegram-con-bash-y-una-sola-linea-de-terminal.html">Bot en una sola línea en Bash</a></li>
+<li><a href="https://ugeek.github.io/blog/post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-de-una-sola-linea-de-terminal.html">Bot con imágenes, audios,…</a></li>
+</ul>
+<h2 id="git">Git</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/categories/git.html">Artículos sobre git</a></li>
+</ul>
+<h2 id="emacs">Emacs</h2>
+<ul>
+<li><a href="https://ugeek.github.io/blog/post/2019-03-15-cursos-webs-grupos-tutoriales-todo-sobre-emacs-y-orgmode.html">Todo sobre Emacs y OrgMode (Cursos, webs, tutoriales…)</a></li>
+<li><a href="https://ugeek.github.io/blog/categories/emacs.html">Más sobre Emacs y OrgMode</a></li>
+</ul>
+<h2 id="escucha-también-el-podcast-de-ugeek-en">Escucha también el Podcast de uGeek en…</h2>
+<ul>
+<li><a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9nb28uZ2wvQ1NGU0E1">Google Podcast</a></li>
+<li><a href="https://anchor.fm/ugeek">Anchor</a></li>
+<li><a href="https://podcasts.apple.com/es/podcast/ugeek-tecnolog%C3%ADa-android-linux-servidores-y-mucho-m%C3%A1s/id1201421866">Apple Podcast</a></li>
+<li><a href="https://open.spotify.com/show/1pZRMO6ClMS2jCktwF3I8H">Spotify</a></li>
+<li><a href="https://www.ivoox.com/podcast-ugeek_sq_f1383493_1.html">ivoox</a></li>
+<li><a href="https://podcastaddict.com/podcast/1950713">Podcast Addict </a></li>
+<li><a href="https://podtail.com/es/podcast/ugeekpodcast-tecnologia-android-software-libre-gnu/related/">podtail</a></li>
+<li><a href="https://www.listennotes.com/podcasts/ugeekpodcast-tecnolog%C3%ADa-android-software-ZAzYeQcN6bL/">listennotes.com</a></li>
+<li><a href="https://www.podbean.com/podcast-detail/32vkh-91c93/uGeekPodcast---Tecnolog%C3%ADa-Android-Software-Libre-GNULinux-Servidores-Dom%C3%B3tica-y-mucho-m%C3%A1s...">podbean</a></li>
+<li><a href="https://tunein.com/podcasts/Technology-Podcasts/uGeekPodcast---Tecnologia-Android-Software-Libre-p1145463/?lang=es-ES">Tunein</a></li>
+</ul>
+<h4><center> </center></h4><br>                                                         
+<p>Categorías - <a href="https://ugeek.github.io/blog/categories/SOCKS5.html">SOCKS5</a> - <a href="https://ugeek.github.io/blog/categories/ads.html">ads</a> - <a href="https://ugeek.github.io/blog/categories/android.html">android</a> - <a href="https://ugeek.github.io/blog/categories/aplicacion.html">aplicacion</a> - <a href="https://ugeek.github.io/blog/categories/aplicaciones.html">aplicaciones</a> - <a href="https://ugeek.github.io/blog/categories/aplicación.html">aplicación</a> - <a href="https://ugeek.github.io/blog/categories/appimage.html">appimage</a> - <a href="https://ugeek.github.io/blog/categories/arch.html">arch</a> - <a href="https://ugeek.github.io/blog/categories/audio.html">audio</a> - <a href="https://ugeek.github.io/blog/categories/audiolibros.html">audiolibros</a> - <a href="https://ugeek.github.io/blog/categories/bard.html">bard</a> - <a href="https://ugeek.github.io/blog/categories/bash.html">bash</a> - <a href="https://ugeek.github.io/blog/categories/blocky.html">blocky</a> - <a href="https://ugeek.github.io/blog/categories/bookmarks.html">bookmarks</a> - <a href="https://ugeek.github.io/blog/categories/bot.html">bot</a> - <a href="https://ugeek.github.io/blog/categories/brave.html">brave</a> - <a href="https://ugeek.github.io/blog/categories/caddy.html">caddy</a> - <a href="https://ugeek.github.io/blog/categories/chatgpt.html">chatgpt</a> - <a href="https://ugeek.github.io/blog/categories/chatgtp.html">chatgtp</a> - <a href="https://ugeek.github.io/blog/categories/chrome.html">chrome</a> - <a href="https://ugeek.github.io/blog/categories/cifrado.html">cifrado</a> - <a href="https://ugeek.github.io/blog/categories/correo.html">correo</a> - <a href="https://ugeek.github.io/blog/categories/cpu.html">cpu</a> - <a href="https://ugeek.github.io/blog/categories/croc.html">croc</a> - <a href="https://ugeek.github.io/blog/categories/cron.html">cron</a> - <a href="https://ugeek.github.io/blog/categories/dashboard.html">dashboard</a> - <a href="https://ugeek.github.io/blog/categories/debian.html">debian</a> - <a href="https://ugeek.github.io/blog/categories/discoduro.html">discoduro</a> - <a href="https://ugeek.github.io/blog/categories/dlna.html">dlna</a> - <a href="https://ugeek.github.io/blog/categories/dns.html">dns</a> - <a href="https://ugeek.github.io/blog/categories/docker.html">docker</a> - <a href="https://ugeek.github.io/blog/categories/edge.html">edge</a> - <a href="https://ugeek.github.io/blog/categories/editor.html">editor</a> - <a href="https://ugeek.github.io/blog/categories/ejabberd.html">ejabberd</a> - <a href="https://ugeek.github.io/blog/categories/emacs.html">emacs</a> - <a href="https://ugeek.github.io/blog/categories/escritorio.html">escritorio</a> - <a href="https://ugeek.github.io/blog/categories/ffmpeg.html">ffmpeg</a> - <a href="https://ugeek.github.io/blog/categories/filerun.html">filerun</a> - <a href="https://ugeek.github.io/blog/categories/firefox.html">firefox</a> - <a href="https://ugeek.github.io/blog/categories/git.html">git</a> - <a href="https://ugeek.github.io/blog/categories/github.html">github</a> - <a href="https://ugeek.github.io/blog/categories/go.html">go</a> - <a href="https://ugeek.github.io/blog/categories/hdd.html">hdd</a> - <a href="https://ugeek.github.io/blog/categories/hibernación.html">hibernación</a> - <a href="https://ugeek.github.io/blog/categories/homeassitant.html">homeassitant</a> - <a href="https://ugeek.github.io/blog/categories/host.html">host</a> - <a href="https://ugeek.github.io/blog/categories/html.html">html</a> - <a href="https://ugeek.github.io/blog/categories/http.html">http</a> - <a href="https://ugeek.github.io/blog/categories/i3wm.html">i3wm</a> - <a href="https://ugeek.github.io/blog/categories/ia.html">ia</a> - <a href="https://ugeek.github.io/blog/categories/impresora.html">impresora</a> - <a href="https://ugeek.github.io/blog/categories/ip.html">ip</a> - <a href="https://ugeek.github.io/blog/categories/jekyll.html">jekyll</a> - <a href="https://ugeek.github.io/blog/categories/jellyfin.html">jellyfin</a> - <a href="https://ugeek.github.io/blog/categories/joplin.html">joplin</a> - <a href="https://ugeek.github.io/blog/categories/kodbox.html">kodbox</a> - <a href="https://ugeek.github.io/blog/categories/launcher.html">launcher</a> - <a href="https://ugeek.github.io/blog/categories/librewolf.html">librewolf</a> - <a href="https://ugeek.github.io/blog/categories/libros.html">libros</a> - <a href="https://ugeek.github.io/blog/categories/manjaro.html">manjaro</a> - <a href="https://ugeek.github.io/blog/categories/markdown.html">markdown</a> - <a href="https://ugeek.github.io/blog/categories/matrix.html">matrix</a> - <a href="https://ugeek.github.io/blog/categories/mensajeria.html">mensajeria</a> - <a href="https://ugeek.github.io/blog/categories/miband.html">miband</a> - <a href="https://ugeek.github.io/blog/categories/micro.html">micro</a> - <a href="https://ugeek.github.io/blog/categories/mpv.html">mpv</a> - <a href="https://ugeek.github.io/blog/categories/nano.html">nano</a> - <a href="https://ugeek.github.io/blog/categories/navegador.html">navegador</a> - <a href="https://ugeek.github.io/blog/categories/nextcloud.html">nextcloud</a> - <a href="https://ugeek.github.io/blog/categories/node.html">node</a> - <a href="https://ugeek.github.io/blog/categories/notas.html">notas</a> - <a href="https://ugeek.github.io/blog/categories/notificaciones.html">notificaciones</a> - <a href="https://ugeek.github.io/blog/categories/nube.html">nube</a> - <a href="https://ugeek.github.io/blog/categories/orgmode.html">orgmode</a> - <a href="https://ugeek.github.io/blog/categories/owncloud.html">owncloud</a> - <a href="https://ugeek.github.io/blog/categories/pandoc.html">pandoc</a> - <a href="https://ugeek.github.io/blog/categories/paquetes.html">paquetes</a> - <a href="https://ugeek.github.io/blog/categories/player.html">player</a> - <a href="https://ugeek.github.io/blog/categories/proxy-inverso.html">proxy-inverso</a> - <a href="https://ugeek.github.io/blog/categories/proxy.html">proxy</a> - <a href="https://ugeek.github.io/blog/categories/qutebrowser.html">qutebrowser</a> - <a href="https://ugeek.github.io/blog/categories/raspberry.html">raspberry</a> - <a href="https://ugeek.github.io/blog/categories/rclone.html">rclone</a> - <a href="https://ugeek.github.io/blog/categories/rss.html">rss</a> - <a href="https://ugeek.github.io/blog/categories/rsync.html">rsync</a> - <a href="https://ugeek.github.io/blog/categories/scarlett.html">scarlett</a> - <a href="https://ugeek.github.io/blog/categories/script.html">script</a> - <a href="https://ugeek.github.io/blog/categories/searxng.html">searxng</a> - <a href="https://ugeek.github.io/blog/categories/seguridad.html">seguridad</a> - <a href="https://ugeek.github.io/blog/categories/servicios.html">servicios</a> - <a href="https://ugeek.github.io/blog/categories/servidor.html">servidor</a> - <a href="https://ugeek.github.io/blog/categories/shaarli.html">shaarli</a> - <a href="https://ugeek.github.io/blog/categories/silverbullet.html">silverbullet</a> - <a href="https://ugeek.github.io/blog/categories/sincronización.html">sincronización</a> - <a href="https://ugeek.github.io/blog/categories/snap.html">snap</a> - <a href="https://ugeek.github.io/blog/categories/socks5.html">socks5</a> - <a href="https://ugeek.github.io/blog/categories/ssh.html">ssh</a> - <a href="https://ugeek.github.io/blog/categories/subsonic.html">subsonic</a> - <a href="https://ugeek.github.io/blog/categories/sudo.html">sudo</a> - <a href="https://ugeek.github.io/blog/categories/supysonic.html">supysonic</a> - <a href="https://ugeek.github.io/blog/categories/sync.html">sync</a> - <a href="https://ugeek.github.io/blog/categories/syncthing.html">syncthing</a> - <a href="https://ugeek.github.io/blog/categories/systemd.html">systemd</a> - <a href="https://ugeek.github.io/blog/categories/tareas.html">tareas</a> - <a href="https://ugeek.github.io/blog/categories/telegram.html">telegram</a> - <a href="https://ugeek.github.io/blog/categories/terminal.html">terminal</a> - <a href="https://ugeek.github.io/blog/categories/termux.html">termux</a> - <a href="https://ugeek.github.io/blog/categories/thunar.html">thunar</a> - <a href="https://ugeek.github.io/blog/categories/todo.html">todo</a> - <a href="https://ugeek.github.io/blog/categories/trilium.html">trilium</a> - <a href="https://ugeek.github.io/blog/categories/tts.html">tts</a> - <a href="https://ugeek.github.io/blog/categories/twitch.html">twitch</a> - <a href="https://ugeek.github.io/blog/categories/ubuntu.html">ubuntu</a> - <a href="https://ugeek.github.io/blog/categories/unix.html">unix</a> - <a href="https://ugeek.github.io/blog/categories/video.html">video</a> - <a href="https://ugeek.github.io/blog/categories/vim.html">vim</a> - <a href="https://ugeek.github.io/blog/categories/vnc.html">vnc</a> - <a href="https://ugeek.github.io/blog/categories/vpn.html">vpn</a> - <a href="https://ugeek.github.io/blog/categories/vps.html">vps</a> - <a href="https://ugeek.github.io/blog/categories/w3m.html">w3m</a> - <a href="https://ugeek.github.io/blog/categories/web.html">web</a> - <a href="https://ugeek.github.io/blog/categories/webdav.html">webdav</a> - <a href="https://ugeek.github.io/blog/categories/wifi.html">wifi</a> - <a href="https://ugeek.github.io/blog/categories/wireguard.html">wireguard</a> - <a href="https://ugeek.github.io/blog/categories/x11.html">x11</a> - <a href="https://ugeek.github.io/blog/categories/yay.html">yay</a> - <a href="https://ugeek.github.io/blog/categories/youtube.html">youtube</a> - <a href="https://ugeek.github.io/blog/categories/zettel.html">zettel</a> - <a href="https://ugeek.github.io/blog/categories/zsh.html">zsh</a></p>
+<br><br><br><p style="text-align: center;">Powered by <a href="https://github.com/ugeek/wdblog" target="_blank" rel="noopener">wdblog</a></p><p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>
