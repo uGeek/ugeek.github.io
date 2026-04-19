@@ -39,7 +39,493 @@
 
 <p>Bienvenido al Blog del Podcast de <strong>uGeek</strong>. Aquí encontraras tutoriales y notas que voy tomando en el proceso de aprendizaje de todo aquello que os explico en el <a href="https://ugeek.github.io">Podcast</a>. En la sección <a href="https://ugeek.github.io/blog/tag.html">Tags</a>, encontraras todos los Artículos y Podcast, clasificados por temáticas.</p>
 <p>También puedes encontra mis aplicaciones desarrolladas en bash: <a href="https://ugeek.github.io/dk">dk</a>, <a href="https://ugeek.github.io/wgc">wgc</a>, <a href="https://ugeek.github.io/org-bash-blog/">org-bash-blog</a>, <a href="https://ugeek.github.io/org-bash-podcast/">org-bash-podcast</a>, <a href="https://ugeek.github.io/todo.txt-sync/">todo.txt-sync</a>…</p>
-<h3>Últimos en Podcast uGeek</h3><ul><li><em>2026-04-16</em> - <a href="https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html">Brave Origin. No más Excusas para utilizar Brave</a></li><li><em>2026-04-14</em> - <a href="https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html">Actualizado el Blog, Arch Linux y más...</a></li><li><em>2026-01-17</em> - <a href="https://ugeek.github.io/posts/2026-01-17-actualizando-el-blog-y-haciendo-cambios.html">Actualizando el blog y haciendo cambios</a></li><li><em>2025-12-01</em> - <a href="https://ugeek.github.io/posts/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html">Replica de tu servidor WebDAV en tu móvil</a></li><li><em>2025-08-11</em> - <a href="https://ugeek.github.io/posts/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html">Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</a></li></ul><h3>También en la red</h3><ul><li><em>2026-01-14</em> - <a href="https://ugeek.github.io/blog/posts/2026-01-14-actualizacion-del-editor-de-texto-micro-a-la-ultima-version.html">Actualización del Editor de Texto Micro a la Última Versión</a></li><li><em>2024-03-25</em> - <a href="https://ugeek.github.io/blog/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html">Docker. Merino, un servidor proxy SOCKS5 en rust</a></li><li><em>2024-03-25</em> - <a href="https://ugeek.github.io/blog/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html">RSS. Google News, generando Feeds de temas personalizados</a></li><li><em>2023-12-12</em> - <a href="https://ugeek.github.io/blog/posts/2023-12-12-android-descargando-videos-de-youtube-como-podcast.html">Android. Descargando vídeos de YouTube como podcast</a></li><li><em>2023-12-08</em> - <a href="https://ugeek.github.io/blog/posts/2023-12-08-manjaro-instalando-y-actualizando-en-modo-grafico.html">Manjaro Instalando y actualizando en modo Grafico</a></li></ul>
+<h3>Últimos en Podcast uGeek</h3><ul><li><em>2026-04-16</em> - <a href="https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html">Brave Origin. No más Excusas para utilizar Brave</a></li><li><em>2026-04-14</em> - <a href="https://ugeek.github.io/posts/2026-04-14-actualizado-el-blog-arch-linux-y-mas.html">Actualizado el Blog, Arch Linux y más...</a></li><li><em>2026-01-17</em> - <a href="https://ugeek.github.io/posts/2026-01-17-actualizando-el-blog-y-haciendo-cambios.html">Actualizando el blog y haciendo cambios</a></li><li><em>2025-12-01</em> - <a href="https://ugeek.github.io/posts/2025-12-01-replica-de-tu-servidor-webdav-en-tu-movil.html">Replica de tu servidor WebDAV en tu móvil</a></li><li><em>2025-08-11</em> - <a href="https://ugeek.github.io/posts/2025-08-11-creando-apps-android-y-extensiones-del-navegador-con-gemini-cli.html">Creando Apps Android Y Extensiones del Navegador Con Gemini-cli</a></li></ul><h3>También en la red</h3><ul><li><em>2026-01-14</em> - <a href="https://ugeek.github.io/blog/posts/2026-01-14-actualizacion-del-editor-de-texto-micro-a-la-ultima-version.html">Actualización del Editor de Texto Micro a la Última Versión</a></li><li><em>2024-03-25</em> - <a href="https://ugeek.github.io/blog/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html">Docker. Merino, un servidor proxy SOCKS5 en rust</a></li><li><em>2024-03-25</em> - <a href="https://ugeek.github.io/blog/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html">RSS. Google News, generando Feeds de temas personalizados</a></li><li><em>2023-12-12</em> - <a href="https://ugeek.github.io/blog/posts/2023-12-12-android-descargando-videos-de-youtube-como-podcast.html">Android. Descargando vídeos de YouTube como podcast</a></li><li><em>2023-12-08</em> - <a href="https://ugeek.github.io/blog/posts/2023-12-08-manjaro-instalando-y-actualizando-en-modo-grafico.html">Manjaro Instalando y actualizando en modo Grafico</a></li></ul><!-- INICIO REPRODUCTOR PODCAST -->
+<style>
+/* Encapsulamos el diseño para no interferir con el CSS principal del blog */
+#podcast-player-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto; 
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.player-card {
+    background: linear-gradient(135deg, #e91e84, #6e2cb0);
+    width: 100%;
+    max-width: 450px;
+    border-radius: 12px;
+    padding: 25px;
+    color: white;
+    box-shadow: 0 10px 30px rgba(110, 44, 176, 0.3);
+    position: relative;
+    box-sizing: border-box;
+}
+
+.player-card * {
+    box-sizing: border-box;
+}
+
+.player-card .close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 18px;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+
+.player-card .close-btn:hover {
+    color: white;
+}
+
+/* Evitamos que el h1 del blog afecte al título del podcast */
+.player-card h1.podcast-title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 30px 5px 30px;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: unset;
+    word-break: break-word;
+    line-height: 1.3;
+    color: white;
+    text-transform: none;
+    border: none;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.player-card .podcast-date {
+    text-align: center;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0 0 20px 0;
+}
+
+.player-card .podcast-desc {
+    font-size: 14px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 25px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.player-card .progress-wrapper {
+    margin-bottom: 15px;
+}
+
+.player-card input[type="range"] {
+    -webkit-appearance: none;
+    width: 100%;
+    background: transparent;
+    margin: 0;
+    cursor: pointer;
+}
+
+.player-card input[type="range"]:focus { outline: none; }
+
+.player-card input[type="range"]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
+}
+
+.player-card .progress-bar-filled {
+    background: linear-gradient(to right, white 0%, white 0%, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0.3) 100%);
+}
+
+.player-card input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background: white;
+    margin-top: -3px;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+.player-card input[type="range"]:hover::-webkit-slider-thumb {
+    opacity: 1;
+}
+
+.player-card .speed-range::-webkit-slider-runnable-track {
+    height: 4px;
+}
+
+.player-card .speed-range::-webkit-slider-thumb {
+    height: 10px;
+    width: 10px;
+    margin-top: -3px;
+    opacity: 1 !important;
+}
+
+.player-card .time-info {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-top: 5px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.player-card .speed-wrapper {
+    margin-bottom: 20px;
+}
+
+.player-card .speed-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.player-card .speed-label {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.player-card .speed-value {
+    font-size: 13px;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 2px 8px;
+    border-radius: 10px;
+    min-width: 42px;
+    text-align: center;
+    color: white;
+}
+
+.player-card .speed-marks {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4px;
+    padding: 0 1px;
+}
+
+.player-card .speed-marks span {
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.55);
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.player-card .speed-marks span:hover,
+.player-card .speed-marks span.active {
+    color: white;
+    font-weight: bold;
+}
+
+.player-card .controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.player-card .volume-icon {
+    opacity: 0.8;
+    cursor: pointer;
+    width: 24px;
+}
+
+.player-card .center-controls {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.player-card .control-btn {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0;
+    opacity: 0.9;
+    transition: transform 0.1s, opacity 0.2s;
+}
+
+.player-card .control-btn:hover { opacity: 1; transform: scale(1.1); }
+.player-card .control-btn:active { transform: scale(0.95); }
+
+.player-card .skip-icon { width: 30px; height: 30px; fill: white; }
+
+.player-card .play-btn {
+    width: 60px;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player-card .play-btn svg { width: 24px; height: 24px; fill: white; margin-left: 4px; }
+.player-card .play-btn.playing svg { margin-left: 0; }
+
+.player-card .speed-reset-btn {
+    background: rgba(255,255,255,0.15);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 4px 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+    white-space: nowrap;
+}
+
+.player-card .speed-reset-btn:hover {
+    background: rgba(255,255,255,0.3);
+}
+
+.player-card #loading {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 14px;
+    color: white;
+}
+
+.player-card .content-wrapper { display: none; }
+</style>
+
+<div id="podcast-player-container">
+    <div class="player-card">
+        <!-- Botón de cerrado que oculta el reproductor -->
+        <button class="close-btn" onclick="document.getElementById('podcast-player-container').style.display='none'">✕</button>
+
+        <div id="loading">Cargando último episodio...</div>
+
+        <div class="content-wrapper" id="content-wrapper">
+            <h1 class="podcast-title" id="ep-title">Cargando...</h1>
+            <p class="podcast-date" id="ep-date">...</p>
+            <p class="podcast-desc" id="ep-desc">...</p>
+
+            <div class="progress-wrapper">
+                <input type="range" id="progress-bar" class="progress-bar-filled" value="0" max="100" step="0.1">
+                <div class="time-info">
+                    <span id="current-time">0:00</span>
+                    <span id="duration">0:00</span>
+                </div>
+            </div>
+
+            <div class="speed-wrapper">
+                <div class="speed-header">
+                    <span class="speed-label">Velocidad de reproducción</span>
+                    <span class="speed-value" id="speed-display">1x</span>
+                </div>
+                <input type="range" id="speed-bar" class="progress-bar-filled speed-range" min="0.5" max="3" step="0.25" value="1">
+                <div class="speed-marks" id="speed-marks">
+                    <span data-speed="0.5">0.5x</span>
+                    <span data-speed="0.75">0.75x</span>
+                    <span data-speed="1" class="active">1x</span>
+                    <span data-speed="1.25">1.25x</span>
+                    <span data-speed="1.5">1.5x</span>
+                    <span data-speed="1.75">1.75x</span>
+                    <span data-speed="2">2x</span>
+                    <span data-speed="2.5">2.5x</span>
+                    <span data-speed="3">3x</span>
+                </div>
+            </div>
+
+            <div class="controls">
+                <div class="volume-icon" title="Volumen">
+                    <svg viewBox="0 0 24 24" fill="white">
+                        <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
+                    </svg>
+                </div>
+
+                <div class="center-controls">
+                    <button class="control-btn" id="rewind-btn" title="Retroceder 5 segundos">
+                        <svg class="skip-icon" viewBox="0 0 24 24"><path d="M11 18V6l-8.5 6 8.5 6zm.5-6l8.5 6V6l-8.5 6z"/></svg> 5
+                    </button>
+
+                    <button class="control-btn play-btn" id="play-pause-btn">
+                        <svg id="play-icon" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                        <svg id="pause-icon" viewBox="0 0 24 24" style="display:none;"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+                    </button>
+
+                    <button class="control-btn" id="forward-btn" title="Avanzar 5 segundos">
+                        5 <svg class="skip-icon" viewBox="0 0 24 24"><path d="M4 18l8.5-6L4 6v12zm9-12v12l8.5-6L13 6z"/></svg>
+                    </button>
+                </div>
+
+                <button class="speed-reset-btn" id="speed-reset-btn" title="Restablecer velocidad a 1x">Reset 1x</button>
+            </div>
+        </div>
+
+        <audio id="main-audio"></audio>
+    </div>
+</div>
+
+<script>
+    const RSS_URL = 'https://ugeek.github.io/podcast.xml';
+
+    const titleEl       = document.getElementById('ep-title');
+    const dateEl        = document.getElementById('ep-date');
+    const descEl        = document.getElementById('ep-desc');
+    const audio         = document.getElementById('main-audio');
+    const playPauseBtn  = document.getElementById('play-pause-btn');
+    const playIcon      = document.getElementById('play-icon');
+    const pauseIcon     = document.getElementById('pause-icon');
+    const rewindBtn     = document.getElementById('rewind-btn');
+    const forwardBtn    = document.getElementById('forward-btn');
+    const progressBar   = document.getElementById('progress-bar');
+    const currentTimeEl = document.getElementById('current-time');
+    const durationEl    = document.getElementById('duration');
+    const speedBar      = document.getElementById('speed-bar');
+    const speedDisplay  = document.getElementById('speed-display');
+    const speedMarks    = document.querySelectorAll('#speed-marks span');
+    const speedResetBtn = document.getElementById('speed-reset-btn');
+    const loadingEl     = document.getElementById('loading');
+    const contentEl     = document.getElementById('content-wrapper');
+
+    function formatDate(dateString) {
+        const date = new Date(dateString);
+        return date.toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    function stripHtml(html) {
+        const tmp = document.createElement('DIV');
+        tmp.innerHTML = html;
+        return tmp.textContent || tmp.innerText || '';
+    }
+
+    function formatTime(seconds) {
+        if (isNaN(seconds)) return '0:00';
+        const min = Math.floor(seconds / 60);
+        const sec = Math.floor(seconds % 60);
+        return `${min}:${sec < 10 ? '0' + sec : sec}`;
+    }
+
+    function updateBarColor(rangeEl, min, max) {
+        const pct = ((rangeEl.value - min) / (max - min)) * 100;
+        rangeEl.style.background = `linear-gradient(to right, white 0%, white ${pct}%, rgba(255,255,255,0.3) ${pct}%, rgba(255,255,255,0.3) 100%)`;
+    }
+
+    function updateProgressBarColor() { updateBarColor(progressBar, 0, progressBar.max || 100); }
+    function updateSpeedBarColor() { updateBarColor(speedBar, parseFloat(speedBar.min), parseFloat(speedBar.max)); }
+
+    function syncSpeedMarks(value) {
+        speedMarks.forEach(mark => {
+            mark.classList.toggle('active', parseFloat(mark.dataset.speed) === value);
+        });
+    }
+
+    function applySpeed(value) {
+        audio.playbackRate = value;
+        speedBar.value = value;
+        speedDisplay.textContent = `${value}x`;
+        updateSpeedBarColor();
+        syncSpeedMarks(value);
+    }
+
+    async function fetchLatestEpisode() {
+        try {
+            const response = await fetch(RSS_URL);
+            if (!response.ok) throw new Error('Error al cargar');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(text, 'text/xml');
+            const firstItem = xmlDoc.querySelector('item');
+
+            if (firstItem) {
+                const title       = firstItem.querySelector('title')?.textContent || 'Episodio sin título';
+                const pubDate     = firstItem.querySelector('pubDate')?.textContent || '';
+                const description = firstItem.querySelector('description')?.textContent || '';
+                const enclosure   = firstItem.querySelector('enclosure');
+                const audioUrl    = enclosure ? enclosure.getAttribute('url') : null;
+
+                titleEl.textContent = title;
+                dateEl.textContent  = pubDate ? formatDate(pubDate) : '';
+                descEl.textContent  = stripHtml(description);
+
+                if (audioUrl) audio.src = audioUrl;
+
+                loadingEl.style.display  = 'none';
+                contentEl.style.display  = 'block';
+
+                updateSpeedBarColor();
+                updateProgressBarColor();
+            }
+        } catch (error) {
+            loadingEl.textContent = 'Error al cargar el podcast.';
+            console.error(error);
+        }
+    }
+
+    playPauseBtn.addEventListener('click', () => { audio.paused ? audio.play() : audio.pause(); });
+
+    audio.addEventListener('play', () => {
+        playIcon.style.display  = 'none';
+        pauseIcon.style.display = 'block';
+        playPauseBtn.classList.add('playing');
+    });
+
+    audio.addEventListener('pause', () => {
+        playIcon.style.display  = 'block';
+        pauseIcon.style.display = 'none';
+        playPauseBtn.classList.remove('playing');
+    });
+
+    rewindBtn.addEventListener('click',  () => { audio.currentTime = Math.max(0, audio.currentTime - 5); });
+    forwardBtn.addEventListener('click', () => { audio.currentTime = Math.min(audio.duration, audio.currentTime + 5); });
+
+    audio.addEventListener('loadedmetadata', () => {
+        durationEl.textContent = formatTime(audio.duration);
+        progressBar.max        = audio.duration;
+    });
+
+    let isDragging = false;
+    audio.addEventListener('timeupdate', () => {
+        currentTimeEl.textContent = formatTime(audio.currentTime);
+        if (!isDragging) {
+            progressBar.value = audio.currentTime;
+            updateProgressBarColor();
+        }
+    });
+
+    progressBar.addEventListener('mousedown',  () => isDragging = true);
+    progressBar.addEventListener('touchstart', () => isDragging = true);
+    progressBar.addEventListener('input',      updateProgressBarColor);
+    progressBar.addEventListener('change', () => {
+        audio.currentTime = progressBar.value;
+        isDragging = false;
+    });
+    progressBar.addEventListener('mouseup',  () => isDragging = false);
+    progressBar.addEventListener('touchend', () => isDragging = false);
+
+    audio.addEventListener('ended', () => {
+        progressBar.value = 0;
+        updateProgressBarColor();
+        currentTimeEl.textContent = '0:00';
+    });
+
+    speedBar.addEventListener('input', () => { applySpeed(parseFloat(speedBar.value)); });
+    speedMarks.forEach(mark => { mark.addEventListener('click', () => { applySpeed(parseFloat(mark.dataset.speed)); }); });
+    speedResetBtn.addEventListener('click', () => applySpeed(1));
+
+    fetchLatestEpisode();
+</script>
+<!-- FIN REPRODUCTOR PODCAST -->
 
 <h2 id="iniciando-tu-servidor">Iniciando tu servidor</h2>
 <ul>
