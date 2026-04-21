@@ -797,20 +797,20 @@
       <guid isPermaLink="true">https://ugeek.github.io/posts/2022-07-01-matar-procesos-con-ps-sar-kill-killall-pkill.html</guid>
     </item>
     <item>
-      <title><![CDATA[FoxyProxy. Extensión de navegador para navegar mediante Proxy SOCKS5]]></title>
-      <link>https://ugeek.github.io/posts/2022-06-30-foxyproxy-extension-de-navegador-para-navegar-mediante-proxy-socks5.html</link>
-      <description><![CDATA[Ya hemos creado el servidor para navegar mediante Proxy. Podemos acceder a la configuración de nuestro navegador y configurarlo para que navegue por Proxy, pero FoxyProxy es una extensión muy práctica, ya que posemos navegar con nuestra ip y en el momento de querer utilizar el Proxy, pulsaremos sobre el icono y ya estaremos navegando con la ip de nuestro vps. Instala FoxyProxy El addon para facilitar la conexión al servidor proxy, podemos instalarla en Firefox desde el repositorio en GitHub https://github.com/foxyproxy/firefox-extension. En los addons de Firefox, podemos encontrarlo en la siguiente url: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/ Configuración Entre las extensiones de Firefox, nos aparecerá el icono de FoxyProxy. Pulsa sobre él y vamos a configurarlo. Pulsa opciones Selecciona Add Agrega los datos de tu servidor stocks5. No olvides en Proxy Type, seleccionar la opción socks5. Cierra la configuración Uso Ahora es tan simple como pulsar sobre el icono de FoxyProxy y seleccionar...]]></description>
-      <pubDate>Wed, 29 Jun 2022 22:00:00 GMT</pubDate>
-      <category><![CDATA[SOCKS5]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2022-06-30-foxyproxy-extension-de-navegador-para-navegar-mediante-proxy-socks5.html</guid>
-    </item>
-    <item>
       <title><![CDATA[Servidor Proxy SOCKS5 para tu Navegador, Telegram, etc...]]></title>
       <link>https://ugeek.github.io/posts/2022-06-30-servidor-proxy-socks5-para-tu-navegador-telegram-etc.html</link>
       <description><![CDATA[Un servidor proxy puede ser muy útil para saltarte las restricciones a determinados servicios, canales de Telegram,... que estén bloqueados geográficamente o simplemente porque quieres mantener un cierto anonimato y no dejar tu rastro utilizando tu IP, haciendo pasar todo el tráfico a través de tu servidor Proxy instalado por ejemplo en un VPS. Como comento, todo el trafico va enrutado entre el cliente - servidor y hay que tener claro que un servidor proxy aunque tiene algunas similitudes, no es una VPN. En el caso de este servidor SOCKS5, el trafico no va cifrado entre cliente y servidor. Lo positivo de no estar cifrado, es que no pierde el tiempo y recursos cifrando, todo ello sumado a que los paquetes enviados son más pequeños, la velocidad de navegación es mucho más alta. He montado este servidor en mi VPS con docker en menos de un minuto y es fantástico....]]></description>
       <pubDate>Wed, 29 Jun 2022 22:00:00 GMT</pubDate>
       <category><![CDATA[proxy]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2022-06-30-servidor-proxy-socks5-para-tu-navegador-telegram-etc.html</guid>
+    </item>
+    <item>
+      <title><![CDATA[FoxyProxy. Extensión de navegador para navegar mediante Proxy SOCKS5]]></title>
+      <link>https://ugeek.github.io/posts/2022-06-30-foxyproxy-extension-de-navegador-para-navegar-mediante-proxy-socks5.html</link>
+      <description><![CDATA[Ya hemos creado el servidor para navegar mediante Proxy. Podemos acceder a la configuración de nuestro navegador y configurarlo para que navegue por Proxy, pero FoxyProxy es una extensión muy práctica, ya que posemos navegar con nuestra ip y en el momento de querer utilizar el Proxy, pulsaremos sobre el icono y ya estaremos navegando con la ip de nuestro vps. Instala FoxyProxy El addon para facilitar la conexión al servidor proxy, podemos instalarla en Firefox desde el repositorio en GitHub https://github.com/foxyproxy/firefox-extension. En los addons de Firefox, podemos encontrarlo en la siguiente url: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/ Configuración Entre las extensiones de Firefox, nos aparecerá el icono de FoxyProxy. Pulsa sobre él y vamos a configurarlo. Pulsa opciones Selecciona Add Agrega los datos de tu servidor stocks5. No olvides en Proxy Type, seleccionar la opción socks5. Cierra la configuración Uso Ahora es tan simple como pulsar sobre el icono de FoxyProxy y seleccionar...]]></description>
+      <pubDate>Wed, 29 Jun 2022 22:00:00 GMT</pubDate>
+      <category><![CDATA[SOCKS5]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2022-06-30-foxyproxy-extension-de-navegador-para-navegar-mediante-proxy-socks5.html</guid>
     </item>
     <item>
       <title><![CDATA[SocksDroid. Enrutando todo el tráfico de tu Android por servidores SOCKS5]]></title>
@@ -1437,20 +1437,20 @@
       <guid isPermaLink="true">https://ugeek.github.io/posts/2021-04-15-wallabag-en-emacs.html</guid>
     </item>
     <item>
-      <title><![CDATA[Ampliar memoria SWAP]]></title>
-      <link>https://ugeek.github.io/posts/2021-04-13-ampliar-memoria-swap.html</link>
-      <description><![CDATA[Tener poca memoria swap, puede hacer que se detengan determinados servicios o comience a ir lento nuestro servidor o PC. Vamos a ver como ampliar la memoria swap de los 100Mb que trae Raspbian OS por defecto en su versión Lite a 512Mb. Conocer cuante SWAP tenemos Para comprobar la memoria swap que tenemos y ver su estado, es tan sencillo como utilizar htop. También podemos utilizar el siguiente comando: cat /proc/meminfo | grep Swap Este comando nos mostrará tres valores: SwapCached: # swap ocupada SwapTotal: # swap disponible SwapFree: # swap libre Aumentar SWAP Para aumenta la swap, editaremos el siguiente archivo: sudo nano /etc/dphys-swapfile En el caso de tener solo 100Mb, como es mi caso, veremos la siguiente variable con este valor: CONF_SWAPSIZE=100 Ahora cambiaremos el valor por 512Mb, que es nuestro objetivo: CONF_SWAPSIZE=512 Implementar la nueva SWAP Para implementar esta nueva swap tenemos dos modos de hacerlo....]]></description>
-      <pubDate>Mon, 12 Apr 2021 22:00:00 GMT</pubDate>
-      <category><![CDATA[raspberry]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2021-04-13-ampliar-memoria-swap.html</guid>
-    </item>
-    <item>
       <title><![CDATA[Docker: Raneto]]></title>
       <link>https://ugeek.github.io/posts/2021-04-13-docker-raneto.html</link>
       <description><![CDATA[Raneto es una plataforma de base de conocimientos de código abierto que utiliza archivos Markdown estáticos para potenciar su base de conocimientos. https://hub.docker.com/r/linuxserver/raneto http://raneto.com/]]></description>
       <pubDate>Mon, 12 Apr 2021 22:00:00 GMT</pubDate>
       <category><![CDATA[docker]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2021-04-13-docker-raneto.html</guid>
+    </item>
+    <item>
+      <title><![CDATA[Ampliar memoria SWAP]]></title>
+      <link>https://ugeek.github.io/posts/2021-04-13-ampliar-memoria-swap.html</link>
+      <description><![CDATA[Tener poca memoria swap, puede hacer que se detengan determinados servicios o comience a ir lento nuestro servidor o PC. Vamos a ver como ampliar la memoria swap de los 100Mb que trae Raspbian OS por defecto en su versión Lite a 512Mb. Conocer cuante SWAP tenemos Para comprobar la memoria swap que tenemos y ver su estado, es tan sencillo como utilizar htop. También podemos utilizar el siguiente comando: cat /proc/meminfo | grep Swap Este comando nos mostrará tres valores: SwapCached: # swap ocupada SwapTotal: # swap disponible SwapFree: # swap libre Aumentar SWAP Para aumenta la swap, editaremos el siguiente archivo: sudo nano /etc/dphys-swapfile En el caso de tener solo 100Mb, como es mi caso, veremos la siguiente variable con este valor: CONF_SWAPSIZE=100 Ahora cambiaremos el valor por 512Mb, que es nuestro objetivo: CONF_SWAPSIZE=512 Implementar la nueva SWAP Para implementar esta nueva swap tenemos dos modos de hacerlo....]]></description>
+      <pubDate>Mon, 12 Apr 2021 22:00:00 GMT</pubDate>
+      <category><![CDATA[raspberry]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2021-04-13-ampliar-memoria-swap.html</guid>
     </item>
     <item>
       <title><![CDATA[Crear acceso a aplicaciones AppImage o cualquier tipo de aplicación y que aparezcan en el menú]]></title>
@@ -1597,20 +1597,20 @@
       <guid isPermaLink="true">https://ugeek.github.io/posts/2021-03-09-controlando-la-papelera-de-nextcloud.html</guid>
     </item>
     <item>
-      <title><![CDATA[Vim Cheat Sheet. Chuleta de atajos para Vim]]></title>
-      <link>https://ugeek.github.io/posts/2021-03-08-vim-cheat-sheet-chuleta-de-atajos-para-vim.html</link>
-      <description><![CDATA[Global :h[elp] keyword - abrir ayuda para palabra clave :sav[eas] file - guardar archivo como :clo[se] - cerrar archivo actual :ter[minal] - abre una ventana de terminal K - abrir página del manual (man page) de la palabra bajo el cursor Tip Run vimtutor in a terminal to learn the first Vim commands. Mover el cursor h - mover el cursor hacia la izquierda j - mover el cursor hacia abajo k - mover el cursor hacia arriba l - mover el cursor hacia la derecha H - moverse hacia la parte superior de la pantalla M - moverse hacia el centro de la pantalla L - moverse hacia la parte inferior de la pantalla w - saltar hasta el inicio de la siguiente palabra W - saltar hasta el inicio de la siguiente palabra (incluso con puntuación) e - saltar hasta el final de la siguiente palabra E -...]]></description>
-      <pubDate>Sun, 07 Mar 2021 23:00:00 GMT</pubDate>
-      <category><![CDATA[vim]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2021-03-08-vim-cheat-sheet-chuleta-de-atajos-para-vim.html</guid>
-    </item>
-    <item>
       <title><![CDATA[vim. Resaltado de sintaxis]]></title>
       <link>https://ugeek.github.io/posts/2021-03-08-vim-resaltado-de-sintaxis.html</link>
       <description><![CDATA[Cuando creo un script en bash u otro lenguaje de programación, me gusta que el editor que utilizo resalte la sintaxis, ya que de este modo puedo encontrar errores. Ahora que estoy empezando a utilizar vim, vamos a ver como resaltar la sintaxis por defecto. Archivo de configuración vimrc Para hacer esto posible, añadiremos al archivo de configuración de vim, .vimrc, lo siguiente: vim ~/.vimrc Esto es lo que tenemos que copiar syntax on de este modo, cada vez que abramos vim, de forma automática, vim resaltará la sintaxis. Si quieres habilitar este modo solo cuando tu lo desees, una vez abierto el script a editar, ejecutaremos: :syntax on Para deshabilitarlo, ejecutaremos: :syntax off Plantillas de colores Es probable que la plantilla por defecto no te guste. Si deseas cambiarla, podemos encontrar varias de diferentes colores en la ruta /usr/share/vim/vim*/colors/ ls /usr/share/vim/vim*/colors/ Vamos a probar una de las plantilla. Por...]]></description>
       <pubDate>Sun, 07 Mar 2021 23:00:00 GMT</pubDate>
       <category><![CDATA[vim]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2021-03-08-vim-resaltado-de-sintaxis.html</guid>
+    </item>
+    <item>
+      <title><![CDATA[Vim Cheat Sheet. Chuleta de atajos para Vim]]></title>
+      <link>https://ugeek.github.io/posts/2021-03-08-vim-cheat-sheet-chuleta-de-atajos-para-vim.html</link>
+      <description><![CDATA[Global :h[elp] keyword - abrir ayuda para palabra clave :sav[eas] file - guardar archivo como :clo[se] - cerrar archivo actual :ter[minal] - abre una ventana de terminal K - abrir página del manual (man page) de la palabra bajo el cursor Tip Run vimtutor in a terminal to learn the first Vim commands. Mover el cursor h - mover el cursor hacia la izquierda j - mover el cursor hacia abajo k - mover el cursor hacia arriba l - mover el cursor hacia la derecha H - moverse hacia la parte superior de la pantalla M - moverse hacia el centro de la pantalla L - moverse hacia la parte inferior de la pantalla w - saltar hasta el inicio de la siguiente palabra W - saltar hasta el inicio de la siguiente palabra (incluso con puntuación) e - saltar hasta el final de la siguiente palabra E -...]]></description>
+      <pubDate>Sun, 07 Mar 2021 23:00:00 GMT</pubDate>
+      <category><![CDATA[vim]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2021-03-08-vim-cheat-sheet-chuleta-de-atajos-para-vim.html</guid>
     </item>
     <item>
       <title><![CDATA[Cambiar el hostname Ubuntu, Debian, Raspberry OS...]]></title>
@@ -3317,20 +3317,20 @@
       <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-31-crear-alias.html</guid>
     </item>
     <item>
-      <title><![CDATA[Comprimir archivos de forma automatizada en rar a 1.4Gb, para subirlos a Telegram u otra nube pública]]></title>
-      <link>https://ugeek.github.io/posts/2019-01-29-comprimir-archivos-de-forma-automatizada-en-rar-a-14gb-para-subirlos-a-telegram-u-otra-nube-publica.html</link>
-      <description><![CDATA[Tiempo estimado de lectura: 4 minutos. 510 palabras. bash Telegram nos proporciona una nube ilimitada… pero con limitaciones. Telegram permite subir archivos que no superen los 1.5Gb y eso puede ser una limitación a subir vídeos domésticos en 4K o incluso alguna distro. Para solucionar este problema, podemos comprimir los archivos en rar y trocearlos. Después desde Telegram Desktop los podremos subir sin problemas. Tengo constancia de gente que ha subido archivos de hasta 2Gb, pero en este artículo, ya que no hay limitación en el número de archivos a subir, vamos a limitar a 1,4Gb el tamaño. Este artículo no solo vale para Telegram, Box.com también tiene limitación a 50mb, así que cambiando el número del comando, podrás dividir el archivo al tamaño que desees. El Objetivo de este artículo, no solo es el aprender a trocear estos, sino también, como a mi me gusta, automatizar esta tarea. Así...]]></description>
-      <pubDate>Mon, 28 Jan 2019 23:00:00 GMT</pubDate>
-      <category><![CDATA[bash]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-29-comprimir-archivos-de-forma-automatizada-en-rar-a-14gb-para-subirlos-a-telegram-u-otra-nube-publica.html</guid>
-    </item>
-    <item>
       <title><![CDATA[Que aparezca en el Prompt en que rama estamos]]></title>
       <link>https://ugeek.github.io/posts/2019-01-29-que-aparezca-en-el-prompt-en-que-rama-estamos.html</link>
       <description><![CDATA[Artículos Podcasts Tags Tiempo estimado de lectura: 2 minutos. 255 palabras. bash Una vez te familiarizas con git, comienzas a crear ramas y llega un momento en el que vas un poco perdido, sin saber bien donde estás. Es cierto que con un git status, te dice en que tema estas trabajando, pero mucho mejor que te lo informe directamente el prompt. Para hacer esto, sigue estos simples pasos: Descargando .git-prompt.sh Descargamos con wget .git-prompt.sh: wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -O ~/.git-prompt.sh Editamos ~/.bashrc Vamos al archivo de configuración de bash ~/.bashrc para editarlo con emacs: emacs ~/.bashrc Y añadimos el siguiente código: source ~/.git-prompt.sh PS1="\n[\[\033[32m\]\w]\[\033[0m\]\$(__git_ps1)\n\[\033[1;33m\]\u\[\033[32m\]$ \[\033[0m\]" Personalizando Aquí te dejo esta tabla, por si quieres personalizar a tu gusto un poco mas el prompt: Texto Usuario, nombre de host y su color de visualización = \u@\h \[\033[32m\] Directorio de trabajo actual y su color de visualización = \w\[\033[33m\] Nombre de rama de...]]></description>
       <pubDate>Mon, 28 Jan 2019 23:00:00 GMT</pubDate>
       <category><![CDATA[bash]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-29-que-aparezca-en-el-prompt-en-que-rama-estamos.html</guid>
+    </item>
+    <item>
+      <title><![CDATA[Comprimir archivos de forma automatizada en rar a 1.4Gb, para subirlos a Telegram u otra nube pública]]></title>
+      <link>https://ugeek.github.io/posts/2019-01-29-comprimir-archivos-de-forma-automatizada-en-rar-a-14gb-para-subirlos-a-telegram-u-otra-nube-publica.html</link>
+      <description><![CDATA[Tiempo estimado de lectura: 4 minutos. 510 palabras. bash Telegram nos proporciona una nube ilimitada… pero con limitaciones. Telegram permite subir archivos que no superen los 1.5Gb y eso puede ser una limitación a subir vídeos domésticos en 4K o incluso alguna distro. Para solucionar este problema, podemos comprimir los archivos en rar y trocearlos. Después desde Telegram Desktop los podremos subir sin problemas. Tengo constancia de gente que ha subido archivos de hasta 2Gb, pero en este artículo, ya que no hay limitación en el número de archivos a subir, vamos a limitar a 1,4Gb el tamaño. Este artículo no solo vale para Telegram, Box.com también tiene limitación a 50mb, así que cambiando el número del comando, podrás dividir el archivo al tamaño que desees. El Objetivo de este artículo, no solo es el aprender a trocear estos, sino también, como a mi me gusta, automatizar esta tarea. Así...]]></description>
+      <pubDate>Mon, 28 Jan 2019 23:00:00 GMT</pubDate>
+      <category><![CDATA[bash]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-29-comprimir-archivos-de-forma-automatizada-en-rar-a-14gb-para-subirlos-a-telegram-u-otra-nube-publica.html</guid>
     </item>
     <item>
       <title><![CDATA[Crear ramas con Git]]></title>
@@ -3469,20 +3469,20 @@
       <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-03-visualiza-tus-notas-markdown-version-web-con-mkdocs.html</guid>
     </item>
     <item>
-      <title><![CDATA[Crear listas m3u para minidlna o vlc]]></title>
-      <link>https://ugeek.github.io/posts/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html</link>
-      <description><![CDATA[Un archivo .m3u, es un archivo de texto que contiene un listado de archivos multimedia que es muy utilizado por muchos reproductores como vlc. Cuando viste el artículo de minidlna, te preguntarías como hacer las playlist de este servidor. Pues ahora te explicaré como crear automáticamente listas desde tu terminal en segundos. Crear lista para minidlna Para crear la lista, no hace falta que especifiquemos la ruta del archivo en nuestro servidor, solo poniendo el nombre del mismo, minidlna buscará en su base de datos donde está este para reproducirlo. No importa el lugar donde esté el archivo .m3u, nuestro servidor minidlna lo agregará a su base de datos y así al grupo de playlists. Lista dentro de un directorio Nos situamos en el directorio: ls -1 | grep .mp3 > lista.m3u Explicación del comando de listado ls -> lista archivos dentro de la carpeta -1 -> mostrar un archivo...]]></description>
-      <pubDate>Tue, 01 Jan 2019 23:00:00 GMT</pubDate>
-      <category><![CDATA[bash]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html</guid>
-    </item>
-    <item>
       <title><![CDATA[Kde Connect]]></title>
       <link>https://ugeek.github.io/posts/2019-01-02-kde-connect.html</link>
       <description><![CDATA[He instalado Kde Connect en Lubuntu y Mint con el escritorio i3. Os detallo como instalarlo paso a paso. Hasta el paso 3, ya estaría listo gracias a indicator-kdeconnect mediante interfaz gráfica. Pero si te animas con la terminal, llega hasta el final del post. Recordaros que Kde Connect está tanto en Google Play como en F-Droid para Android. Instalación Arch sudo pacman -S kdeconnect Debian Instalamos en nuestro Ubuntu sudo apt install kdeconnect Instalamos la app en nuestro movil, tablet… Buscará dentro de nuestra red local los dispositivos con Kde Connect. Empareja tu dispositivo y… Ya está!! Si quieres seguir con la terminal, sigue leyendo. Vamos ha hacer el emparejamiento desde la Terminal. El comando kdeconnect-cli - -help nos mostrará todos los comandos disponibles. Vamos a listar dispositivos disponibles en nuestra red local desde la terminal kdeconnect-cli -l La terminal nos mostrará todos los dispositivos disponibles, en mi caso,...]]></description>
       <pubDate>Tue, 01 Jan 2019 23:00:00 GMT</pubDate>
       <category><![CDATA[bash]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-02-kde-connect.html</guid>
+    </item>
+    <item>
+      <title><![CDATA[Crear listas m3u para minidlna o vlc]]></title>
+      <link>https://ugeek.github.io/posts/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html</link>
+      <description><![CDATA[Un archivo .m3u, es un archivo de texto que contiene un listado de archivos multimedia que es muy utilizado por muchos reproductores como vlc. Cuando viste el artículo de minidlna, te preguntarías como hacer las playlist de este servidor. Pues ahora te explicaré como crear automáticamente listas desde tu terminal en segundos. Crear lista para minidlna Para crear la lista, no hace falta que especifiquemos la ruta del archivo en nuestro servidor, solo poniendo el nombre del mismo, minidlna buscará en su base de datos donde está este para reproducirlo. No importa el lugar donde esté el archivo .m3u, nuestro servidor minidlna lo agregará a su base de datos y así al grupo de playlists. Lista dentro de un directorio Nos situamos en el directorio: ls -1 | grep .mp3 > lista.m3u Explicación del comando de listado ls -> lista archivos dentro de la carpeta -1 -> mostrar un archivo...]]></description>
+      <pubDate>Tue, 01 Jan 2019 23:00:00 GMT</pubDate>
+      <category><![CDATA[bash]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html</guid>
     </item>
     <item>
       <title><![CDATA[Kde Connect en Emacs]]></title>
@@ -3509,20 +3509,20 @@
       <guid isPermaLink="true">https://ugeek.github.io/posts/2018-12-29-redirigir-el-trafico-de-una-pagina-web-a-otra.html</guid>
     </item>
     <item>
-      <title><![CDATA[Convertir de Markdown a Org Mode gracias a Pandoc]]></title>
-      <link>https://ugeek.github.io/posts/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html</link>
-      <description><![CDATA[Vamos a convertir nuestros archivos Markdown a Org Mode gracias a Pandoc. Para ello, primero necesitamos instalar Pandoc en nuestro Ubuntu: sudo apt install pandoc Ahora tenemos 2 posibilidades, transformar únicamente un archivo .md a .org, o aprovechando la magnífica gestión de los archivos Org Mode, convertir todos los archivos Markdown de una carpeta a un único archivo Org Mode. Markdown a Org Mode Markdown a Org Mode. Ejecutamos este comando en la terminal. Para indicar el número de caracteres por línea que tendrá la conversión, utiliza la opción --columns NUMERO_DE_CARACTERES La opción -t, significa que transformamos markdown a orgmode La opción -o, significa el archivo de salida será el que indiquemos a continuación pandoc -s -f markdown -t org archivo_a_convertir.md -o nuevo_archivo.org Cambiando el orden pandoc -f markdown -t org -o nuevo_archivo.org archivo_a_convertir.md Al hacer la conversión, Pandoc incluye en cada cabecera las propieties. Para eliminarlas podemos utilizar sed...]]></description>
-      <pubDate>Thu, 27 Dec 2018 23:00:00 GMT</pubDate>
-      <category><![CDATA[emacs]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html</guid>
-    </item>
-    <item>
       <title><![CDATA[Descargar todos los episodios de un Podcast con wget]]></title>
       <link>https://ugeek.github.io/posts/2018-12-28-descargar-todos-los-episodios-de-un-podcast-con-wget.html</link>
       <description><![CDATA[Artículos Podcasts Tags Si estas en esta web, probablemente conozcas mi Podcast y quizás te hayas planteado alguna vez si existe un método para descargar todos los Podcast disponibles, sin necesidad de hacer uso de un programa, sino desde la terminal y con wget. Tan simple como escribir esta única línea sustituyendo "FEED", por el Feed del Podcast que desees descargar. wget -q -O- "FEED" | grep -o '<enclosure url="[^"]*' | grep -o '[^"]*$' | xargs wget -c Como ejemplo, te dejo el Podcast de uGeek  wget -q -O- "http://feeds.feedburner.com/ugeek" | grep -o '<enclosure url="[^"]*' | grep -o '[^"]*$' | xargs wget -c A disfrutar con la magia de la terminal...]]></description>
       <pubDate>Thu, 27 Dec 2018 23:00:00 GMT</pubDate>
       <category><![CDATA[terminal]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2018-12-28-descargar-todos-los-episodios-de-un-podcast-con-wget.html</guid>
+    </item>
+    <item>
+      <title><![CDATA[Convertir de Markdown a Org Mode gracias a Pandoc]]></title>
+      <link>https://ugeek.github.io/posts/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html</link>
+      <description><![CDATA[Vamos a convertir nuestros archivos Markdown a Org Mode gracias a Pandoc. Para ello, primero necesitamos instalar Pandoc en nuestro Ubuntu: sudo apt install pandoc Ahora tenemos 2 posibilidades, transformar únicamente un archivo .md a .org, o aprovechando la magnífica gestión de los archivos Org Mode, convertir todos los archivos Markdown de una carpeta a un único archivo Org Mode. Markdown a Org Mode Markdown a Org Mode. Ejecutamos este comando en la terminal. Para indicar el número de caracteres por línea que tendrá la conversión, utiliza la opción --columns NUMERO_DE_CARACTERES La opción -t, significa que transformamos markdown a orgmode La opción -o, significa el archivo de salida será el que indiquemos a continuación pandoc -s -f markdown -t org archivo_a_convertir.md -o nuevo_archivo.org Cambiando el orden pandoc -f markdown -t org -o nuevo_archivo.org archivo_a_convertir.md Al hacer la conversión, Pandoc incluye en cada cabecera las propieties. Para eliminarlas podemos utilizar sed...]]></description>
+      <pubDate>Thu, 27 Dec 2018 23:00:00 GMT</pubDate>
+      <category><![CDATA[emacs]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html</guid>
     </item>
     <item>
       <title><![CDATA[Eliminar líneas en Blanco con sed]]></title>
