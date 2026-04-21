@@ -14,11 +14,11 @@
     <generator>wdblog</generator>
     <item>
       <title><![CDATA[Desinstalar Ollama]]></title>
-      <link>https://ugeek.github.io/blog/posts/2026-04-20-desinstalar-ollama.html</link>
+      <link>https://ugeek.github.io/posts/2026-04-21-desinstalar-ollama.html</link>
       <description><![CDATA[Tenia ollama instalado en mi máquina y la desinstalación de herramientas a veces puede resultar complicada, especialmente si quedan residuos que podrían afectar otras instalaciones, como Docker. En este artículo te muestro este script que que encontré y permite desinstalar completamente Ollama. Pasos para desinstalar Ollama: Ejecutar el Script como Administrador: Asegúrate de tener privilegios de administrador. Usa sudo para ejecutar el script. Detener Contenedores de Docker: Si Ollama se está ejecutando como un contenedor de Docker, el script lo detendrá y eliminará. Elimina la Instalación Local: Si Ollama se encuentra instalado localmente, el script detiene el servicio, deshabilita su inicio automático, elimina el archivo del servicio y el binario correspondiente. Limpieza Final: Elimina archivos restantes, usuarios y grupos asociados con Ollama. Este procedimiento asegura que Ollama se elimine completamente, permitiendo un uso óptimo de Docker sin conflictos. #!/bin/bash echo -e "${BLUE} Script de Desinstalación de Ollama${NC}"echo -e "${BLUE}-------------------------${NC}" #...]]></description>
-      <pubDate>Mon, 20 Apr 2026 15:41:00 GMT</pubDate>
-      <category><![CDATA[ollama]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/blog/posts/2026-04-20-desinstalar-ollama.html</guid>
+      <pubDate>Tue, 21 Apr 2026 18:51:00 GMT</pubDate>
+      <category><![CDATA[]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-21-desinstalar-ollama.html</guid>
     </item>
     <item>
       <title><![CDATA[Brave Origin. No más Excusas para utilizar Brave]]></title>
@@ -46,11 +46,11 @@
     </item>
     <item>
       <title><![CDATA[Actualización del Editor de Texto Micro a la Última Versión]]></title>
-      <link>https://ugeek.github.io/blog/posts/2026-01-14-actualizacion-del-editor-de-texto-micro-a-la-ultima-version.html</link>
+      <link>https://ugeek.github.io/posts/2026-01-14-actualizacion-del-editor-de-texto-micro-a-la-ultima-version.html</link>
       <description><![CDATA[Este artículo explica detalladamente el procedimiento necesario para actualizar el editor de texto Micro, asegurándose de que la instalación incluya el binario más reciente obtenido directamente desde el repositorio oficial. Descarga e Instalación del Binario Para asegurar que el editor de texto Micro esté a la última versión, es indispensable obtener el archivo binario compatible con la arquitectura del sistema directamente desde el repositorio oficial de GitHub. Paso 1: Descargar el archivo binario Se recomienda utilizar el comando wget para obtener la versión más reciente. A continuación, se muestra un ejemplo utilizando la versión 2.0.15 para la arquitectura linux-arm64: wget github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm64.tar.gz Paso 2: Descomprimir el archivo Una vez descargado, se debe utilizar el comando tar para extraer el contenido del archivo comprimido: tar -xzf micro-2.0.15-linux-arm64.tar.gz Paso 3: Ejecución de prueba Se aconseja acceder al nuevo directorio creado y ejecutar el binario directamente para confirmar que la instalación se realizó con...]]></description>
       <pubDate>Tue, 13 Jan 2026 23:00:00 GMT</pubDate>
       <category><![CDATA[micro]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/blog/posts/2026-01-14-actualizacion-del-editor-de-texto-micro-a-la-ultima-version.html</guid>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-01-14-actualizacion-del-editor-de-texto-micro-a-la-ultima-version.html</guid>
     </item>
     <item>
       <title><![CDATA[Replica de tu servidor WebDAV en tu móvil]]></title>
@@ -150,19 +150,19 @@
     </item>
     <item>
       <title><![CDATA[Docker. Merino, un servidor proxy SOCKS5 en rust]]></title>
-      <link>https://ugeek.github.io/blog/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html</link>
+      <link>https://ugeek.github.io/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html</link>
       <description><![CDATA[Merino es un servidor proxy SOCKS5 que ofrece varias características útiles. Está escrito completamente en Rust, lo que lo hace seguro y confiable. Utiliza un controlador de conexiones multihilo para manejar múltiples conexiones simultáneamente. Es ligero y eficiente en el uso de recursos, con menos del 0,6% de uso de CPU mientras se navega por la web o se transmite YouTube. Ofrece velocidades de conexión rápidas, con más de 1 Gb/segundo en una red LAN Gigabit a través de Ethernet. El registro es ajustable mediante banderas o la variable de entorno RUST_LOG. Es compatible con los métodos de autenticación SOCKS5 NoAuth y Nombre de usuario y contraseña (aunque con este método no he conseguido hacerlo funcionar). También se planea agregar compatibilidad con GSSAPI en el futuro. Ciertamente es muy ligero y tan solo me ha ocupado con un usuario 0.6Mb de RAM. Docker Compose La imagen multiarquitectura podemos descargarla desde...]]></description>
       <pubDate>Sun, 24 Mar 2024 23:00:00 GMT</pubDate>
       <category><![CDATA[socks5]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/blog/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html</guid>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html</guid>
     </item>
     <item>
       <title><![CDATA[RSS. Google News, generando Feeds de temas personalizados]]></title>
-      <link>https://ugeek.github.io/blog/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html</link>
+      <link>https://ugeek.github.io/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html</link>
       <description><![CDATA[Google News es una herramienta de agregación de noticias desarrollada por Google. Esta plataforma recopila artículos de noticias de diversas fuentes y los presenta al usuario en función de sus intereses y preferencias. Google News también permite a los usuarios crear feeds RSS personalizados para mantenerse actualizados sobre los temas que les interesan. Los feeds RSS permiten a los usuarios suscribirse a contenido actualizado de forma automática, sin tener que visitar el sitio web en cuestión. En el caso de Google News, los feeds RSS permiten a los usuarios recibir noticias actualizadas sobre los temas que les interesan, directamente en su lector de feeds RSS. Creando Feeds personalizados Para crear un feed RSS personalizado en Google News, simplemente debemos utilizar el siguiente formato: https://news.google.com/rss/search?q1es&gl2ES:es Donde QUERY es el término de búsqueda que deseamos utilizar. Por ejemplo, si queremos crear un feed RSS sobre noticias de tecnología en Estados Unidos, debemos...]]></description>
       <pubDate>Sun, 24 Mar 2024 23:00:00 GMT</pubDate>
       <category><![CDATA[rss]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/blog/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html</guid>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html</guid>
     </item>
     <item>
       <title><![CDATA[Gestionando audios y vídeos en local con AntennaPod]]></title>
