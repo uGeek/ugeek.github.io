@@ -1,5 +1,24 @@
 [
   {
+    "originalName": "Resumiendo artículos con Leo de Brave",
+    "fileName": "resumiendo-articulos-con-leo-de-brave",
+    "title": "Resumiendo artículos con Leo de Brave",
+    "description": "Resumiendo artículos con Leo de Brave Leo es un asistente de inteligencia artificial integrado Brave. Sus funciones incluyen resúmenes en tiempo real de páginas web, respuestas a preguntas sobre el contenido, generación de texto, traducción de páginas y la capacidad de mantener conversaciones. Además, garantiza la privacidad de los usuarios, ya que los chats son anónimos y seguros, sin registro de conversaciones ni necesidad de cuenta o inicio de sesión. Me parece muy interesante aprovechar esta opción gratuita que trae Brave para resumir artículos extrayendo lo esencial y eliminando el texto de relleno, centrándome directamente en los puntos más importantes. Además, puedo dictar por voz y el sistema estructura, corrige y organiza el texto, evitando redundancias. Aunque existen muchas otras funcionalidades posibles, como traducir contenido web, me he centrado principalmente en estos dos aspectos. Al abrir Leo desde la esquina inferior izquierda, aparece una barra con el carácter /, este...",
+    "date": "2026-04-23 22:14",
+    "updatedDate": "",
+    "category": "Brave",
+    "tags": [
+      "resumir",
+      "contenido",
+      "corrige",
+      "leo"
+    ],
+    "audioUrl": "",
+    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
+    "blogName": "Blog uGeek",
+    "baseUrl": "https://ugeek.github.io/"
+  },
+  {
     "originalName": "Desinstalar Ollama",
     "fileName": "desinstalar-ollama",
     "title": "Desinstalar Ollama",

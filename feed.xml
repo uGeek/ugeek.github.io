@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Resumiendo artículos con Leo de Brave]]></title>
+      <link>https://ugeek.github.io/posts/2026-04-23-resumiendo-articulos-con-leo-de-brave.html</link>
+      <description><![CDATA[Resumiendo artículos con Leo de Brave Leo es un asistente de inteligencia artificial integrado Brave. Sus funciones incluyen resúmenes en tiempo real de páginas web, respuestas a preguntas sobre el contenido, generación de texto, traducción de páginas y la capacidad de mantener conversaciones. Además, garantiza la privacidad de los usuarios, ya que los chats son anónimos y seguros, sin registro de conversaciones ni necesidad de cuenta o inicio de sesión. Me parece muy interesante aprovechar esta opción gratuita que trae Brave para resumir artículos extrayendo lo esencial y eliminando el texto de relleno, centrándome directamente en los puntos más importantes. Además, puedo dictar por voz y el sistema estructura, corrige y organiza el texto, evitando redundancias. Aunque existen muchas otras funcionalidades posibles, como traducir contenido web, me he centrado principalmente en estos dos aspectos. Al abrir Leo desde la esquina inferior izquierda, aparece una barra con el carácter /, este...]]></description>
+      <pubDate>Thu, 23 Apr 2026 20:14:00 GMT</pubDate>
+      <category><![CDATA[Brave]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-23-resumiendo-articulos-con-leo-de-brave.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Desinstalar Ollama]]></title>
       <link>https://ugeek.github.io/posts/2026-04-21-desinstalar-ollama.html</link>
       <description><![CDATA[Tenia ollama instalado en mi máquina y la desinstalación de herramientas a veces puede resultar complicada, especialmente si quedan residuos que podrían afectar otras instalaciones, como Docker. En este artículo te muestro este script que que encontré y permite desinstalar completamente Ollama. Pasos para desinstalar Ollama: Ejecutar el Script como Administrador: Asegúrate de tener privilegios de administrador. Usa sudo para ejecutar el script. Detener Contenedores de Docker: Si Ollama se está ejecutando como un contenedor de Docker, el script lo detendrá y eliminará. Elimina la Instalación Local: Si Ollama se encuentra instalado localmente, el script detiene el servicio, deshabilita su inicio automático, elimina el archivo del servicio y el binario correspondiente. Limpieza Final: Elimina archivos restantes, usuarios y grupos asociados con Ollama. Este procedimiento asegura que Ollama se elimine completamente, permitiendo un uso óptimo de Docker sin conflictos. #!/bin/bash echo -e "${BLUE} Script de Desinstalación de Ollama${NC}"echo -e "${BLUE}-------------------------${NC}" #...]]></description>
@@ -163,14 +171,6 @@
       <pubDate>Sun, 24 Mar 2024 23:00:00 GMT</pubDate>
       <category><![CDATA[rss]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html</guid>
-    </item>
-    <item>
-      <title><![CDATA[Gestionando audios y vídeos en local con AntennaPod]]></title>
-      <link>https://ugeek.github.io/posts/2024-03-19-gestionando-audios-y-videos-en-local-con-antennapod.html</link>
-      <description><![CDATA[Gestionando audios y vídeos en local con AntennaPod Post: Gestionando audios y vídeos en local con AntennaPod]]></description>
-      <pubDate>Tue, 19 Mar 2024 08:19:00 GMT</pubDate>
-      <category><![CDATA[Podcast]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2024-03-19-gestionando-audios-y-videos-en-local-con-antennapod.html</guid>
     </item>
   </channel>
 </rss>
