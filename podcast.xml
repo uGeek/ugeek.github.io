@@ -23,6 +23,17 @@
     <itunes:category text="Technology"/>
     <itunes:summary><![CDATA[Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek]]></itunes:summary>
     <item>
+      <title><![CDATA[Leo. El Asistente de Brave]]></title>
+      <link>https://ugeek.github.io/posts/2026-04-27-leo-el-asistente-de-brave.html</link>
+      <description><![CDATA[En este podcast os explico un poco cómo funciona Leo y qué posibilidades tiene para resumir, traducir páginas web, etcétera.]]></description>
+      <pubDate>Mon, 27 Apr 2026 19:38:00 GMT</pubDate>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-27-leo-el-asistente-de-brave.html</guid>
+      <enclosure url="https://anchor.fm/s/106db04/podcast/play/119132135/https%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2026-3-27%252Ff255e6f7-04a0-ac1a-312f-1e4640d65fbc.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/72265/72265-1531065990976-aa9b752299ad3.jpg"/>
+      <itunes:summary><![CDATA[En este podcast os explico un poco cómo funciona Leo y qué posibilidades tiene para resumir, traducir páginas web, etcétera.]]></itunes:summary>
+    </item>
+    <item>
       <title><![CDATA[Brave Origin. No más Excusas para utilizar Brave]]></title>
       <link>https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html</link>
       <description><![CDATA[Estamos de suerte porque el mejor navegador, que tenía esta pequeña carencia de incluir un montón de complementos innecesarios para mucha gente, ahora nos da la posibilidad de utilizarse con las características básicas. Tenemos todas las virtudes y todo lo mejor de Brave en una versión, Brave Origin.]]></description>

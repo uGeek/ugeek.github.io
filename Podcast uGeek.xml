@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/Podcast%20uGeek.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Leo. El Asistente de Brave]]></title>
+      <link>https://ugeek.github.io/posts/2026-04-27-leo-el-asistente-de-brave.html</link>
+      <description><![CDATA[En este podcast os explico un poco cómo funciona Leo y qué posibilidades tiene para resumir, traducir páginas web, etcétera.]]></description>
+      <pubDate>Mon, 27 Apr 2026 19:38:00 GMT</pubDate>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-27-leo-el-asistente-de-brave.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Brave Origin. No más Excusas para utilizar Brave]]></title>
       <link>https://ugeek.github.io/posts/2026-04-16-brave-origin-no-mas-excusas-para-utilizar-brave.html</link>
       <description><![CDATA[Estamos de suerte porque el mejor navegador, que tenía esta pequeña carencia de incluir un montón de complementos innecesarios para mucha gente, ahora nos da la posibilidad de utilizarse con las características básicas. Tenemos todas las virtudes y todo lo mejor de Brave en una versión, Brave Origin.]]></description>

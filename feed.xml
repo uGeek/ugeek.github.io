@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Leo. El Asistente de Brave]]></title>
+      <link>https://ugeek.github.io/posts/2026-04-27-leo-el-asistente-de-brave.html</link>
+      <description><![CDATA[En este podcast os explico un poco cómo funciona Leo y qué posibilidades tiene para resumir, traducir páginas web, etcétera.]]></description>
+      <pubDate>Mon, 27 Apr 2026 19:38:00 GMT</pubDate>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-04-27-leo-el-asistente-de-brave.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Resumiendo artículos con Leo de Brave]]></title>
       <link>https://ugeek.github.io/posts/2026-04-23-resumiendo-articulos-con-leo-de-brave.html</link>
       <description><![CDATA[Resumiendo artículos con Leo de Brave Leo es un asistente de inteligencia artificial integrado Brave. Sus funciones incluyen resúmenes en tiempo real de páginas web, respuestas a preguntas sobre el contenido, generación de texto, traducción de páginas y la capacidad de mantener conversaciones. Además, garantiza la privacidad de los usuarios, ya que los chats son anónimos y seguros, sin registro de conversaciones ni necesidad de cuenta o inicio de sesión. Me parece muy interesante aprovechar esta opción gratuita que trae Brave para resumir artículos extrayendo lo esencial y eliminando el texto de relleno, centrándome directamente en los puntos más importantes. Además, puedo dictar por voz y el sistema estructura, corrige y organiza el texto, evitando redundancias. Aunque existen muchas otras funcionalidades posibles, como traducir contenido web, me he centrado principalmente en estos dos aspectos. Al abrir Leo desde la esquina inferior izquierda, aparece una barra con el carácter /, este...]]></description>
@@ -163,14 +171,6 @@
       <pubDate>Sun, 24 Mar 2024 23:00:00 GMT</pubDate>
       <category><![CDATA[socks5]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html</guid>
-    </item>
-    <item>
-      <title><![CDATA[RSS. Google News, generando Feeds de temas personalizados]]></title>
-      <link>https://ugeek.github.io/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html</link>
-      <description><![CDATA[Google News es una herramienta de agregación de noticias desarrollada por Google. Esta plataforma recopila artículos de noticias de diversas fuentes y los presenta al usuario en función de sus intereses y preferencias. Google News también permite a los usuarios crear feeds RSS personalizados para mantenerse actualizados sobre los temas que les interesan. Los feeds RSS permiten a los usuarios suscribirse a contenido actualizado de forma automática, sin tener que visitar el sitio web en cuestión. En el caso de Google News, los feeds RSS permiten a los usuarios recibir noticias actualizadas sobre los temas que les interesan, directamente en su lector de feeds RSS. Creando Feeds personalizados Para crear un feed RSS personalizado en Google News, simplemente debemos utilizar el siguiente formato: https://news.google.com/rss/search?q1es&gl2ES:es Donde QUERY es el término de búsqueda que deseamos utilizar. Por ejemplo, si queremos crear un feed RSS sobre noticias de tecnología en Estados Unidos, debemos...]]></description>
-      <pubDate>Sun, 24 Mar 2024 23:00:00 GMT</pubDate>
-      <category><![CDATA[rss]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2024-03-25-rss-google-news-generando-feeds-de-temas-personalizados.html</guid>
     </item>
   </channel>
 </rss>
