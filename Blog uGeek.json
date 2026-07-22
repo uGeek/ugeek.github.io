@@ -5289,7 +5289,8 @@
     "category": "rss",
     "tags": [],
     "audioUrl": "",
-    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png"
+    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
+    "tootId": "116758630783604408"
   },
   {
     "originalName": "Resumiendo artículos con Leo de Brave",
@@ -5308,5 +5309,24 @@
     "audioUrl": "",
     "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
     "tootId": "116477707322506439"
+  },
+  {
+    "originalName": "No mostrar Shorts de YouTube en Brave",
+    "fileName": "no-mostrar-shorts-de-youtube-en-brave",
+    "title": "No mostrar Shorts de YouTube en Brave",
+    "description": "Para ocultar los Shorts de YouTube en el navegador Brave, la forma más rápida y efectiva es utilizar el bloqueador de anuncios integrado (Brave Shields) mediante un filtro personalizado.Sigue estos pasos para configurarlo:Abre la configuración: Haz clic en el menú de las tres líneas horizontales (esquina superior derecha) y selecciona Configuración.Entra en Shields: En el menú lateral izquierdo, haz clic en Shields (o Protecciones).Filtros de contenido: Desplázate hacia abajo y selecciona la opción Filtrado de contenido.Baja hasta el apartado Modo Desarrollador, habilítalo y en Crear filtros personalizados copia y pega la siguiente línea de código en el cuadro de texto:youtube.com##ytd-rich-shelf-renderer[is-shorts] CopiarGuarda los cambiosAl recargar la página de YouTube, la sección dedicada a los Shorts en la página de inicio habrá desaparecido.",
+    "date": "2026-07-22 21:30",
+    "updatedDate": "",
+    "category": "brave",
+    "tags": [
+      "youtube",
+      "shorts",
+      "shields",
+      "brave",
+      "configuración"
+    ],
+    "audioUrl": "",
+    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
+    "tootId": "116965288434069411"
   }
 ]

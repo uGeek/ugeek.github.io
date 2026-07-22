@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[No mostrar Shorts de YouTube en Brave]]></title>
+      <link>https://ugeek.github.io/posts/2026-07-22-no-mostrar-shorts-de-youtube-en-brave.html</link>
+      <description><![CDATA[Para ocultar los Shorts de YouTube en el navegador Brave, la forma más rápida y efectiva es utilizar el bloqueador de anuncios integrado (Brave Shields) mediante un filtro personalizado.Sigue estos pasos para configurarlo:Abre la configuración: Haz clic en el menú de las tres líneas horizontales (esquina superior derecha) y selecciona Configuración.Entra en Shields: En el menú lateral izquierdo, haz clic en Shields (o Protecciones).Filtros de contenido: Desplázate hacia abajo y selecciona la opción Filtrado de contenido.Baja hasta el apartado Modo Desarrollador, habilítalo y en Crear filtros personalizados copia y pega la siguiente línea de código en el cuadro de texto:youtube.com##ytd-rich-shelf-renderer[is-shorts] CopiarGuarda los cambiosAl recargar la página de YouTube, la sección dedicada a los Shorts en la página de inicio habrá desaparecido.]]></description>
+      <pubDate>Wed, 22 Jul 2026 19:30:00 GMT</pubDate>
+      <category><![CDATA[brave]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-07-22-no-mostrar-shorts-de-youtube-en-brave.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Leo. El Asistente de Brave]]></title>
       <link>https://ugeek.github.io/posts/2026-04-27-leo-el-asistente-de-brave.html</link>
       <description><![CDATA[En este podcast os explico un poco cómo funciona Leo y qué posibilidades tiene para resumir, traducir páginas web, etcétera.]]></description>
@@ -163,14 +171,6 @@
       <pubDate>Wed, 29 Jan 2025 19:36:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2025-01-29-la-que-se-esta-liando-con-la-ia.html</guid>
-    </item>
-    <item>
-      <title><![CDATA[Docker. Merino, un servidor proxy SOCKS5 en rust]]></title>
-      <link>https://ugeek.github.io/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html</link>
-      <description><![CDATA[Merino es un servidor proxy SOCKS5 que ofrece varias características útiles. Está escrito completamente en Rust, lo que lo hace seguro y confiable. Utiliza un controlador de conexiones multihilo para manejar múltiples conexiones simultáneamente. Es ligero y eficiente en el uso de recursos, con menos del 0,6% de uso de CPU mientras se navega por la web o se transmite YouTube. Ofrece velocidades de conexión rápidas, con más de 1 Gb/segundo en una red LAN Gigabit a través de Ethernet. El registro es ajustable mediante banderas o la variable de entorno RUST_LOG. Es compatible con los métodos de autenticación SOCKS5 NoAuth y Nombre de usuario y contraseña (aunque con este método no he conseguido hacerlo funcionar). También se planea agregar compatibilidad con GSSAPI en el futuro. Ciertamente es muy ligero y tan solo me ha ocupado con un usuario 0.6Mb de RAM. Docker Compose La imagen multiarquitectura podemos descargarla desde...]]></description>
-      <pubDate>Sun, 24 Mar 2024 23:00:00 GMT</pubDate>
-      <category><![CDATA[socks5]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2024-03-25-docker-merino-un-servidor-proxy-socks5-en-rust.html</guid>
     </item>
   </channel>
 </rss>
