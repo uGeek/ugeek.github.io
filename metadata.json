@@ -2262,9 +2262,15 @@
     "title": "Tunel SSH para conectar puertos remotos como si fuera local",
     "description": "En este proceso lo más importante, es tener en el directorio .ssh de tu usuario root, los archivos de configuración para acceder al servidor remoto. Piensa que para desviar los puertos remotos del servidor a nuestro PC, es necesario tener permisos de super usuario y la conexión se hará mediante el usuario root. Un truquillo si el PC es tuyo y no quieres complicarte configurando nuevamente el servidor SSH, sería copiar el directorio .ssh de tu usuario al del usuario root. En el archivo de configuración config dentro del directorio .ssh, he añadido la conexión a mi vps con el nombre vps. Ahora vamos a enlazar un puerto remoto del vps con el puerto local. El puerto local 89 lo conecto con mi vps al puerto 85.",
     "date": "2022-07-05 00:00",
-    "updatedDate": "",
+    "updatedDate": "2026-07-24",
     "category": "ssh",
-    "tags": [],
+    "tags": [
+      "ssh",
+      "vps",
+      "local",
+      "puerto",
+      "remotos"
+    ],
     "audioUrl": "",
     "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
     "tootId": "116850040846713098",
