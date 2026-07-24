@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/Blog%20uGeek.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local]]></title>
+      <link>https://ugeek.github.io/posts/2026-07-24-tunel-ssh-para-acceder-a-puertos-remotos-como-si-estuvieran-en-tu-servidor-local.html</link>
+      <description><![CDATA[Si necesitas acceder a un puerto remoto (como el de Syncthing en tu VPS) como si estuviera en tu servidor local, un túnel SSH es la solución ideal. Con este método, podrás redirigir el tráfico desde un puerto en tu VPS (por ejemplo, el puerto 8384) a un puerto en tu servidor local (como el 8385), permitiéndote acceder a él desde cualquier dispositivo conectado a tu servidor. Ejecuta el siguiente comando en tu terminal: ssh -N -f -g -L 0.0.0.0:8385:0.0.0.0:8384 vps Copiar 8384 → Puerto del servicio en el VPS.8385 → Puerto local donde se redirige el tráfico. Con este método, podrás acceder a Syncthing, bases de datos, servidores web o cualquier otro servicio remoto como si estuviera en tu red local, sin comprometer la seguridad. Explicación de los parámetros: Parámetro Descripción -N No ejecuta comandos remotos (solo crea el túnel). -f Ejecuta el túnel en segundo plano. -g Permite...]]></description>
+      <pubDate>Fri, 24 Jul 2026 19:17:00 GMT</pubDate>
+      <category><![CDATA[ssh]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-07-24-tunel-ssh-para-acceder-a-puertos-remotos-como-si-estuvieran-en-tu-servidor-local.html</guid>
+    </item>
+    <item>
       <title><![CDATA[No mostrar Shorts de YouTube en Brave]]></title>
       <link>https://ugeek.github.io/posts/2026-07-22-no-mostrar-shorts-de-youtube-en-brave.html</link>
       <description><![CDATA[Para ocultar los Shorts de YouTube en el navegador Brave, la forma más rápida y efectiva es utilizar el bloqueador de anuncios integrado (Brave Shields) mediante un filtro personalizado.Sigue estos pasos para configurarlo:Abre la configuración: Haz clic en el menú de las tres líneas horizontales (esquina superior derecha) y selecciona Configuración.Entra en Shields: En el menú lateral izquierdo, haz clic en Shields (o Protecciones).Filtros de contenido: Desplázate hacia abajo y selecciona la opción Filtrado de contenido.Baja hasta el apartado Modo Desarrollador, habilítalo y en Crear filtros personalizados copia y pega la siguiente línea de código en el cuadro de texto:youtube.com##ytd-rich-shelf-renderer[is-shorts] CopiarGuarda los cambiosAl recargar la página de YouTube, la sección dedicada a los Shorts en la página de inicio habrá desaparecido.]]></description>

@@ -5335,5 +5335,26 @@
     "audioUrl": "",
     "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
     "tootId": "116965288434069411"
+  },
+  {
+    "originalName": "Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local",
+    "fileName": "tunel-ssh-para-acceder-a-puertos-remotos-como-si-estuvieran-en-tu-servidor-local",
+    "title": "Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local",
+    "description": "Si necesitas acceder a un puerto remoto (como el de Syncthing en tu VPS) como si estuviera en tu servidor local, un túnel SSH es la solución ideal. Con este método, podrás redirigir el tráfico desde un puerto en tu VPS (por ejemplo, el puerto 8384) a un puerto en tu servidor local (como el 8385), permitiéndote acceder a él desde cualquier dispositivo conectado a tu servidor. Ejecuta el siguiente comando en tu terminal: ssh -N -f -g -L 0.0.0.0:8385:0.0.0.0:8384 vps Copiar 8384 → Puerto del servicio en el VPS.8385 → Puerto local donde se redirige el tráfico. Con este método, podrás acceder a Syncthing, bases de datos, servidores web o cualquier otro servicio remoto como si estuviera en tu red local, sin comprometer la seguridad. Explicación de los parámetros: Parámetro Descripción -N No ejecuta comandos remotos (solo crea el túnel). -f Ejecuta el túnel en segundo plano. -g Permite...",
+    "date": "2026-07-24 21:17",
+    "updatedDate": "",
+    "category": "ssh",
+    "tags": [
+      "ssh",
+      "puerto",
+      "local",
+      "servidor",
+      "vps",
+      "túnel",
+      "remoto"
+    ],
+    "audioUrl": "",
+    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
+    "tootId": ""
   }
 ]

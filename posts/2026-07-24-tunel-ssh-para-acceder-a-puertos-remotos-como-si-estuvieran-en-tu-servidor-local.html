@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://ugeek.github.io/css/stylesheet.css">
+    <link rel="alternate" type="application/rss+xml" href="https://ugeek.github.io/blog/feed.xml" title=":TITLE_BLOG:">
+    <link rel="shortcut icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" type="image/x-icon">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="32x32">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="https://ugeek.github.io/icon/ugeek-256x256.png">
+    <meta property="og:locale" content="es_ES">
+    <meta name="robots" content="index, follow">
+    <meta name="twitter:site" content="@ugeekpodcast">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="alternate" type="application/rss+xml" title="uGeek. Blog de Tecnología" href="https://ugeek.github.io/blog/feed/">
+    <meta name="author" content="Angel">
+    <meta name="description" content="Si necesitas acceder a un puerto remoto (como el de Syncthing en tu VPS) como si estuviera en tu servidor local, un túnel SSH es la solución ideal. Con este método, podrás redirigir el tráfico desde un puerto en tu VPS (por ejemplo, el puerto 8384) a un puerto en tu servidor local (como el 8385), permitiéndote acceder a él desde cualquier dispositivo conectado a tu servidor. Ejecuta el siguiente comando en tu terminal: ssh -N -f -g -L 0.0.0.0:8385:0.0.0.0:8384 vps Copiar 8384 → Puerto del servicio en el VPS.8385 → Puerto local donde se redirige el tráfico. Con este método, podrás acceder a Syncthing, bases de datos, servidores web o cualquier otro servicio remoto como si estuviera en tu red local, sin comprometer la seguridad. Explicación de los parámetros: Parámetro Descripción -N No ejecuta comandos remotos (solo crea el túnel). -f Ejecuta el túnel en segundo plano. -g Permite...">
+    <meta property="og:site_name" content="uGeek Blog">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local">
+    <meta property="og:description" content="Si necesitas acceder a un puerto remoto (como el de Syncthing en tu VPS) como si estuviera en tu servidor local, un túnel SSH es la solución ideal. Con este método, podrás redirigir el tráfico desde un puerto en tu VPS (por ejemplo, el puerto 8384) a un puerto en tu servidor local (como el 8385), permitiéndote acceder a él desde cualquier dispositivo conectado a tu servidor. Ejecuta el siguiente comando en tu terminal: ssh -N -f -g -L 0.0.0.0:8385:0.0.0.0:8384 vps Copiar 8384 → Puerto del servicio en el VPS.8385 → Puerto local donde se redirige el tráfico. Con este método, podrás acceder a Syncthing, bases de datos, servidores web o cualquier otro servicio remoto como si estuviera en tu red local, sin comprometer la seguridad. Explicación de los parámetros: Parámetro Descripción -N No ejecuta comandos remotos (solo crea el túnel). -f Ejecuta el túnel en segundo plano. -g Permite...">
+    <meta property="og:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
+    <meta property="og:url" content="tunel-ssh-para-acceder-a-puertos-remotos-como-si-estuvieran-en-tu-servidor-local">
+    <meta name="twitter:title" content="Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local">
+    <meta name="twitter:description" content="Si necesitas acceder a un puerto remoto (como el de Syncthing en tu VPS) como si estuviera en tu servidor local, un túnel SSH es la solución ideal. Con este método, podrás redirigir el tráfico desde un puerto en tu VPS (por ejemplo, el puerto 8384) a un puerto en tu servidor local (como el 8385), permitiéndote acceder a él desde cualquier dispositivo conectado a tu servidor. Ejecuta el siguiente comando en tu terminal: ssh -N -f -g -L 0.0.0.0:8385:0.0.0.0:8384 vps Copiar 8384 → Puerto del servicio en el VPS.8385 → Puerto local donde se redirige el tráfico. Con este método, podrás acceder a Syncthing, bases de datos, servidores web o cualquier otro servicio remoto como si estuviera en tu red local, sin comprometer la seguridad. Explicación de los parámetros: Parámetro Descripción -N No ejecuta comandos remotos (solo crea el túnel). -f Ejecuta el túnel en segundo plano. -g Permite...">
+    <meta name="twitter:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.1/purify.min.js" integrity="sha512-uHOKtSfJWScGmyyFr2O2+efpDx2nhwHU2v7MVeptzZoiC7bdF6Ny/CmZhN2AwIK1oCFiVQQ5DA/L9FSzyPNu6Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<div id="logo"><a href="https://ugeek.github.io"><img src="https://ugeek.github.io/icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
+<br><br><br><br><br><br><br>
+<script src="../js/main.js"></script>
+<script src="../js/search.js"></script>
+<script type="module" src="../js/mastodon-comments.js"></script>
+
+<div id="name"><a href="https://ugeek.github.io/"><tt>Blog del Podcast</tt></div></a> <div id="icon"> <a href="https://ugeek.github.io/podcast.xml" title="rss" alt="rss"><img src="https://ugeek.github.io/icon/podcast.svg" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/feed.xml" alt="rss"><img src="https://ugeek.github.io/icon/rss.svg" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="https://ugeek.github.io/icon/github.svg" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="https://ugeek.github.io/icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://mastodon.social/@ugeek"><img src="https://ugeek.github.io/icon/mastodon.svg" width="25" height="25" alt="Mastodon"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="https://ugeek.github.io/icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/blog/tag.html"><tt>Tags</tt></a></div>
+
+
+<!-- SEARCH BOX -->
+<input type="text" name="q" placeholder="buscar..." id="tipue_search_input" required> 
+<div align="center" id="tipue_search_content"></div> 
+
+<h1>Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local</h1><div style="font-size:0.9em;color:#666;display:flex;align-items:center;margin-bottom:1em;"><span>Lectura: 2 min. 274 palabras. <a href="../categories/ssh.html">ssh</a></span> 
+        <button onclick="toggleWdBlogTTS(this)" title="Escuchar artículo" style="background:none;border:none;cursor:pointer;color:inherit;padding:0;display:flex;align-items:center;margin-left:8px;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg>
+        </button>
+        </div>
+<p>Si necesitas acceder a un puerto remoto (como el de Syncthing en tu VPS) como si estuviera en tu servidor local, un túnel SSH es la solución ideal. Con este método, podrás redirigir el tráfico desde un puerto en tu VPS (por ejemplo, el puerto 8384) a un puerto en tu servidor local (como el 8385), permitiéndote acceder a él desde cualquier dispositivo conectado a tu servidor.</p>
+<p>Ejecuta el siguiente comando en tu terminal:</p>
+<pre><code data-highlighted="yes" class="hljs language-undefined">ssh -N -f -g -L 0.0.0.0:8385:0.0.0.0:8384 vps
+</code></pre>
+<p>8384 → Puerto del servicio en el VPS.<br>8385 → Puerto local donde se redirige el tráfico.</p><p><br></p>
+<p>Con este método, podrás acceder a Syncthing, bases de datos, servidores web o cualquier otro servicio remoto como si estuviera en tu red local, sin comprometer la seguridad.</p>
+<p><br></p><p>Explicación de los parámetros:</p>
+<table>
+<thead>
+<tr>
+<th>Parámetro</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>-N</code></td>
+<td>No ejecuta comandos remotos (solo crea el túnel).</td>
+</tr>
+<tr>
+<td><code>-f</code></td>
+<td>Ejecuta el túnel en segundo plano.</td>
+</tr>
+<tr>
+<td><code>-g</code></td>
+<td>Permite que otros dispositivos en la red accedan al túnel (útil si quieres que otros usuarios de tu red local lo usen).</td>
+</tr>
+<tr>
+<td><code>-L</code></td>
+<td>Local Port Forwarding: Redirige el tráfico del puerto local al remoto.</td>
+</tr>
+<tr>
+<td><code>0.0.0.0:8385</code></td>
+<td>Puerto 8385 en tu servidor local (escucha en todas las interfaces).</td>
+</tr>
+<tr>
+<td><code>0.0.0.0:8384</code></td>
+<td>Puerto 8384 en el VPS (servicio que quieres redirigir).</td>
+</tr>
+<tr>
+<td><code>vps</code></td>
+<td>Alias configurado en <code>~/.ssh/config</code> o <code>usuario@ip</code>.</td>
+</tr>
+</tbody></table>
+<h2>Configurar el Alias en el Archivo <code>~/.ssh/config</code> (Opcional pero Recomendado)</h2>
+<p>Si usas frecuentemente el mismo servidor, puedes agregar un alias en tu archivo de configuración SSH para simplificar el comando:</p>
+<pre><code data-highlighted="yes" class="hljs language-bash">nano ~/.ssh/config
+</code></pre>
+<p>Agrega la siguiente línea (reemplaza <code>vps</code> con el nombre que prefieras):</p>
+<pre><code data-highlighted="yes" class="hljs language-php-template"><span class="language-xml">Host vps HostName <span class="hljs-tag">&lt;<span class="hljs-name">IP_o_Dominio_del_VPS</span>&gt;</span> User <span class="hljs-tag">&lt;<span class="hljs-name">tu_usuario</span>&gt;</span>
+</span></code></pre>
+        <script>
+        let wdblogTtsSpeaking = false;
+        function toggleWdBlogTTS(btn) {
+          if (!('speechSynthesis' in window)) return alert('Tu navegador no soporta Text-to-Speech.');
+          if (wdblogTtsSpeaking) {
+            window.speechSynthesis.cancel();
+            wdblogTtsSpeaking = false;
+            btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+            return;
+          }
+          const clone = document.body.cloneNode(true);
+          clone.querySelectorAll('pre, code, nav, header, footer, script, style, .related-posts').forEach(e => e.remove());
+          const text = clone.textContent;
+          const u = new SpeechSynthesisUtterance(text);
+          u.lang = 'es-ES';
+          u.onend = () => { 
+            wdblogTtsSpeaking = false; 
+            btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>'; 
+          };
+          window.speechSynthesis.speak(u);
+          wdblogTtsSpeaking = true;
+          btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
+        }
+        </script>
+        <br><div class="related-posts"><h3>También te puede interesar:</h3><ul><li><em>2023-07-17</em> - <a href="../posts/2023-07-17-ssh-solucionar-el-problema-de-conexion-warning-remote-host-identification-has-changed.html">SSH. Solucionar el problema de conexión WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!</a></li><li><em>2023-05-06</em> - <a href="../posts/2023-05-06-ssh-eliminar-la-clave-del-host-en-un-servidor-remoto.html">SSH. Eliminar la clave del host en un servidor remoto</a></li><li><em>2023-01-11</em> - <a href="../posts/2023-01-11-enviar-llave-publica-al-servidor-ssh.html">Enviar llave pública al servidor SSH</a></li><li><em>2022-12-31</em> - <a href="../posts/2022-12-31-servidor-ssh-en-manjaro.html">Servidor SSH en Manjaro</a></li><li><em>2022-07-05</em> - <a href="../posts/2022-07-05-tunel-ssh-para-conectar-puertos-remotos-como-si-fuera-local.html">Tunel SSH para conectar puertos remotos como si fuera local</a></li><li><em>2022-02-15</em> - <a href="../posts/2022-02-15-enviar-clave-ssh-al-servidor-para-no-utilizar-la-contrasena.html">Enviar clave SSH al servidor, para no utilizar la contraseña</a></li><li><em>2021-04-01</em> - <a href="../posts/2021-04-01-scp-copias-por-ssh.html">SCP. Copias por SSH</a></li><li><em>2021-02-06</em> - <a href="../posts/2021-02-06-docker-servidor-ssh-para-conectarte-por-sftp.html">Docker. Servidor SSH para conectarte por SFTP</a></li><li><em>2019-12-11</em> - <a href="../posts/2019-12-11-instalando-ssh-en-fedora-centos-o-redhat.html">Instalando SSH en Fedora, Centos o RedHat</a></li><li><em>2019-11-09</em> - <a href="../posts/2019-11-09-simplifica-o-abrevia-tus-conexiones-ssh.html">Simplifica o abrevia tus conexiones SSH</a></li></ul></div><br><br><br><p>Publicado el viernes, 24 de julio de 2026</p><br><br><br><p style="text-align: center;">Powered by <a href="https://github.com/ugeek/wdblog" target="_blank" rel="noopener">wdblog</a></p><p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>
