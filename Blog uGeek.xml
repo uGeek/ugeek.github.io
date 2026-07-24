@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/Blog%20uGeek.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[TigerVNC Arranque automático al incio 2026]]></title>
+      <link>https://ugeek.github.io/posts/2026-07-24-tigervnc-arranque-automatico-al-incio-2026.html</link>
+      <description><![CDATA[Si necesitas que tu servidor TigerVNC se inicie automáticamente al arrancar el sistema o al iniciar sesión, puedes configurarlo como un servicio de usuario en Systemd. A diferencia de los servicios del sistema (que requieren sudo), este método ejecuta el servidor VNC bajo tu usuario, con los permisos adecuados para acceder a tus archivos y recursos.Crea el archivo de servicioCrea la carpeta donde se guardan los servicios de usuario y abre el editor para crear el archivo de configuración del servicio VNC.mkdir -p ~/.config/systemd/user/ ; nano ~/.config/systemd/user/vncserver.service CopiarPega este contenido, si el usuario es :1[Unit] Description=Servidor VNC After=network.target [Service] Type=simple ExecStartPre=/bin/sh -c '/usr/bin/vncserver -kill :1 > /dev/null 2>&1 || true' # Ejecución con la sintaxis corregida ExecStart=/usr/bin/vncserver :1 Restart=on-failure RestartSec=5 [Install] WantedBy=default.target CopiarHabilita el serviciosystemctl --user daemon-reload ; systemctl --user enable vncserver.serviceCopiar]]></description>
+      <pubDate>Fri, 24 Jul 2026 20:56:00 GMT</pubDate>
+      <category><![CDATA[vnc]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-07-24-tigervnc-arranque-automatico-al-incio-2026.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Túnel SSH para Acceder a Puertos Remotos como si Estuvieran en tu Servidor Local]]></title>
       <link>https://ugeek.github.io/posts/2026-07-24-tunel-ssh-para-acceder-a-puertos-remotos-como-si-estuvieran-en-tu-servidor-local.html</link>
       <description><![CDATA[Si necesitas acceder a un puerto remoto (como el de Syncthing en tu VPS) como si estuviera en tu servidor local, un túnel SSH es la solución ideal. Con este método, podrás redirigir el tráfico desde un puerto en tu VPS (por ejemplo, el puerto 8384) a un puerto en tu servidor local (como el 8385), permitiéndote acceder a él desde cualquier dispositivo conectado a tu servidor. Ejecuta el siguiente comando en tu terminal: ssh -N -f -g -L 0.0.0.0:8385:0.0.0.0:8384 vps Copiar 8384 → Puerto del servicio en el VPS.8385 → Puerto local donde se redirige el tráfico. Con este método, podrás acceder a Syncthing, bases de datos, servidores web o cualquier otro servicio remoto como si estuviera en tu red local, sin comprometer la seguridad. Explicación de los parámetros: Parámetro Descripción -N No ejecuta comandos remotos (solo crea el túnel). -f Ejecuta el túnel en segundo plano. -g Permite...]]></description>
