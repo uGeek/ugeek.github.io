@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TigerVNC Arranque automático al incio 2026</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://ugeek.github.io/css/stylesheet.css">
+    <link rel="alternate" type="application/rss+xml" href="https://ugeek.github.io/blog/feed.xml" title=":TITLE_BLOG:">
+    <link rel="shortcut icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" type="image/x-icon">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="32x32">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="https://ugeek.github.io/icon/ugeek-256x256.png">
+    <meta property="og:locale" content="es_ES">
+    <meta name="robots" content="index, follow">
+    <meta name="twitter:site" content="@ugeekpodcast">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="alternate" type="application/rss+xml" title="uGeek. Blog de Tecnología" href="https://ugeek.github.io/blog/feed/">
+    <meta name="author" content="Angel">
+    <meta name="description" content="Si necesitas que tu servidor TigerVNC se inicie automáticamente al arrancar el sistema o al iniciar sesión, puedes configurarlo como un servicio de usuario en Systemd. A diferencia de los servicios del sistema (que requieren sudo), este método ejecuta el servidor VNC bajo tu usuario, con los permisos adecuados para acceder a tus archivos y recursos.Crea el archivo de servicioCrea la carpeta donde se guardan los servicios de usuario y abre el editor para crear el archivo de configuración del servicio VNC.mkdir -p ~/.config/systemd/user/ ; nano ~/.config/systemd/user/vncserver.service CopiarPega este contenido, si el usuario es :1[Unit] Description=Servidor VNC After=network.target [Service] Type=simple ExecStartPre=/bin/sh -c '/usr/bin/vncserver -kill :1 > /dev/null 2>&1 || true' # Ejecución con la sintaxis corregida ExecStart=/usr/bin/vncserver :1 Restart=on-failure RestartSec=5 [Install] WantedBy=default.target CopiarHabilita el serviciosystemctl --user daemon-reload ; systemctl --user enable vncserver.serviceCopiar">
+    <meta property="og:site_name" content="uGeek Blog">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="TigerVNC Arranque automático al incio 2026">
+    <meta property="og:description" content="Si necesitas que tu servidor TigerVNC se inicie automáticamente al arrancar el sistema o al iniciar sesión, puedes configurarlo como un servicio de usuario en Systemd. A diferencia de los servicios del sistema (que requieren sudo), este método ejecuta el servidor VNC bajo tu usuario, con los permisos adecuados para acceder a tus archivos y recursos.Crea el archivo de servicioCrea la carpeta donde se guardan los servicios de usuario y abre el editor para crear el archivo de configuración del servicio VNC.mkdir -p ~/.config/systemd/user/ ; nano ~/.config/systemd/user/vncserver.service CopiarPega este contenido, si el usuario es :1[Unit] Description=Servidor VNC After=network.target [Service] Type=simple ExecStartPre=/bin/sh -c '/usr/bin/vncserver -kill :1 > /dev/null 2>&1 || true' # Ejecución con la sintaxis corregida ExecStart=/usr/bin/vncserver :1 Restart=on-failure RestartSec=5 [Install] WantedBy=default.target CopiarHabilita el serviciosystemctl --user daemon-reload ; systemctl --user enable vncserver.serviceCopiar">
+    <meta property="og:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
+    <meta property="og:url" content="tigervnc-arranque-automatico-al-incio-2026">
+    <meta name="twitter:title" content="TigerVNC Arranque automático al incio 2026">
+    <meta name="twitter:description" content="Si necesitas que tu servidor TigerVNC se inicie automáticamente al arrancar el sistema o al iniciar sesión, puedes configurarlo como un servicio de usuario en Systemd. A diferencia de los servicios del sistema (que requieren sudo), este método ejecuta el servidor VNC bajo tu usuario, con los permisos adecuados para acceder a tus archivos y recursos.Crea el archivo de servicioCrea la carpeta donde se guardan los servicios de usuario y abre el editor para crear el archivo de configuración del servicio VNC.mkdir -p ~/.config/systemd/user/ ; nano ~/.config/systemd/user/vncserver.service CopiarPega este contenido, si el usuario es :1[Unit] Description=Servidor VNC After=network.target [Service] Type=simple ExecStartPre=/bin/sh -c '/usr/bin/vncserver -kill :1 > /dev/null 2>&1 || true' # Ejecución con la sintaxis corregida ExecStart=/usr/bin/vncserver :1 Restart=on-failure RestartSec=5 [Install] WantedBy=default.target CopiarHabilita el serviciosystemctl --user daemon-reload ; systemctl --user enable vncserver.serviceCopiar">
+    <meta name="twitter:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.1/purify.min.js" integrity="sha512-uHOKtSfJWScGmyyFr2O2+efpDx2nhwHU2v7MVeptzZoiC7bdF6Ny/CmZhN2AwIK1oCFiVQQ5DA/L9FSzyPNu6Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<div id="logo"><a href="https://ugeek.github.io"><img src="https://ugeek.github.io/icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
+<br><br><br><br><br><br><br>
+<script src="../js/main.js"></script>
+<script src="../js/search.js"></script>
+<script type="module" src="../js/mastodon-comments.js"></script>
+
+<div id="name"><a href="https://ugeek.github.io/"><tt>Blog del Podcast</tt></div></a> <div id="icon"> <a href="https://ugeek.github.io/podcast.xml" title="rss" alt="rss"><img src="https://ugeek.github.io/icon/podcast.svg" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/feed.xml" alt="rss"><img src="https://ugeek.github.io/icon/rss.svg" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="https://ugeek.github.io/icon/github.svg" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="https://ugeek.github.io/icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://mastodon.social/@ugeek"><img src="https://ugeek.github.io/icon/mastodon.svg" width="25" height="25" alt="Mastodon"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="https://ugeek.github.io/icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/blog/tag.html"><tt>Tags</tt></a></div>
+
+
+<!-- SEARCH BOX -->
+<input type="text" name="q" placeholder="buscar..." id="tipue_search_input" required> 
+<div align="center" id="tipue_search_content"></div> 
+
+<h1 id="toc-header-1784926506509-0"><span style="font-size: 2.1rem; letter-spacing: -0.035em;">TigerVNC Arranque automático al incio (2026)</span></h1><div style="font-size:0.9em;color:#666;display:flex;align-items:center;margin-bottom:1em;"><span>Lectura: 1 min. 140 palabras. <a href="../categories/vnc.html">vnc</a></span> 
+        <button onclick="toggleWdBlogTTS(this)" title="Escuchar artículo" style="background:none;border:none;cursor:pointer;color:inherit;padding:0;display:flex;align-items:center;margin-left:8px;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg>
+        </button>
+        </div><p style="font-size: 16.1px; letter-spacing: -0.161px;" class="">Si necesitas que tu servidor TigerVNC se inicie automáticamente al arrancar el sistema o al iniciar sesión, puedes configurarlo como un servicio de usuario en Systemd. A diferencia de los servicios del sistema (que requieren <code style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; color: rgb(16, 185, 129);">sudo</code>), este método ejecuta el servidor VNC bajo tu usuario, con los permisos adecuados para acceder a tus archivos y recursos.</p><h2 id="toc-header-1784926365396-1" style="color: rgb(241, 245, 249);" class="">Crea el archivo de servicio</h2><p style="font-size: 16.1px; letter-spacing: -0.161px;" class="">Crea la carpeta donde se guardan los servicios de usuario y abre el editor para crear el archivo de configuración del servicio VNC.</p><pre style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; border: 1px solid rgb(71, 85, 105);"><code style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; color: rgb(16, 185, 129);" data-highlighted="yes" class="hljs language-ruby">mkdir -p ~<span class="hljs-regexp">/.config/systemd</span><span class="hljs-regexp">/user/</span> ; nano ~<span class="hljs-regexp">/.config/systemd</span><span class="hljs-regexp">/user/vncserver</span>.service
+</code></pre><p style="font-size: 16.1px; letter-spacing: -0.161px;" class="">Pega este contenido, si el usuario es :1</p><pre style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; border: 1px solid rgb(71, 85, 105);"><code style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; color: rgb(16, 185, 129);" data-highlighted="yes" class="hljs language-ini"><span class="hljs-section">[Unit]</span>
+<span class="hljs-attr">Description</span>=Servidor VNC
+<span class="hljs-attr">After</span>=network.target
+
+<span class="hljs-section">[Service]</span>
+<span class="hljs-attr">Type</span>=simple
+<span class="hljs-comment"># Limpieza previa</span>
+<span class="hljs-attr">ExecStartPre</span>=/bin/sh -c <span class="hljs-string">'/usr/bin/vncserver -kill :1 &gt; /dev/null 2&gt;&amp;1 || true'</span>
+<span class="hljs-comment"># Ejecución con la sintaxis corregida</span>
+<span class="hljs-attr">ExecStart</span>=/usr/bin/vncserver :<span class="hljs-number">1</span>
+<span class="hljs-attr">Restart</span>=<span class="hljs-literal">on</span>-failure
+<span class="hljs-attr">RestartSec</span>=<span class="hljs-number">5</span>
+
+<span class="hljs-section">[Install]</span>
+<span class="hljs-attr">WantedBy</span>=default.target
+</code></pre><h2 id="toc-header-1784926365396-2" style="color: rgb(241, 245, 249);" class="">Habilitar el servicio</h2><pre style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; border: 1px solid rgb(71, 85, 105);"><code style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; color: rgb(16, 185, 129);" data-highlighted="yes" class="hljs language-css">systemctl <span class="hljs-attr">--user</span> daemon-reload ; systemctl <span class="hljs-attr">--user</span> enable vncserver<span class="hljs-selector-class">.service</span></code></pre>
+        <script>
+        let wdblogTtsSpeaking = false;
+        function toggleWdBlogTTS(btn) {
+          if (!('speechSynthesis' in window)) return alert('Tu navegador no soporta Text-to-Speech.');
+          if (wdblogTtsSpeaking) {
+            window.speechSynthesis.cancel();
+            wdblogTtsSpeaking = false;
+            btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+            return;
+          }
+          const clone = document.body.cloneNode(true);
+          clone.querySelectorAll('pre, code, nav, header, footer, script, style, .related-posts').forEach(e => e.remove());
+          const text = clone.textContent;
+          const u = new SpeechSynthesisUtterance(text);
+          u.lang = 'es-ES';
+          u.onend = () => { 
+            wdblogTtsSpeaking = false; 
+            btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>'; 
+          };
+          window.speechSynthesis.speak(u);
+          wdblogTtsSpeaking = true;
+          btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
+        }
+        </script>
+        <br><div class="related-posts"><h3>También te puede interesar:</h3><ul><li><em>2023-01-06</em> - <a href="../posts/2023-01-06-tigervnc-servidor-vnc-en-manjaro.html">TigerVNC. Servidor VNC en Manjaro</a></li><li><em>2022-07-10</em> - <a href="../posts/2022-07-10-tigervnc-el-cliente-vnc-mas-liviano.html">TigerVNC. El cliente vnc más liviano</a></li><li><em>2022-07-06</em> - <a href="../posts/2022-07-06-vinagre-cliente-vnc-para-linux.html">Vinagre. Cliente VNC para Linux</a></li><li><em>2021-11-01</em> - <a href="../posts/2021-11-01-instalar-realvnc-en-ubuntu-con-appimage.html">Instalar RealVNC en Ubuntu con AppImage</a></li><li><em>2019-12-18</em> - <a href="../posts/2019-12-18-remmina-de-los-mejores-clientes-vnc.html">Remmina. De los mejores Clientes VNC</a></li></ul></div><br><br>
+<br>
+<h2>Comentarios en Mastodon</h2>
+<mastodon-comments host="mastodon.social" user="ugeek" tootid="116977714507813270" style="width : 1024px"></mastodon-comments>
+<br><p>Publicado el sábado, 25 de julio de 2026</p><br><br><br><p style="text-align: center;">Powered by <a href="https://github.com/ugeek/wdblog" target="_blank" rel="noopener">wdblog</a></p><p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>

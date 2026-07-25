@@ -4,7 +4,7 @@
     "fileName": "tigervnc-arranque-automatico-al-incio-2026",
     "title": "TigerVNC Arranque automático al incio 2026",
     "description": "Si necesitas que tu servidor TigerVNC se inicie automáticamente al arrancar el sistema o al iniciar sesión, puedes configurarlo como un servicio de usuario en Systemd. A diferencia de los servicios del sistema (que requieren sudo), este método ejecuta el servidor VNC bajo tu usuario, con los permisos adecuados para acceder a tus archivos y recursos.Crea el archivo de servicioCrea la carpeta donde se guardan los servicios de usuario y abre el editor para crear el archivo de configuración del servicio VNC.mkdir -p ~/.config/systemd/user/ ; nano ~/.config/systemd/user/vncserver.service CopiarPega este contenido, si el usuario es :1[Unit] Description=Servidor VNC After=network.target [Service] Type=simple ExecStartPre=/bin/sh -c '/usr/bin/vncserver -kill :1 > /dev/null 2>&1 || true' # Ejecución con la sintaxis corregida ExecStart=/usr/bin/vncserver :1 Restart=on-failure RestartSec=5 [Install] WantedBy=default.target CopiarHabilita el serviciosystemctl --user daemon-reload ; systemctl --user enable vncserver.serviceCopiar",
-    "date": "2026-07-24 22:56",
+    "date": "2026-07-25 10:00",
     "updatedDate": "",
     "category": "vnc",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "audioUrl": "",
     "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
-    "tootId": "",
+    "tootId": "116977714507813270",
     "blogName": "Blog uGeek",
     "baseUrl": "https://ugeek.github.io/"
   },
