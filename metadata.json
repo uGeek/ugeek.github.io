@@ -1,5 +1,25 @@
 [
   {
+    "originalName": "Qwen3-TTS Un TTS con voz emocional y de baja latencia",
+    "fileName": "qwen3-tts-un-tts-con-voz-emocional-y-de-baja-latencia",
+    "title": "Qwen3-TTS Un TTS con voz emocional y de baja latencia",
+    "description": "El modelo Qwen3-TTS-12Hz-0.6B-Base es un sistema de conversión de texto a voz diseñado para funcionar 100% en local, permitiendo la clonación de voz con solo tres segundos de audio de referencia. Utiliza un proceso de generación de audio a 12 Hz para replicar timbres exactos en diez idiomas distintos de manera fluida y natural. Al operar sin conexión, esta herramienta garantiza privacidad absoluta al no enviar datos a la nube y ofrece una velocidad de procesamiento inmediata. Su capacidad políglota y su funcionamiento fuera de línea lo convierten en una solución segura y versátil para la generación de contenido hablado. La verdad es que su calidad de audio me ha impresionado, así que os recomiendo probalo. Instalación Clonamos repositorio de GitHub. cd git clone -b qwen3-tts-sample https://github.com/john-rocky/litert-samples.git cd litert-samples/compiled_model_api/text_to_speech_lm/pythonpip install ml_dtypes pip install -r requirements.txt Copiar Ya estaría Listo para utilizar Ejemplo de audio Desde la ruta ~/litert-samples/compiled_model_api/text_to_speech_lm/pythonpip install ml_dtypes...",
+    "date": "2026-07-27 01:29",
+    "updatedDate": "",
+    "category": "tts",
+    "tags": [
+      "voz",
+      "tts",
+      "qwen3",
+      "model"
+    ],
+    "audioUrl": "",
+    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
+    "tootId": "116988876246470040",
+    "blogName": "Blog uGeek",
+    "baseUrl": "https://ugeek.github.io/"
+  },
+  {
     "originalName": "Captura de Pantalla con Scrot",
     "fileName": "captura-de-pantalla-con-scrot",
     "title": "Captura de Pantalla con Scrot",

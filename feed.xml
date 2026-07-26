@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Qwen3-TTS Un TTS con voz emocional y de baja latencia]]></title>
+      <link>https://ugeek.github.io/posts/2026-07-27-qwen3-tts-un-tts-con-voz-emocional-y-de-baja-latencia.html</link>
+      <description><![CDATA[El modelo Qwen3-TTS-12Hz-0.6B-Base es un sistema de conversión de texto a voz diseñado para funcionar 100% en local, permitiendo la clonación de voz con solo tres segundos de audio de referencia. Utiliza un proceso de generación de audio a 12 Hz para replicar timbres exactos en diez idiomas distintos de manera fluida y natural. Al operar sin conexión, esta herramienta garantiza privacidad absoluta al no enviar datos a la nube y ofrece una velocidad de procesamiento inmediata. Su capacidad políglota y su funcionamiento fuera de línea lo convierten en una solución segura y versátil para la generación de contenido hablado. La verdad es que su calidad de audio me ha impresionado, así que os recomiendo probalo. Instalación Clonamos repositorio de GitHub. cd git clone -b qwen3-tts-sample https://github.com/john-rocky/litert-samples.git cd litert-samples/compiled_model_api/text_to_speech_lm/pythonpip install ml_dtypes pip install -r requirements.txt Copiar Ya estaría Listo para utilizar Ejemplo de audio Desde la ruta ~/litert-samples/compiled_model_api/text_to_speech_lm/pythonpip install ml_dtypes...]]></description>
+      <pubDate>Sun, 26 Jul 2026 23:29:00 GMT</pubDate>
+      <category><![CDATA[tts]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-07-27-qwen3-tts-un-tts-con-voz-emocional-y-de-baja-latencia.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Captura de Pantalla con Scrot]]></title>
       <link>https://ugeek.github.io/posts/2026-07-26-captura-de-pantalla-con-scrot.html</link>
       <description><![CDATA[Introducción Scrot es un programa que toma fotos de tu pantalla Cuando usas una computadora, a veces quieres guardar lo que ves en la pantalla. Scrot es un programa muy rápido, pequeño y ligero que hace exactamente eso, capturar toda la pantalla, solo una ventana, o solo una parte que tú selecciones con el ratón. Ideal para integrar en tu escritorio. Instalación Arch Linux Desde los repositorios oficiales. sudo pacman -S scrot xclip Copiar Nota: Se instala también xclip porque es la herramienta que permitirá copiar la captura directamente al portapapeles en lugar de (o además de) guardarla como archivo. En Debian (y derivados como Ubuntu, Mint) En Debian, scrot se encuentra en los repositorios main: sudo apt update && sudo apt install scrot xclip Copiar Esto instalará tanto scrot como xclip desde los repositorios estables de la distribución. Comandos básicos de Scrot Antes de pasar a la configuración de...]]></description>
@@ -163,14 +171,6 @@
       <pubDate>Mon, 17 Feb 2025 10:07:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2025-02-17-brave-duck-duck-go.html</guid>
-    </item>
-    <item>
-      <title><![CDATA[Ollama en Raspberry o vps, Mistral, ...]]></title>
-      <link>https://ugeek.github.io/posts/2025-02-14-ollama-en-raspberry-o-vps-mistral.html</link>
-      <description><![CDATA[Ollama en Raspberry o vps, Mistral, ... Post: Ollama en Raspberry o vps, Mistral, ...]]></description>
-      <pubDate>Fri, 14 Feb 2025 08:05:00 GMT</pubDate>
-      <category><![CDATA[Podcast]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2025-02-14-ollama-en-raspberry-o-vps-mistral.html</guid>
     </item>
   </channel>
 </rss>
