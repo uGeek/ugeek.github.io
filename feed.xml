@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Captura de Pantalla con Scrot]]></title>
+      <link>https://ugeek.github.io/posts/2026-07-26-captura-de-pantalla-con-scrot.html</link>
+      <description><![CDATA[]]></description>
+      <pubDate>Sun, 26 Jul 2026 11:31:00 GMT</pubDate>
+      <category><![CDATA[]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-07-26-captura-de-pantalla-con-scrot.html</guid>
+    </item>
+    <item>
       <title><![CDATA[TigerVNC Arranque automático al incio 2026]]></title>
       <link>https://ugeek.github.io/posts/2026-07-25-tigervnc-arranque-automatico-al-incio-2026.html</link>
       <description><![CDATA[Si necesitas que tu servidor TigerVNC se inicie automáticamente al arrancar el sistema o al iniciar sesión, puedes configurarlo como un servicio de usuario en Systemd. A diferencia de los servicios del sistema (que requieren sudo), este método ejecuta el servidor VNC bajo tu usuario, con los permisos adecuados para acceder a tus archivos y recursos.Crea el archivo de servicioCrea la carpeta donde se guardan los servicios de usuario y abre el editor para crear el archivo de configuración del servicio VNC.mkdir -p ~/.config/systemd/user/ ; nano ~/.config/systemd/user/vncserver.service CopiarPega este contenido, si el usuario es :1[Unit] Description=Servidor VNC After=network.target [Service] Type=simple ExecStartPre=/bin/sh -c '/usr/bin/vncserver -kill :1 > /dev/null 2>&1 || true' # Ejecución con la sintaxis corregida ExecStart=/usr/bin/vncserver :1 Restart=on-failure RestartSec=5 [Install] WantedBy=default.target CopiarHabilita el serviciosystemctl --user daemon-reload ; systemctl --user enable vncserver.serviceCopiar]]></description>
@@ -163,14 +171,6 @@
       <pubDate>Fri, 14 Feb 2025 08:05:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2025-02-14-ollama-en-raspberry-o-vps-mistral.html</guid>
-    </item>
-    <item>
-      <title><![CDATA[Fallos en cadena]]></title>
-      <link>https://ugeek.github.io/posts/2025-02-13-fallos-en-cadena.html</link>
-      <description><![CDATA[Fallos en cadena Post: Fallos en cadena]]></description>
-      <pubDate>Thu, 13 Feb 2025 06:30:00 GMT</pubDate>
-      <category><![CDATA[Podcast]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2025-02-13-fallos-en-cadena.html</guid>
     </item>
   </channel>
 </rss>
