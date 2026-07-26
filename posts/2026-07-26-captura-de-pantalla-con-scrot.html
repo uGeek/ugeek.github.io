@@ -102,19 +102,20 @@
 <h2>Integración con i3wm</h2>
 <p>i3wm permite definir atajos de teclado (<em>keybindings</em>) mediante la directiva&nbsp;<code>bindsym</code>&nbsp;en su archivo de configuración. El archivo de configuración se encuentra típicamente en <code>~/.config/i3/config</code></p>
 <h4>Atajo básico: captura de región al portapapeles</h4>
-<pre><code data-highlighted="yes" class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">CAPTURA DE PANTALLA bindsym Print <span class="hljs-built_in">exec</span> scrot -s - | xclip -selection clipboard -t image/png</span>
-</code></pre>
+<pre><code data-highlighted="yes" class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">CAPTURA DE PANTALLA </span></code><code data-highlighted="yes" class="hljs language-shell"><span style="font-size: 1em;">bindsym Print </span><span class="hljs-built_in" style="font-size: 1em;">exec</span><span style="font-size: 1em;"> scrot -s - | xclip -selection clipboard -t image/png</span></code></pre>
 <h4>Atajo básico: captura de región al portapapeles y guardalo en una archivo en ~/Imágenes/Capturas/</h4>
 <pre><code data-highlighted="yes" class="hljs language-bash"><span class="hljs-comment"># Captura de región seleccionada → archivo guardado</span>
 bindsym <span class="hljs-variable">$mod</span>+Print <span class="hljs-built_in">exec</span> scrot -s <span class="hljs-string">'%Y-%m-%d_%H%M%S_scrot.png'</span> -e <span class="hljs-string">'mv $f ~/Imágenes/Capturas/'</span>
 </code></pre>
 <h4>Otras opciones</h4>
 <p>Pantalla Completa</p>
-<pre><code data-highlighted="yes" class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">Captura de pantalla completa → portapapelesbindsym <span class="hljs-variable">$mod</span>+Print <span class="hljs-built_in">exec</span> scrot - | xclip -selection clipboard -t image/png</span>
+<pre><code data-highlighted="yes" class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">Captura de pantalla completa → portapapeles</span></code><code data-highlighted="yes" class="hljs language-shell"><span class="language-bash">bindsym <span class="hljs-variable">$mod</span>+Print <span class="hljs-built_in">exec</span> scrot - | xclip -selection clipboard -t image/png</span>
 </code></pre>
 <p>Captura de Ventana</p>
-<pre><code data-highlighted="yes" class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">Captura de ventana activa → portapapelesbindsym <span class="hljs-variable">$mod</span>+Shift+Print <span class="hljs-built_in">exec</span> scrot -u - | xclip -selection clipboard -t image/png</span>
+<pre><code data-highlighted="yes" class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">Captura de ventana activa → portapapeles</span></code><code data-highlighted="yes" class="hljs language-shell"><span class="language-bash">bindsym <span class="hljs-variable">$mod</span>+Shift+Print <span class="hljs-built_in">exec</span> scrot -u - | xclip -selection clipboard -t image/png</span>
 </code></pre>
+
+
         <script>
         let wdblogTtsSpeaking = false;
         function toggleWdBlogTTS(btn) {
