@@ -15,7 +15,7 @@
     <item>
       <title><![CDATA[Captura de Pantalla con Scrot]]></title>
       <link>https://ugeek.github.io/posts/2026-07-26-captura-de-pantalla-con-scrot.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Introducción Scrot es un programa que toma fotos de tu pantalla Cuando usas una computadora, a veces quieres guardar lo que ves en la pantalla. Scrot es un programa muy rápido, pequeño y ligero que hace exactamente eso, capturar toda la pantalla, solo una ventana, o solo una parte que tú selecciones con el ratón. Ideal para integrar en tu escritorio. Instalación Arch Linux Desde los repositorios oficiales. sudo pacman -S scrot xclip Copiar Nota: Se instala también xclip porque es la herramienta que permitirá copiar la captura directamente al portapapeles en lugar de (o además de) guardarla como archivo. En Debian (y derivados como Ubuntu, Mint) En Debian, scrot se encuentra en los repositorios main: sudo apt update && sudo apt install scrot xclip Copiar Esto instalará tanto scrot como xclip desde los repositorios estables de la distribución. Comandos básicos de Scrot Antes de pasar a la configuración de...]]></description>
       <pubDate>Sun, 26 Jul 2026 11:31:00 GMT</pubDate>
       <category><![CDATA[]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2026-07-26-captura-de-pantalla-con-scrot.html</guid>

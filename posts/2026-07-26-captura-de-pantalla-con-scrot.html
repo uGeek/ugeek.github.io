@@ -16,16 +16,16 @@
     <meta name="twitter:card" content="summary_large_image">
     <link rel="alternate" type="application/rss+xml" title="uGeek. Blog de Tecnología" href="https://ugeek.github.io/blog/feed/">
     <meta name="author" content="Angel">
-    <meta name="description" content="">
+    <meta name="description" content="Introducción Scrot es un programa que toma fotos de tu pantalla Cuando usas una computadora, a veces quieres guardar lo que ves en la pantalla. Scrot es un programa muy rápido, pequeño y ligero que hace exactamente eso, capturar toda la pantalla, solo una ventana, o solo una parte que tú selecciones con el ratón. Ideal para integrar en tu escritorio. Instalación Arch Linux Desde los repositorios oficiales. sudo pacman -S scrot xclip Copiar Nota: Se instala también xclip porque es la herramienta que permitirá copiar la captura directamente al portapapeles en lugar de (o además de) guardarla como archivo. En Debian (y derivados como Ubuntu, Mint) En Debian, scrot se encuentra en los repositorios main: sudo apt update && sudo apt install scrot xclip Copiar Esto instalará tanto scrot como xclip desde los repositorios estables de la distribución. Comandos básicos de Scrot Antes de pasar a la configuración de...">
     <meta property="og:site_name" content="uGeek Blog">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Captura de Pantalla con Scrot">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="">
+    <meta property="og:description" content="Introducción Scrot es un programa que toma fotos de tu pantalla Cuando usas una computadora, a veces quieres guardar lo que ves en la pantalla. Scrot es un programa muy rápido, pequeño y ligero que hace exactamente eso, capturar toda la pantalla, solo una ventana, o solo una parte que tú selecciones con el ratón. Ideal para integrar en tu escritorio. Instalación Arch Linux Desde los repositorios oficiales. sudo pacman -S scrot xclip Copiar Nota: Se instala también xclip porque es la herramienta que permitirá copiar la captura directamente al portapapeles en lugar de (o además de) guardarla como archivo. En Debian (y derivados como Ubuntu, Mint) En Debian, scrot se encuentra en los repositorios main: sudo apt update && sudo apt install scrot xclip Copiar Esto instalará tanto scrot como xclip desde los repositorios estables de la distribución. Comandos básicos de Scrot Antes de pasar a la configuración de...">
+    <meta property="og:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
     <meta property="og:url" content="captura-de-pantalla-con-scrot">
     <meta name="twitter:title" content="Captura de Pantalla con Scrot">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:image" content="">
+    <meta name="twitter:description" content="Introducción Scrot es un programa que toma fotos de tu pantalla Cuando usas una computadora, a veces quieres guardar lo que ves en la pantalla. Scrot es un programa muy rápido, pequeño y ligero que hace exactamente eso, capturar toda la pantalla, solo una ventana, o solo una parte que tú selecciones con el ratón. Ideal para integrar en tu escritorio. Instalación Arch Linux Desde los repositorios oficiales. sudo pacman -S scrot xclip Copiar Nota: Se instala también xclip porque es la herramienta que permitirá copiar la captura directamente al portapapeles en lugar de (o además de) guardarla como archivo. En Debian (y derivados como Ubuntu, Mint) En Debian, scrot se encuentra en los repositorios main: sudo apt update && sudo apt install scrot xclip Copiar Esto instalará tanto scrot como xclip desde los repositorios estables de la distribución. Comandos básicos de Scrot Antes de pasar a la configuración de...">
+    <meta name="twitter:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.1/purify.min.js" integrity="sha512-uHOKtSfJWScGmyyFr2O2+efpDx2nhwHU2v7MVeptzZoiC7bdF6Ny/CmZhN2AwIK1oCFiVQQ5DA/L9FSzyPNu6Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -115,7 +115,6 @@ bindsym <span class="hljs-variable">$mod</span>+Print <span class="hljs-built_in
 <p>Captura de Ventana</p>
 <pre><code data-highlighted="yes" class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">Captura de ventana activa → portapapelesbindsym <span class="hljs-variable">$mod</span>+Shift+Print <span class="hljs-built_in">exec</span> scrot -u - | xclip -selection clipboard -t image/png</span>
 </code></pre>
-
         <script>
         let wdblogTtsSpeaking = false;
         function toggleWdBlogTTS(btn) {
