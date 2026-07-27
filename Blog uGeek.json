@@ -5413,5 +5413,24 @@
     "audioUrl": "",
     "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
     "tootId": "116988876246470040"
+  },
+  {
+    "originalName": "Manjaro Deshabilitar Permanentemente el Protector de Pantalla",
+    "fileName": "manjaro-deshabilitar-permanentemente-el-protector-de-pantalla",
+    "title": "Manjaro Deshabilitar Permanentemente el Protector de Pantalla",
+    "description": "Para asegurarte de que el protector de pantalla esté deshabilitado de forma permanente en Manjaro, puedes seguir estos pasos:Usar la terminal con un comando para desactivarloSi prefieres hacerlo desde la terminal y asegurar que no se active nuevamente:Abre la terminal.Usa el siguiente comando para deshabilitar el servicio del protector de pantalla de forma permanente:sudo systemctl mask xscreensaver.service CopiarPáralo si aún se está ejecutandosudo systemctl stop xscreensaver.service CopiarComprueba si esta corriendo el serviciosudo systemctl status xscreensaver.serviceCopiarDesinstalasudo pacman -R xscreensaver lightdm-gtk-greeter mate-screensaver Copiar",
+    "date": "2026-07-28 00:45",
+    "updatedDate": "",
+    "category": "pantalla",
+    "tags": [
+      "xscreensaver",
+      "protector",
+      "terminal",
+      "manjaro",
+      "pantalla"
+    ],
+    "audioUrl": "",
+    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
+    "tootId": "116994255563827112"
   }
 ]

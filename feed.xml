@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Manjaro Deshabilitar Permanentemente el Protector de Pantalla]]></title>
+      <link>https://ugeek.github.io/posts/2026-07-28-manjaro-deshabilitar-permanentemente-el-protector-de-pantalla.html</link>
+      <description><![CDATA[Para asegurarte de que el protector de pantalla esté deshabilitado de forma permanente en Manjaro, puedes seguir estos pasos:Usar la terminal con un comando para desactivarloSi prefieres hacerlo desde la terminal y asegurar que no se active nuevamente:Abre la terminal.Usa el siguiente comando para deshabilitar el servicio del protector de pantalla de forma permanente:sudo systemctl mask xscreensaver.service CopiarPáralo si aún se está ejecutandosudo systemctl stop xscreensaver.service CopiarComprueba si esta corriendo el serviciosudo systemctl status xscreensaver.serviceCopiarDesinstalasudo pacman -R xscreensaver lightdm-gtk-greeter mate-screensaver Copiar]]></description>
+      <pubDate>Mon, 27 Jul 2026 22:45:00 GMT</pubDate>
+      <category><![CDATA[pantalla]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-07-28-manjaro-deshabilitar-permanentemente-el-protector-de-pantalla.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Qwen3-TTS Un TTS con voz emocional y de baja latencia]]></title>
       <link>https://ugeek.github.io/posts/2026-07-27-qwen3-tts-un-tts-con-voz-emocional-y-de-baja-latencia.html</link>
       <description><![CDATA[El modelo Qwen3-TTS-12Hz-0.6B-Base es un sistema de conversión de texto a voz diseñado para funcionar 100% en local, permitiendo la clonación de voz con solo tres segundos de audio de referencia. Utiliza un proceso de generación de audio a 12 Hz para replicar timbres exactos en diez idiomas distintos de manera fluida y natural. Al operar sin conexión, esta herramienta garantiza privacidad absoluta al no enviar datos a la nube y ofrece una velocidad de procesamiento inmediata. Su capacidad políglota y su funcionamiento fuera de línea lo convierten en una solución segura y versátil para la generación de contenido hablado. La verdad es que su calidad de audio me ha impresionado, así que os recomiendo probalo. Instalación Clonamos repositorio de GitHub. cd git clone -b qwen3-tts-sample https://github.com/john-rocky/litert-samples.git cd litert-samples/compiled_model_api/text_to_speech_lm/pythonpip install ml_dtypes pip install -r requirements.txt Copiar Ya estaría Listo para utilizar Ejemplo de audio Desde la ruta ~/litert-samples/compiled_model_api/text_to_speech_lm/pythonpip install ml_dtypes...]]></description>
@@ -163,14 +171,6 @@
       <pubDate>Fri, 28 Feb 2025 06:37:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2025-02-28-dashboard-y-actualidad.html</guid>
-    </item>
-    <item>
-      <title><![CDATA[Brave , Duck Duck Go]]></title>
-      <link>https://ugeek.github.io/posts/2025-02-17-brave-duck-duck-go.html</link>
-      <description><![CDATA[Brave , Duck Duck Go Post: Brave , Duck Duck Go]]></description>
-      <pubDate>Mon, 17 Feb 2025 10:07:00 GMT</pubDate>
-      <category><![CDATA[Podcast]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2025-02-17-brave-duck-duck-go.html</guid>
     </item>
   </channel>
 </rss>
