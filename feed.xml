@@ -15,9 +15,9 @@
     <item>
       <title><![CDATA[Montar Discos al Inicio]]></title>
       <link>https://ugeek.github.io/posts/2026-08-21-montar-discos-al-inicio.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Montar discos automáticamente al inicio en Linux con fstabSi estás añadiendo un disco duro secundario, un SSD, un pendrive o una partición adicional a tu servidor o PC, la forma más limpia y estándar de dejarlo montado en cada reinicio del sistema es utilizando el archivo /etc/fstab.En esta guía veremos paso a paso cómo identificar tu disco, cómo configurar el montaje automático y el fallo común por el cual no se monta la partición al arrancar.1. Identificar el UUID de la particiónPara no depender de letras de dispositivo como /dev/sdb1 (que pueden cambiar en cada reinicio si conectas un pendrive), utilizaremos el UUID (Universally Unique Identifier).Ejecuta en la terminal:sudo blkid CopiarO también:lsblk -f CopiarVerás una salida similar a esta:NAME FSTYPE LABEL UUID MOUNTPOINT sda ├─sda1 ext4 129e879f-1da7-43b7-a012-41d375840b7a / sdb └─sdb1 ext4 datos 8f7d9a10-4b2c-4e89-a912-3456789abcde CopiarCopia el UUID correspondiente a la partición que deseas montar automáticamente (por ejemplo: 8f7d9a10-4b2c-4e89-a912-3456789abcde).2. Crear el punto...]]></description>
       <pubDate>Fri, 21 Aug 2026 21:23:00 GMT</pubDate>
-      <category><![CDATA[]]></category>
+      <category><![CDATA[HDD]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2026-08-21-montar-discos-al-inicio.html</guid>
     </item>
     <item>
