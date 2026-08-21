@@ -13,6 +13,14 @@
     <atom:link href="https://ugeek.github.io/Blog%20uGeek.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
     <item>
+      <title><![CDATA[Montar Discos al Inicio]]></title>
+      <link>https://ugeek.github.io/posts/2026-08-21-montar-discos-al-inicio.html</link>
+      <description><![CDATA[]]></description>
+      <pubDate>Fri, 21 Aug 2026 21:23:00 GMT</pubDate>
+      <category><![CDATA[]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-08-21-montar-discos-al-inicio.html</guid>
+    </item>
+    <item>
       <title><![CDATA[Brave Contenedores]]></title>
       <link>https://ugeek.github.io/posts/2026-07-30-brave-contenedores.html</link>
       <description><![CDATA[Cuando gestionas múltiples cuentas en internet, como cuentas profesionales, personales o de trabajo, tradicionalmente tendrías que cerrar la sesión y volver a iniciarla, o crear perfiles completamente nuevos en el navegador. Brave ha introducido una función que ya existía hace años en Firefox llamada "Contenedores" para simplificar este proceso. Un contenedor funciona como un espacio aislado que alberga toda la información y las configuraciones de una cuenta específica dentro de una ventana del navegador. Esto permite utilizar diversas cuentas simultáneamente sin que sus datos se mezclen. ¿Qué son los contenedores y para qué sirven? Gestión de múltiples cuentas: Permite iniciar sesión en diferentes servicios (correo, redes sociales, etc.) al mismo tiempo. Cada cuenta mantiene su información separada y organizada. Organización de tareas: Ofrece una forma de segmentar tus direferentes perfiles, asignando contenedores a diferentes proyectos o tipos de actividad para mantener la separación de información. Eficiencia en la configuración: Reduce...]]></description>
