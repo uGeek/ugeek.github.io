@@ -1,5 +1,30 @@
 [
   {
+    "originalName": "Sincronización Automática con Rsync al Inicio del Sistema",
+    "fileName": "sincronizacion-automatica-con-rsync-al-inicio-del-sistema",
+    "title": "Sincronización Automática con Rsync al Inicio del Sistema",
+    "description": "Llevo años peleándome con las copias de seguridad locales y las sincronizaciones en mis equipos. Seguro que quieres que ciertos directorios se sincronicen nada más encender el equipo.Muchos recurren por inercia a crontab con la directiva @reboot, pero si tu script depende de la red o de un disco externo, falla el 90% de las veces. Hoy te explico cómo montar una sincronización automática con rsync usando systemd para que sea robusta, ligera y se ejecute solo cuando el sistema esté realmente listo. Guía para configurar la ejecución automática del script de sincronización rsync_arranque.sh durante el arranque del sistema mediante systemd. ¿Por qué systemd y no crontab? El problema de @reboot en crontab es que es \"ciego\". El script requiere conectividad de red local y acceso SSH. Si se utiliza @reboot, el script intentará ejecutarse antes de que la interfaz de red haya obtenido una dirección IP (vía DHCP) o...",
+    "date": "2026-09-26 14:51",
+    "updatedDate": "",
+    "category": "rsync",
+    "tags": [
+      "rsync",
+      "arranque",
+      "red",
+      "systemd",
+      "script",
+      "online",
+      "ssh",
+      "sincronización",
+      "scripts"
+    ],
+    "audioUrl": "",
+    "imageUrl": "https://ugeek.github.io/blog/images-blog/ugeek.png",
+    "tootId": "117337431159537839",
+    "blogName": "Blog uGeek",
+    "baseUrl": "https://ugeek.github.io/"
+  },
+  {
     "originalName": "Montar Discos al Inicio",
     "fileName": "montar-discos-al-inicio",
     "title": "Montar Discos al Inicio",

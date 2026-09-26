@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sincronización Automática con Rsync al Inicio del Sistema</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://ugeek.github.io/css/stylesheet.css">
+    <link rel="alternate" type="application/rss+xml" href="https://ugeek.github.io/blog/feed.xml" title=":TITLE_BLOG:">
+    <link rel="shortcut icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" type="image/x-icon">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="32x32">
+    <link rel="icon" href="https://ugeek.github.io/icon/ugeek-256x256.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="https://ugeek.github.io/icon/ugeek-256x256.png">
+    <meta property="og:locale" content="es_ES">
+    <meta name="robots" content="index, follow">
+    <meta name="twitter:site" content="@ugeekpodcast">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="alternate" type="application/rss+xml" title="uGeek. Blog de Tecnología" href="https://ugeek.github.io/blog/feed/">
+    <meta name="author" content="Angel">
+    <meta name="description" content="Llevo años peleándome con las copias de seguridad locales y las sincronizaciones en mis equipos. Seguro que quieres que ciertos directorios se sincronicen nada más encender el equipo.Muchos recurren por inercia a crontab con la directiva @reboot, pero si tu script depende de la red o de un disco externo, falla el 90% de las veces. Hoy te explico cómo montar una sincronización automática con rsync usando systemd para que sea robusta, ligera y se ejecute solo cuando el sistema esté realmente listo. Guía para configurar la ejecución automática del script de sincronización rsync_arranque.sh durante el arranque del sistema mediante systemd. ¿Por qué systemd y no crontab? El problema de @reboot en crontab es que es "ciego". El script requiere conectividad de red local y acceso SSH. Si se utiliza @reboot, el script intentará ejecutarse antes de que la interfaz de red haya obtenido una dirección IP (vía DHCP) o...">
+    <meta property="og:site_name" content="uGeek Blog">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Sincronización Automática con Rsync al Inicio del Sistema">
+    <meta property="og:description" content="Llevo años peleándome con las copias de seguridad locales y las sincronizaciones en mis equipos. Seguro que quieres que ciertos directorios se sincronicen nada más encender el equipo.Muchos recurren por inercia a crontab con la directiva @reboot, pero si tu script depende de la red o de un disco externo, falla el 90% de las veces. Hoy te explico cómo montar una sincronización automática con rsync usando systemd para que sea robusta, ligera y se ejecute solo cuando el sistema esté realmente listo. Guía para configurar la ejecución automática del script de sincronización rsync_arranque.sh durante el arranque del sistema mediante systemd. ¿Por qué systemd y no crontab? El problema de @reboot en crontab es que es "ciego". El script requiere conectividad de red local y acceso SSH. Si se utiliza @reboot, el script intentará ejecutarse antes de que la interfaz de red haya obtenido una dirección IP (vía DHCP) o...">
+    <meta property="og:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
+    <meta property="og:url" content="sincronizacion-automatica-con-rsync-al-inicio-del-sistema">
+    <meta name="twitter:title" content="Sincronización Automática con Rsync al Inicio del Sistema">
+    <meta name="twitter:description" content="Llevo años peleándome con las copias de seguridad locales y las sincronizaciones en mis equipos. Seguro que quieres que ciertos directorios se sincronicen nada más encender el equipo.Muchos recurren por inercia a crontab con la directiva @reboot, pero si tu script depende de la red o de un disco externo, falla el 90% de las veces. Hoy te explico cómo montar una sincronización automática con rsync usando systemd para que sea robusta, ligera y se ejecute solo cuando el sistema esté realmente listo. Guía para configurar la ejecución automática del script de sincronización rsync_arranque.sh durante el arranque del sistema mediante systemd. ¿Por qué systemd y no crontab? El problema de @reboot en crontab es que es "ciego". El script requiere conectividad de red local y acceso SSH. Si se utiliza @reboot, el script intentará ejecutarse antes de que la interfaz de red haya obtenido una dirección IP (vía DHCP) o...">
+    <meta name="twitter:image" content="https://ugeek.github.io/blog/images-blog/ugeek.png">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.1/purify.min.js" integrity="sha512-uHOKtSfJWScGmyyFr2O2+efpDx2nhwHU2v7MVeptzZoiC7bdF6Ny/CmZhN2AwIK1oCFiVQQ5DA/L9FSzyPNu6Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<div id="logo"><a href="https://ugeek.github.io"><img src="https://ugeek.github.io/icon/ugeek.png" border="0"  width="90" height="90" alt="uGeek"></a></div>
+<br><br><br><br><br><br><br>
+<script src="../js/main.js"></script>
+<script src="../js/search.js"></script>
+<script type="module" src="../js/mastodon-comments.js"></script>
+
+<div id="name"><a href="https://ugeek.github.io/"><tt>Blog del Podcast</tt></div></a> <div id="icon"> <a href="https://ugeek.github.io/podcast.xml" title="rss" alt="rss"><img src="https://ugeek.github.io/icon/podcast.svg" width="25" height="25" alt="podcast"></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/feed.xml" alt="rss"><img src="https://ugeek.github.io/icon/rss.svg" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://github.com/ugeek"><img src="https://ugeek.github.io/icon/github.svg" width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp; <a href="https://hub.docker.com/search?q=ugeek&type=image" alt="rss"><img src="https://ugeek.github.io/icon/docker.png" width="25" height="25"></a>&nbsp;&nbsp; <a href="https://mastodon.social/@ugeek"><img src="https://ugeek.github.io/icon/mastodon.svg" width="25" height="25" alt="Mastodon"></a>&nbsp;&nbsp; <a href="https://t.me/uGeek"><img src="https://ugeek.github.io/icon/telegram.png" width="25" height="25" alt="Telegram"></a></div> <div id="menu"> <a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp; <a href="https://ugeek.github.io/blog/tag.html"><tt>Tags</tt></a></div>
+
+
+<!-- SEARCH BOX -->
+<input type="text" name="q" placeholder="buscar..." id="tipue_search_input" required> 
+<div align="center" id="tipue_search_content"></div> 
+
+<h1 id="toc-header-1790426637213-0"><span style="font-size: 2.1rem; letter-spacing: -0.035em;">Sincronización Automática con Rsync al Inicio del Sistema</span></h1><div style="font-size:0.9em;color:#666;display:flex;align-items:center;margin-bottom:1em;"><span>Lectura: 4 min. 771 palabras. <a href="../categories/rsync.html">rsync</a></span> 
+        <button onclick="toggleWdBlogTTS(this)" title="Escuchar artículo" style="background:none;border:none;cursor:pointer;color:inherit;padding:0;display:flex;align-items:center;margin-left:8px;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg>
+        </button>
+        </div><div><p style="letter-spacing: -0.1725px;">Llevo años peleándome con las copias de seguridad locales y las sincronizaciones en mis equipos. Seguro que quieres&nbsp;que ciertos directorios se sincronicen nada más encender el equipo.</p><p style="letter-spacing: -0.1725px;">Muchos recurren por inercia a <code style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; color: rgb(16, 185, 129);">crontab</code> con la directiva <code style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; color: rgb(16, 185, 129);">@reboot</code>, pero si tu script depende de la red o de un disco externo, falla el 90% de las veces. Hoy te explico cómo montar una sincronización automática con <code style="font-family: iA-Mono, Menlo, &quot;Courier New&quot;, Courier, monospace; color: rgb(16, 185, 129);">rsync</code> usando systemd para que sea robusta, ligera y se ejecute <em style="color: rgb(6, 182, 212);">solo</em> cuando el sistema esté realmente listo.</p></div><div><br></div>
+<p>Guía para configurar la ejecución automática del script de sincronización <code>rsync_arranque.sh</code> durante el arranque del sistema mediante systemd.</p>
+<hr>
+<h2 id="toc-header-1790426637213-2">¿Por qué systemd y no crontab?</h2>
+<p>El problema de <code>@reboot</code> en crontab es que es "ciego". El script requiere conectividad de red local y acceso SSH. Si se utiliza <code>@reboot</code>, el script intentará ejecutarse antes de que la interfaz de red haya obtenido una dirección IP (vía DHCP) o antes de que el disco esté montado, provocando un fallo silencioso o un error de conexión, no sincronizando los directorios. </p>
+<p>systemd, en cambio, permite definir dependencias explícitas para esperar a que la red esté completamente disponible antes de lanzar la sincronización. Cero dolores de cabeza, cero scripts con <code>sleep 30</code> al principio para "darle tiempo a la red".</p>
+<hr>
+<h2 id="toc-header-1790426637213-3">Requisitos previos</h2>
+<ul>
+<li>Acceso con privilegios de <code>sudo</code>.</li>
+<li>Claves SSH previamente configuradas entre el cliente y el servidor remoto (sin <em>passphrase</em> o usando <code>ssh-agent</code>, para que el proceso no se quede colgado pidiendo interacción).</li>
+<li>Utilizare un ubicado en: <code>/nube/scripts/rsync_arranque/rsync_arranque.sh</code>.</li>
+</ul>
+<hr>
+<h2 id="toc-header-1790426637213-4">Guía de instalación paso a paso</h2>
+<h3 id="toc-header-1790426637213-5">Paso 1: Conceder permisos de ejecución al script</h3>
+<p>Asegúrate de que el script tenga permisos de ejecución asignados:</p>
+<pre><code class="language-bash hljs" data-highlighted="yes"><span class="hljs-built_in">chmod</span> +x /nube/scripts/rsync_arranque/rsync_arranque.sh
+</code></pre>
+<h3 id="toc-header-1790426637213-6">Paso 2: Crear el servicio de systemd</h3>
+<p>Vamos a crear el archivo de unidad (<em>unit file</em>) que le dirá a systemd cómo y cuándo ejecutar nuestro script. Abre tu editor favorito (yo siempre tiro de <code>nano</code> o <code>vim</code>) con permisos de superusuario:</p>
+<pre><code class="language-bash hljs" data-highlighted="yes">sudo nano /etc/systemd/system/rsync-arranque.service
+</code></pre>
+<p>Pega la siguiente configuración. Ojo: recuerda cambiar <code>tu_usuario</code> por el nombre de tu usuario real en el sistema.</p>
+<pre><code class="language-ini hljs" data-highlighted="yes"><span class="hljs-section">[Unit]</span>
+<span class="hljs-attr">Description</span>=Sincronizacion Rsync al arranque
+<span class="hljs-attr">After</span>=network-<span class="hljs-literal">on</span>line.target
+<span class="hljs-attr">Wants</span>=network-<span class="hljs-literal">on</span>line.target
+
+
+<span class="hljs-section">[Service]</span>
+<span class="hljs-attr">Type</span>=<span class="hljs-literal">on</span>eshot
+<span class="hljs-attr">ExecStart</span>=/nube/scripts/rsync_arranque/rsync_arranque.sh
+<span class="hljs-attr">User</span>=tu_usuario
+<span class="hljs-attr">StandardOutput</span>=journal
+<span class="hljs-attr">StandardError</span>=journal
+
+
+<span class="hljs-section">[Install]</span>
+<span class="hljs-attr">WantedBy</span>=multi-user.target
+</code></pre>
+<h3 id="toc-header-1790426637213-7">Paso 3: Recargar, habilitar y probar</h3>
+<p>Una vez guardado el archivo, aplicamos los cambios en el gestor de inicio, lo habilitamos para que arranque siempre y lo lanzamos manualmente una vez para comprobar que no hay errores de sintaxis en nuestro script:</p>
+<pre><code class="language-bash hljs" data-highlighted="yes"><span class="hljs-comment"># Recargar los demonios de systemd</span>
+sudo systemctl daemon-reload
+
+
+<span class="hljs-comment"># Habilitar el servicio para el arranque</span>
+sudo systemctl <span class="hljs-built_in">enable</span> rsync-arranque.service
+
+
+<span class="hljs-comment"># Ejecutarlo ahora mismo para probar (sin necesidad de reiniciar)</span>
+sudo systemctl start rsync-arranque.service
+</code></pre>
+<p>Si quieres verificar que todo ha ido como la seda, revisa los logs con:</p>
+<pre><code class="language-bash hljs" data-highlighted="yes">journalctl -u rsync-arranque.service -e
+</code></pre>
+<hr>
+<h2 id="toc-header-1790426637213-8">Explicación concisa de la configuración</h2>
+<p>No vamos a extendernos en teoría innecesaria, pero es vital que entiendas estas cuatro líneas para que puedas adaptarlas a futuros proyectos:</p>
+<ul>
+<li><code>After=network-online.target</code> y <code>Wants=network-online.target</code>: Aquí está la magia. No solo le decimos que se ejecute <em>después</em> de la red, sino que <em>exigimos</em> (<code>Wants</code>) que el objetivo de "red online" se alcance. Esto espera a que la IP esté asignada y haya conectividad real, no solo a que la interfaz de red "suba".<ul>
+<li><em>Nota pro:</em> Asegúrate de tener habilitado el servicio de espera de tu gestor de red (por ejemplo, <code>sudo systemctl enable NetworkManager-wait-online.service</code> o <code>systemd-networkd-wait-online.service</code>), de lo contrario <code>network-online.target</code> no esperará correctamente.</li>
+</ul>
+</li>
+<li><code>Type=oneshot</code>: Le indica a systemd que este servicio ejecuta un comando, termina y no se queda residente en memoria como un demonio. Es perfecto para tareas de mantenimiento o scripts de <code>bash</code>.</li>
+<li><code>User=tu_usuario</code>: Crucial. Si lo omites, el script correrá como <code>root</code>. Al usar <code>root</code>, <code>rsync</code> buscará las claves SSH en <code>/root/.ssh/</code> en lugar de en tu <code>/home/usuario/.ssh/</code>, y la conexión al servidor remoto será rechazada.</li>
+<li><code>StandardOutput=journal</code>: Redirige la salida estándar y los errores al diario del sistema. Imprescindible para depurar si el servidor remoto cambia su huella SSH o si hay un error de permisos en la carpeta de destino.</li>
+</ul>
+<hr>
+<h2 id="toc-header-1790426637213-9">Conclusión y opinión personal</h2>
+<p>Llevo usando esta configuración en mi servidor de backups y la fiabilidad es del 100%. El consumo de recursos en reposo es literalmente nulo (al ser un servicio <code>oneshot</code>, no consume RAM una vez termina la sincronización) y te ahorra tener que instalar herramientas de terceros pesadas o agentes de sincronización en la nube como puede ser syncthing, etc... que escanean tus archivos.</p>
+<p>Es una solución nativa, ligera, automatizable y que respeta al máximo la filosofía de "hazlo una vez, en texto plano, y olvídame". Si buscas independencia digital y control total sobre tus datos, integrar tus scripts de <code>bash</code> con systemd es un paso obligatorio. </p>
+<p><br></p>
+        <script>
+        let wdblogTtsSpeaking = false;
+        function toggleWdBlogTTS(btn) {
+          if (!('speechSynthesis' in window)) return alert('Tu navegador no soporta Text-to-Speech.');
+          if (wdblogTtsSpeaking) {
+            window.speechSynthesis.cancel();
+            wdblogTtsSpeaking = false;
+            btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+            return;
+          }
+          const clone = document.body.cloneNode(true);
+          clone.querySelectorAll('pre, code, nav, header, footer, script, style, .related-posts').forEach(e => e.remove());
+          const text = clone.textContent;
+          const u = new SpeechSynthesisUtterance(text);
+          u.lang = 'es-ES';
+          u.onend = () => { 
+            wdblogTtsSpeaking = false; 
+            btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>'; 
+          };
+          window.speechSynthesis.speak(u);
+          wdblogTtsSpeaking = true;
+          btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
+        }
+        </script>
+        <br><div class="related-posts"><h3>También te puede interesar:</h3><ul><li><em>2022-06-28</em> - <a href="../posts/2022-06-28-sincronizaciones-remotas-y-locales-con-rsync.html">Sincronizaciones remotas y locales con rsync</a></li></ul></div><br><br>
+<br>
+<h2>Comentarios en Mastodon</h2>
+<mastodon-comments host="mastodon.social" user="ugeek" tootid="117337431159537839" style="width : 1024px"></mastodon-comments>
+<br><p>Publicado el sábado, 26 de septiembre de 2026</p><br><br><br><p style="text-align: center;">Powered by <a href="https://github.com/ugeek/wdblog" target="_blank" rel="noopener">wdblog</a></p><p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>
