@@ -686,6 +686,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ugeek.github.io/posts/2026-09-28-webdav-con-mqtt.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://ugeek.github.io/posts/2026-09-26-sincronizacion-automatica-con-rsync-al-inicio-del-sistema.html</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>monthly</changefreq>

@@ -5,13 +5,21 @@
     <link>https://ugeek.github.io/</link>
     <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
     <image>
-      <url>https://ugeek.github.io/blog/icon/ugeek.png</url>
+      <url>https://ugeek.github.io/icon/ugeek.png</url>
       <title>uGeek Blog</title>
       <link>https://ugeek.github.io/</link>
     </image>
     <language>es</language>
     <atom:link href="https://ugeek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>wdblog</generator>
+    <item>
+      <title><![CDATA[WebDAV con MQTT]]></title>
+      <link>https://ugeek.github.io/posts/2026-09-28-webdav-con-mqtt.html</link>
+      <description><![CDATA[Enlace original En este podcast hablo de cómo combinar el servidor WebDAV con MQTT Y crear algo parecido a lo que serían los servicios o aplicaciones con multiusuarios.]]></description>
+      <pubDate>Mon, 28 Sep 2026 16:17:00 GMT</pubDate>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="true">https://ugeek.github.io/posts/2026-09-28-webdav-con-mqtt.html</guid>
+    </item>
     <item>
       <title><![CDATA[Sincronización Automática con Rsync al Inicio del Sistema]]></title>
       <link>https://ugeek.github.io/posts/2026-09-26-sincronizacion-automatica-con-rsync-al-inicio-del-sistema.html</link>
@@ -163,14 +171,6 @@
       <pubDate>Mon, 07 Jul 2025 06:18:00 GMT</pubDate>
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2025-07-07-gemini-cli-y-mis-ias-favoritas.html</guid>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 2.5 es buenísima]]></title>
-      <link>https://ugeek.github.io/posts/2025-05-27-gemini-25-es-buenisima.html</link>
-      <description><![CDATA[Gemini 2.5 es buenísima Post: Gemini 2.5 es buenísima]]></description>
-      <pubDate>Tue, 27 May 2025 08:34:00 GMT</pubDate>
-      <category><![CDATA[Podcast]]></category>
-      <guid isPermaLink="true">https://ugeek.github.io/posts/2025-05-27-gemini-25-es-buenisima.html</guid>
     </item>
   </channel>
 </rss>

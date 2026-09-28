@@ -1,5 +1,25 @@
 [
   {
+    "originalName": "WebDAV con MQTT",
+    "fileName": "webdav-con-mqtt",
+    "title": "WebDAV con MQTT",
+    "description": "Enlace original En este podcast hablo de cómo combinar el servidor WebDAV con MQTT Y crear algo parecido a lo que serían los servicios o aplicaciones con multiusuarios.",
+    "date": "2026-09-28 18:17",
+    "updatedDate": "",
+    "category": "Podcast",
+    "tags": [
+      "webdav",
+      "mqtt",
+      "servicio",
+      "apps"
+    ],
+    "audioUrl": "https://anchor.fm/s/106db04/podcast/play/126426134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F3c2b9ac0-4278-da0f-f15d-19429906dbee.mp3",
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/72265/72265-1790610969046-cb46709ccca1e.jpg",
+    "tootId": "117349643681680657",
+    "blogName": "Podcast uGeek",
+    "baseUrl": "https://ugeek.github.io/"
+  },
+  {
     "originalName": "Sincronización Automática con Rsync al Inicio del Sistema",
     "fileName": "sincronizacion-automatica-con-rsync-al-inicio-del-sistema",
     "title": "Sincronización Automática con Rsync al Inicio del Sistema",
