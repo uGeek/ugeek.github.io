@@ -30,7 +30,7 @@
       <category><![CDATA[Podcast]]></category>
       <guid isPermaLink="true">https://ugeek.github.io/posts/2026-09-28-webdav-con-mqtt.html</guid>
       <enclosure url="https://anchor.fm/s/106db04/podcast/play/126426134/https%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2026-8-28%252F3c2b9ac0-4278-da0f-f15d-19429906dbee.mp3" type="audio/mpeg"/>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/72265/72265-1790610969046-cb46709ccca1e.jpg"/>
+      <itunes:image href="https://ugeek.github.io/icon/ugeek.png"/>
       <itunes:summary><![CDATA[Enlace original En este podcast hablo de cómo combinar el servidor WebDAV con MQTT Y crear algo parecido a lo que serían los servicios o aplicaciones con multiusuarios.]]></itunes:summary>
     </item>
     <item>
